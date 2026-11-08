@@ -317,6 +317,7 @@ def check_feeds():
 
 
 def main():
+    sys.stdout.reconfigure(line_buffering=True)  # лог в реальном времени
     if "--check-feeds" in sys.argv:
         return check_feeds()
     dry = "--dry-run" in sys.argv
