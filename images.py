@@ -16,25 +16,36 @@ FONTS = Path(__file__).parent / "fonts"
 # ---------- TMDB ----------
 
 def _tmdb(path, **params):
-    key = os.getenv("TMDB_API_KEY", "")
+    key = os.getenv("TMDB_API_KEY", "").strip()
     if not key:
+        print("  ⚠️ TMDB: секрет TMDB_API_KEY пустой или не задан", flush=True)
         return None
-    headers = {}
-    if key.startswith("eyJ"):  # «Read Access Token» (v4)
+    headers = {"accept": "application/json"}
+    if key.startswith("eyJ"):  # «API Read Access Token» (длинный)
         headers["Authorization"] = f"Bearer {key}"
-    else:  # обычный «API Key» (v3)
+    else:  # «API Key» (короткий)
         params["api_key"] = key
     try:
         r = requests.get(TMDB + path, params=params, headers=headers, timeout=20)
-        return r.json() if r.ok else None
-    except requests.RequestException:
+    except requests.RequestException as e:
+        print(f"  ⚠️ TMDB: сеть: {e}", flush=True)
         return None
+    if not r.ok:
+        print(f"  ⚠️ TMDB {path}: {r.status_code} {r.text[:200]}", flush=True)
+        return None
+    return r.json()
 
 
 def tmdb_lookup(kind: str, query: str, year=None):
     """Возвращает (url_картинки, tmdb_id, media) или (None, None, None)."""
     if not query or kind not in ("movie", "tv", "person"):
         return None, None, None
+    res = _lookup(kind, query, year)
+    print(f"  TMDB [{kind}] «{query}» {year or ''} → {'найдено' if res[0] else 'нет картинки'}", flush=True)
+    return res
+
+
+def _lookup(kind, query, year):
     if kind == "person":
         data = _tmdb("/search/person", query=query, language="ru-RU")
         for p in (data or {}).get("results", [])[:3]:
