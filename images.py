@@ -68,6 +68,16 @@ def tmdb_trailer(tmdb_id, media):
             return f"https://www.youtube.com/watch?v={vids[0]['key']}"
     return None
 
+# Издания, у которых главная картинка статьи — чистое фото без логотипа и надписей.
+# У многих русских сайтов (Film.ru, KinoNews и др.) на картинке их логотип и заголовок — такие не берём.
+CLEAN_OG = ("variety.com", "deadline.com", "hollywoodreporter.com", "indiewire.com", "collider.com", "slashfilm.com")
+
+
+def clean_og(url):
+    from urllib.parse import urlparse
+    host = urlparse(url or "").netloc.lower()
+    return any(host == d or host.endswith("." + d) for d in CLEAN_OG)
+
 # ---------- скачивание ----------
 
 def download_image(url: str):

@@ -155,6 +155,7 @@ WRITE_RULES = """Напиши пост по материалам ниже.
 ФАКТЫ: используй ТОЛЬКО факты из материалов. Ничего не придумывай: ни дат, ни цифр, ни имён, ни цитат. Если чего-то нет в материалах — не пиши об этом.
 Если в материалах сказано «по слухам / инсайдеры сообщают / reportedly» — так и подай.
 ИМЕНА И НАЗВАНИЯ: имена — по-русски, как принято в российских СМИ и на Кинопоиске. Фильмы — русское прокатное название, а при первом упоминании зарубежного фильма — оригинальное в скобках: «Дюна» (Dune). Деньги: «$150 млн».
+ЭМОДЗИ: эмодзи заголовка НЕ повторяй в начале первого абзаца.
 ХЭШТЕГИ: 1–3 штуки, по-русски, без пробелов (#Кастинг, #Marvel, #Сборы).
 
 Верни JSON:
@@ -162,11 +163,14 @@ WRITE_RULES = """Напиши пост по материалам ниже.
  "title": "<заголовок>",
  "body": "<текст, абзацы разделены \\n\\n>",
  "hashtags": ["#..."],
- "is_rumor": <true если это слухи/неподтверждённая информация>,
+ "is_rumor": <true если это слухи/инсайд/неподтверждённая информация>,
+ "official": <true если в материалах есть официальный источник: заявление студии/стриминга/компании, пресс-релиз, слова самих создателей или актёров, официальный трейлер, данные о сборах>,
  "is_trailer_news": <true если главная новость — вышел трейлер/тизер>,
  "image": {"kind": "movie" | "tv" | "person" | "none",
            "query": "<ОРИГИНАЛЬНОЕ (обычно английское) название фильма/сериала или имя человека — главный визуальный герой новости>",
-           "year": <год выхода фильма/сериала или null>},
+           "year": <год выхода фильма/сериала или null>,
+           "fallback_kind": "movie" | "tv" | "person" | "none",
+           "fallback_query": "<запасной вариант, если нового проекта ещё нет в базах: оригинальный фильм франшизы, главный актёр или режиссёр>"},
  "banner_tag": "<рубрика 1–2 слова для баннера>"}"""
 
 CHECK_RULES = """Ты — фактчекер. Сверь черновик поста с исходными материалами.
@@ -260,13 +264,25 @@ def make_post(state):
         print("Фактчек поправил:", check.get("problems"))
     post["title"], post["body"] = check.get("title") or post["title"], check.get("body") or post["body"]
 
-    rumor = bool(post.get("is_rumor")) or not confirmed
+    rumor = bool(post.get("is_rumor")) or (not confirmed and not post.get("official"))
+
+    # убрать повтор эмодзи заголовка в начале текста
+    em = (post.get("emoji") or "").strip()
+    if em and post["body"].lstrip().startswith(em):
+        post["body"] = post["body"].lstrip()[len(em):].lstrip()
 
     # картинка: TMDB (постер/кадр/фото) → картинка из статьи → фирменный баннер
     im = post.get("image") or {}
     tmdb_url, tmdb_id, media = images.tmdb_lookup(im.get("kind"), im.get("query"), im.get("year"))
+    if not tmdb_url and im.get("kind") in ("movie", "tv"):  # новый сериал мог завестись как фильм и наоборот
+        other = "tv" if im["kind"] == "movie" else "movie"
+        tmdb_url, tmdb_id, media = images.tmdb_lookup(other, im.get("query"), im.get("year"))
     trailer = images.tmdb_trailer(tmdb_id, media) if post.get("is_trailer_news") else None
-    order = [("article", og_image), ("tmdb", tmdb_url)] if im.get("kind") == "person" else [("tmdb", tmdb_url), ("article", og_image)]
+    fb_url, _, _ = (None, None, None) if tmdb_url else images.tmdb_lookup(im.get("fallback_kind"), im.get("fallback_query"))
+    # картинки из статей берём только у изданий без логотипов и надписей на фото
+    if og_image and not images.clean_og(src_url):
+        og_image = None
+    order = [("tmdb", tmdb_url), ("article", og_image), ("tmdb", fb_url)]
     photo, image_src = None, "banner"
     for kind, url in order:
         photo = images.download_image(url)
