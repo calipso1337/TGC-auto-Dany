@@ -7,7 +7,7 @@ import time
 import requests
 
 API = "https://generativelanguage.googleapis.com/v1beta"
-PREFERRED = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
+ALIASES = ["gemini-flash-latest", "gemini-flash-lite-latest"]  # перегружены чаще — в конце
 _models_cache = None
 
 
@@ -38,15 +38,16 @@ def available_models():
         m = re.search(r"gemini-(\d+(?:\.\d+)?)", n)
         return float(m.group(1)) if m else 0
 
-    order = [os.getenv("GEMINI_MODEL")] + [m for m in PREFERRED if not names or m in names]
-    # остальные доступные flash-модели: новые версии раньше, «lite» и «preview» — в конце
-    order += sorted((n for n in names if ok(n)), key=lambda n: ("lite" in n, "preview" in n, -ver(n)))
+    # самые новые flash-модели первыми; «lite» и «preview» — после; псевдонимы-«latest» — в самом конце
+    order = [os.getenv("GEMINI_MODEL")]
+    order += sorted((n for n in names if ok(n) and n not in ALIASES), key=lambda n: ("preview" in n, "lite" in n, -ver(n)))
+    order += ALIASES
     seen, result = set(), []
     for m in order:
         if m and m not in seen:
             seen.add(m)
             result.append(m)
-    _models_cache = result[:6]
+    _models_cache = result[:8]
     print(f"  Модели Gemini: {', '.join(_models_cache)}", flush=True)
     return _models_cache
 
@@ -62,14 +63,17 @@ def ask_json(system: str, prompt: str, temperature: float = 0.6) -> dict:
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": temperature, "responseMimeType": "application/json"},
     }
+    models = available_models()
     errors = []
-    for model in available_models():
-        for attempt in range(3):
+    for round_ in range(2):  # два прохода по всем моделям; между ними пауза
+        if round_:
+            print("  Все модели заняты, жду 30 с и пробую ещё раз…", flush=True)
+            time.sleep(30)
+        for model in list(models):
             try:
-                r = requests.post(f"{API}/models/{model}:generateContent", headers=_headers(), json=body, timeout=120)
+                r = requests.post(f"{API}/models/{model}:generateContent", headers=_headers(), json=body, timeout=90)
             except requests.RequestException as e:
                 errors.append(f"{model}: сеть: {e}")
-                time.sleep(5)
                 continue
             if r.ok:
                 data = r.json()
@@ -77,23 +81,19 @@ def ask_json(system: str, prompt: str, temperature: float = 0.6) -> dict:
                     parts = data["candidates"][0]["content"]["parts"]
                     text = "".join(p.get("text", "") for p in parts if not p.get("thought")).strip()
                     text = text.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-                    return json.loads(text)
+                    result = json.loads(text)
                 except (KeyError, IndexError, json.JSONDecodeError) as e:
                     errors.append(f"{model}: странный ответ ({e}): {str(data)[:200]}")
                     continue
-            msg = f"{model}: {r.status_code} {r.text[:400]}"
-            print("  ⚠️ " + msg.replace("\n", " "), flush=True)
-            errors.append(msg)
-            if r.status_code in (400, 401, 403):  # проблема с ключом — другие модели не помогут
-                raise RuntimeError("Gemini отклонил ключ. Проверьте секрет GEMINI_API_KEY.\n" + msg)
-            if r.status_code == 429:
-                delay = _retry_delay(r.text)
-                if "limit: 0" in r.text or delay > 60 or attempt == 2:
-                    break  # у этой модели нет бесплатной квоты — следующая
-                time.sleep(delay + 2)
-                continue
-            if r.status_code >= 500:
-                time.sleep(10 * (attempt + 1))
-                continue
-            break  # 404 и прочее — следующая модель
+                models.remove(model)
+                models.insert(0, model)  # следующий запрос — сразу в рабочую модель
+                print(f"  ✓ ответила {model}", flush=True)
+                return result
+            short = re.sub(r"\s+", " ", r.text)[:200]
+            print(f"  ⚠️ {model}: {r.status_code} {short}", flush=True)
+            errors.append(f"{model}: {r.status_code} {short}")
+            if r.status_code in (400, 401, 403) and "API key" in r.text:
+                raise RuntimeError("Gemini отклонил ключ. Проверьте секрет GEMINI_API_KEY.\n" + short)
+            if r.status_code == 404:
+                models.remove(model)  # модель недоступна — больше не пробуем
     raise RuntimeError("Gemini не ответил ни одной моделью:\n" + "\n".join(errors[-6:]))
