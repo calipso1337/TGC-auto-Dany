@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794163885.2055314,
-   "title": "Сериал «Шершни» завершится на четвёртом сезоне",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVzRXd0xGSnJBNTYyWUl1MEp5azhhOTdJM2M3QlFyLTdHX3ZMRVExUHVheW9qelhJRERPV0JzWDRzb3hIXzN0cHhvVGpXSWQta2xXcGs4Z0xheDQ5bzhRY3hVUVMyWUdKTkJBX3hmUmJoc2p2NTBMaFRkQU1xNENLdEkxcEFVLUJubkE5MTRScjZxX1RBa2xqNl9nUnoyWjgwZkVNRVprbEcteEhWVUJtWVVRZFFNU2hfYXhiYTdaZXVVYlZ0Y2EzcTZSWTYzd1lzTjg3bm11QW5jbG41bkE?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794178525.3970933,
    "title": "Стивен Спилберг снимет свой первый вестерн",
    "rubric": "Индустрия",
@@ -1202,6 +1193,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://collider.com/blade-runner-2099-prime-video-november-25-release/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794769775.24876,
+   "title": "Дэвид Литч снял два разных финала для триллера «Как ограбить банк»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://screenrant.com/how-to-rob-a-bank-two-endings-filmed-nicholas-hoult-explained/"
    ],
    "image": "tmdb"
   }
