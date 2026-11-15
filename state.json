@@ -1,55 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794147752.2428324,
-   "title": "Netflix заказал сразу два сезона мультсериала по «Сумеркам»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://www.film.ru/news/multfilm-po-sumerkam-poluchit-srazu-dva-sezona"
-   ],
-   "image": "article"
-  },
-  {
-   "ts": 1794148643.5280895,
-   "title": "Глен Пауэлл может присоединиться к киновселенной DC",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.film.ru/news/glen-pauell-sygraet-v-kinokomikse"
-   ],
-   "image": "banner"
-  },
-  {
-   "ts": 1794148891.6071575,
-   "title": "Восьмое «Паранормальное явление» сменило дату релиза",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.film.ru/news/novuyu-chast-paranormalnogo-yavleniya-perenesli",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkVQQ3FQeXluUVBhSTJNb3hQRVFVeWZKSG9TMkE2ZXhyMF8zYmJyd2RNc3VaRFFCWXZJaS1hOXdURXZEYTV0eVE3SnhZOXNqQ3paTnp1NUFBblpqQy1GVTQ4SzZMSklVSHI0aGxGM21zNWZZYjNkVkczMk0tazk4NVExZmp6SnNFVUJ0X3NvM3JXWGRJenVtOVQtSWEzZkxsUXZlRHEwRFdrTG9WZzVHV0Uxd2g2MTZEcDNtVUQzSzVfQ0JaVFE?oc=5"
-   ],
-   "image": "banner"
-  },
-  {
-   "ts": 1794149315.8445919,
-   "title": "Аниме «Семья шпиона» получит четвёртый сезон и новый фильм",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdS1lRklOWWdQa01laGJ5X1psVUtKcXdjc05kSGY5cXJWeUtZNVdlb25wRjRjMGFzZHd0X2NWUUdBWnhPdzk1Qjl4V0pjVlZBOHpwdi1EcXdTeFVLcTRNZ29vdGJadFVCQTdCT0xXWmx4T2hxUTc0QWRnbS1CNkd1cTVLcmRfbDJTVDBZRUY1MUVMb3I3MThmdzZueDczWlQyU0MyS3hhV3RqaVJ4RkxBR1BrdHBnczZfdGZZM0lyMlIwM01pTkd0LTF5blM2cDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oYTBubFFDa0stdElCZ0JMY0h2QmR6LWZKMm1sREJGaVlIdi1EMVA2TDRSMG1qdktYMnk3OG1hOUl2Wm9FX0U4cHQzbVlPejNBMmpzWm9maUw4OVQ5V2ZZRVdJX21SLUhZZVVkdTZ5NWFlX2tTY1Nv?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RZUjRMYTBjVTNHbUJYLUJqajhxUWRKWm5yalY1TmdjVmUyeTNaeHdZTjB3VzUyb2NsVHpYTExKZmdEWEk4LUNBQS15Qk5ZOENhaVpXOFBxSDU3ZVIwbmRnUTY5RUhPQnhKNU8xZVg4Wk1KYXNhb2ZFc0Q5UDBDRFZvR2xnV1pzWFloNnEtSHFMSWRXWkRvdmVialE?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGR1U0lRZ3I5bTV5TXp5X1RGbDdxQmtSYXRnbmZaVzV4c09EWXV4STFUeDV4Y1doWjdSS29MenVJTTkwVHg4TVUzU2JUR285ZzRxbWJtYmJfTlg3bXVmWVRGVXltZUVUMHpCcV8yTHo4ZEZiaUphTTRDT3g5bW5IQXpWdnVuOThEbExUQVQzM1RwclgzX1pIMkN2WQ?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794149585.0685956,
-   "title": "Фрэнсис Лоуренс хочет снять фильм о Плутархе Хевенсби из «Голодных игр»",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.film.ru/news/rezhisser-golodnyh-igr-predlozhil-ideyu-dlya-novoy-chasti"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794153391.1887758,
    "title": "«Годзилла: Минус ноль» установил исторический рекорд проката в США",
    "rubric": "Касса",
@@ -1215,6 +1166,15 @@
     "https://collider.com/frozen-kristen-bell-idina-menzel-new-disney-series-national-geographic/"
    ],
    "image": "article"
+  },
+  {
+   "ts": 1794755382.437144,
+   "title": "Меч Дарта Вейдера из «Звёздных войн» продали за рекордные $4,875 млн",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali"
+   ],
+   "image": "tmdb"
   }
  ]
 }
