@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794178525.3970933,
-   "title": "Стивен Спилберг снимет свой первый вестерн",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.film.ru/news/stiven-spilberg-snimet-pervyy-vestern"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794214387.6180835,
    "title": "Билл Скарсгард хочет сыграть Джона Константина в новом фильме DC",
    "rubric": "Слухи",
@@ -1229,6 +1220,16 @@
    "rubric": "Сериалы",
    "urls": [
     "https://deadline.com/2026/11/david-tennant-only-murders-in-the-building-doctor-who-future-1237224368/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794798532.2220728,
+   "title": "Гленн Клоуз и Ридли Скотт получили почетные «Оскары»",
+   "rubric": "Премии",
+   "urls": [
+    "https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318/",
+    "https://variety.com/gallery/governors-awards-2026-red-carpet-photos/"
    ],
    "image": "tmdb"
   }
