@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794255548.9573803,
-   "title": "Актеры «Холодного сердца» вернутся к ролям в документальном шоу",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/kristen-bell-frozen-nat-geo-disney-animation-series-1237217388/",
-    "https://screenrant.com/disney-the-real-frozen-national-geographic-original-cast/"
-   ],
-   "image": "article"
-  },
-  {
    "ts": 1794258585.0525637,
    "title": "Финальный трейлер «Бегущего по лезвию 2099» от Amazon",
    "rubric": "Трейлер",
@@ -1334,6 +1324,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxON05DRTBBN0hWTWw3QUU5YTBLSGFRVFpjVUdRZ0dDY1h0d2dnTmJsRWlRY0t3OUR0c2lULTg3TWFRemJQNVlLV1kzT3N2MVRrd3lNbWh6XzUwT0RmOERsMHl5QXo4ZVg2YjlCS0owd2dBSDhNZGs1al9qd1VwMW0xNHFtVXhDYVFkZjZQTGJJNktFZk5vLW03TUpPNUM3NmNjVks1eGZabTc1R1NMME1aaWxZY3pWVHNPRnRDeVNSVnp3ZHNSRkE?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794863250.2887807,
+   "title": "Марго Робби получила роль в новом фильме студии A24",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lc0pmV2VLUVFhcHBSV3NjZDIydVNPYzRMRml5TjJuMVpYMlo5VFpUTmo1LXY2ZUtXb0Q5TjgyeHdXcjNlVGRRd19RWURCVHZhTE56UnhhLUV0VF9TWWg2VlpucnBBTVE?oc=5"
    ],
    "image": "tmdb"
   }
