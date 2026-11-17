@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794316059.9052138,
-   "title": "Трейлер комедийного фэнтези «ФГУП ЛУЧ»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/treyler-seriala-fgup-luch"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794319702.4913058,
    "title": "Сериал «Комар» от Тони МакНамары пополнился новыми актерами",
    "rubric": "Кастинг",
@@ -1329,6 +1320,19 @@
    "rubric": "Сериалы",
    "urls": [
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnhoQmFWR0staDQwS3ZFSkx1M29qS2NuenYwVVpRNHlJZ2dnUEtQMi1wTGc5YVAyRkRMLXR1ZUx0bnd4MGFhNllhR0c5NUVPckJkLUZxWTI5Y3VUQnpoN1BrcXo2cmJHMjg2WmNpZU0wSXJsT0hCTlNZZmJJSllwenNISzBqMHFQU19QUWVDa0RudmY5R2NuVzhXbmFjUmsyb1NSUFg2aWRYbFc5RTZlbmF3SC05U3laMWxHemR5X2R3ckRoNGc?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794921378.3717592,
+   "title": "Брэд Питт хочет сыграть злодея в новом «Бонде» с Паттинсоном",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/global/brad-pitt-robert-pattinson-bond-villain-1236950118/",
+    "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-memes-culture-gen-z-reaction-1236756996/",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tcDVjQ05DZGxUcXlzZXhFM0toQzFPZzdVYWZRUU1CaTlLZmhyUjROYl9kd0dOZF8tMVlodm5OejAzalRtSzliaHZuVFFFMVFkTGt0cGVLbw?oc=5",
+    "https://www.kinonews.ru/news_144187/",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wLXgwTzRJVF9qSXk0NVBGRnBZb3o2ZHY1akZFbjlndmpTX0VJWW9QcDRXOFZYbVc3cFh0Q1RBQnNqY2xBM19Dend2R2FNV2haT0gtTndXWktGVlEwUjFmdkM1MENrcE1hNVc4MGVobnFvR2NPZGd6QXA1WQ?oc=5"
    ],
    "image": "tmdb"
   }
