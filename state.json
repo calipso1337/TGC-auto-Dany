@@ -1,25 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794341492.1764138,
-   "title": "Warner Bros. отменила новый «Кошмар на улице Вязов»",
-   "rubric": "Слухи",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRRUQ0MFBYdVcydDY1eEF0UENtRmFydTVQZGNTZ0dvNTdzeS1iUmNRWG42YmVoNjYzUmxkN2F0ckVFU2sxOU03YjZB?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794344985.1100063,
-   "title": "Александр Скарсгард и Майя Хоук сыграют в драмеди «Признания»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/global/skarsgard-hunter-schafer-maya-hawke-harry-melling-confessions-1236944297/",
-    "https://screenrant.com/alexander-skarsgard-confessions-movie-cast-hunter-schafer-harry-melling/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794348658.4968958,
    "title": "Первый трейлер экшена Karōshi от продюсера «Джона Уика»",
    "rubric": "Трейлер",
@@ -1325,6 +1306,15 @@
    "rubric": "Индустрия",
    "urls": [
     "https://www.slashfilm.com/2319653/cillian-murphy-28-years-later-part-3-condition/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794949845.8859582,
+   "title": "Фильм «Нарния: Племянник чародея» Греты Гервиг выйдет в 2027 году",
+   "rubric": "Премьера",
+   "urls": [
+    "https://collider.com/netflix-narnia-the-magicians-nephew-april-2027-release-date/"
    ],
    "image": "tmdb"
   }
