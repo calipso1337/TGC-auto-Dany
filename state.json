@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794294697.1754797,
-   "title": "Завершились съёмки 4 сезона сериала «Белый лотос»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWm9rNFhwTTZfQW1wZk0zdGxpc1Vqc1A0ZnVyUDVnYTJFRGNod3JoazFtWGNWaVhBUlhwZjNCYkdDLV9qdkI1T2NyYXBLenFpV0lVWlhlQjVGb3ktbW9Fc0l1WWNEYzJYM0FTbWdCN1NoVGJHV0x3V1I5UV9aWFQ4bTQ4NEc5RF9CRHVqZUxtdU1mQl82VTVERkt1YV9IcE50bjVXMHpiSDFWM2xpZUZ5dU13TQ?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794298293.928829,
    "title": "Кира Найтли не помнит цитаты из «Реальной любви»",
    "rubric": "Индустрия",
@@ -1338,6 +1329,15 @@
     "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
     "https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/",
     "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-explains-leonardo-dicaprio-cameo-cliff-booth-fell-apart-1236756581/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794902881.3101053,
+   "title": "Роберт Паттинсон может покинуть роль Бэтмена после второго фильма",
+   "rubric": "Слухи",
+   "urls": [
+    "https://www.kinonews.ru/news_144181/"
    ],
    "image": "tmdb"
   }
