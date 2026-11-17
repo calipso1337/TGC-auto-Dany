@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794308963.1633627,
-   "title": "Жора Крыжовников рассказал о работе над вторым сезоном",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZEJxanZjc05lUEROQnlIN3VmdEFOR043dncySExFWUEycjMtTWxGcWVCR20zLUNKVTB2V1lZUTJxU2Ewei1tTmEybnhjYVNITEZVMjFJZjdwSTRHUXdpYm9VMGJtSWhTckNINk5KM096NmRWcjdsQ2FSWXRCak02T0xEeHN5MjhZUFBBMllraWd4Yzd0UFpWWUVESDJGQTJfNVBXcVhzYzduSTBlQmdhcmJfZnlTMW5kN1FIMUpGRXRWbkZoR1VuZUN6UzkxVS1MNXVVNmZEczRqWkNyMjRPT1ZuS21TQ3F4ZU95azVjX1BzQTM1SFY2YWIxNHROTTBS?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794312712.3316226,
    "title": "Дэниел Рэдклифф не планирует смотреть новый сериал «Гарри Поттер»",
    "rubric": "Индустрия",
@@ -1329,6 +1320,15 @@
    "rubric": "Кастинг",
    "urls": [
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmlwZmZXc2pQbjJPSFpaN0FJVXdvLW5tZkQxMWZKcEhNLW8zMkYxM1MyX0IteTRjZ1FnQU9vU2RDbTkwTVYxR3N1bVcxV2MyRUlKZXZUUVRnbEhldnVMN2xLdUlVdWZPeVZDcnNEQzNJVV9rQnllMl9EQUFXc2ZYaGhOc0N4WTNIT0lRdXBOTzdocDBvblpKRWJDSDRaeUtMTU440gGoAUFVX3lxTE82TDBlVmFaVnZzNGhFTXhWa05yM1FVdmM5Q25hTXZ3ZnNSVXdRb0JZbWl6S2JQbDhVZl8xRGZxNEthLThUVzBIaHBNRk5tWG1QaHYtdF95M01VUlg5dG1JVGxmSmREcTFlYVJvM3lWNGl5WUJMV2ltdEE5cWRBTnh6WHRhSlE3NF9oTW1yVlRIcEFrdDM5eEZhM2lENl9ZTjY5dmJEUGRCTg?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794913840.7803931,
+   "title": "Новая экранизация «Поездки в Индию» от BBC и CBC",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://deadline.com/2026/11/passage-to-india-bbc-cast-ali-fazal-fiona-shaw-tom-mison-1237226368/"
    ],
    "image": "tmdb"
   }
