@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794283829.5439909,
-   "title": "Джулия Гарнер высказалась о судьбе байопика Мадонны",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://deadline.com/2026/11/julia-garner-madonna-biopic-update-1237218202/",
-    "https://variety.com/2026/film/news/julia-garner-madonna-biopic-status-1236943732/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794287303.2491837,
    "title": "Мюзикл о медвежонке Паддингтоне объявил бродвейский каст",
    "rubric": "Театр",
@@ -1339,6 +1329,15 @@
    "urls": [
     "https://deadline.com/2026/11/nicolas-cage-chris-pine-american-epic-series-bj-novak-a24-1237222431/",
     "https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794892092.3119614,
+   "title": "Второй трейлер романтического хоррора «Останься» М. Найта Шьямалана",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.film.ru/news/novyy-treyler-ostansya-m-nayta-shyamalana"
    ],
    "image": "tmdb"
   }
