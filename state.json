@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794337692.447281,
-   "title": "Warner Bros. готовит ребут фильма «Вам письмо»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/youve-got-mail-reboot-warner-bros-1236944210/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794341492.1764138,
    "title": "Warner Bros. отменила новый «Кошмар на улице Вязов»",
    "rubric": "Слухи",
@@ -1316,6 +1307,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://collider.com/ted-the-animated-series-trailer-mark-wahlberg-peacock/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794942632.7762535,
+   "title": "Роб Лоу снимется в хорроре «Третий родитель»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://collider.com/rob-lowe-new-horror-movie-the-third-parent-poster/"
    ],
    "image": "tmdb"
   }
