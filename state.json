@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794348658.4968958,
-   "title": "Первый трейлер экшена Karōshi от продюсера «Джона Уика»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://collider.com/karoshi-trailer-chad-stahelski-action-thriller/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794366579.35385,
    "title": "Умер Стейси Кич — звезда сериала «Майк Хаммер» и фильма «Жирный город»",
    "rubric": "Индустрия",
@@ -1315,6 +1306,16 @@
    "rubric": "Премьера",
    "urls": [
     "https://collider.com/netflix-narnia-the-magicians-nephew-april-2027-release-date/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794953473.4382646,
+   "title": "«Одиссея» Кристофера Нолана получит награду в Палм-Спрингс",
+   "rubric": "Премии",
+   "urls": [
+    "https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/",
+    "https://www.hollywoodreporter.com/movies/movie-news/odyssey-ensemble-performance-award-palm-springs-festival-1236757227/"
    ],
    "image": "tmdb"
   }
