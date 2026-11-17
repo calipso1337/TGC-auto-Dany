@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794262232.9069963,
-   "title": "Ридли Скотт пропустит вручение почетного «Оскара»",
-   "rubric": "Премии",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-academys-governors-awards-honorary-oscar-1236751022/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794280233.062742,
    "title": "Вера Фармига сыграет главную роль в хорроре «Инферно»",
    "rubric": "Россия",
@@ -1334,6 +1325,19 @@
    "urls": [
     "https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564/",
     "https://collider.com/the-terminal-list-prequel-prime-video-cry-havoc/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794884898.888488,
+   "title": "«Человек-паук: Совершенно новый день» вернётся в прокат 4 декабря",
+   "rubric": "Премьера",
+   "urls": [
+    "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/",
+    "https://collider.com/spider-man-brand-new-day-extended-cut-theatrical-release-date/",
+    "https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/",
+    "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/",
+    "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-rerelease-theaters-rosario-dawson-1236756620/"
    ],
    "image": "tmdb"
   }
