@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794312712.3316226,
-   "title": "Дэниел Рэдклифф не планирует смотреть новый сериал «Гарри Поттер»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.kinonews.ru/news_144077/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794316059.9052138,
    "title": "Трейлер комедийного фэнтези «ФГУП ЛУЧ»",
    "rubric": "Трейлер",
@@ -1329,6 +1320,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://deadline.com/2026/11/passage-to-india-bbc-cast-ali-fazal-fiona-shaw-tom-mison-1237226368/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794917716.173279,
+   "title": "Сериал «Медленные лошади» продлили до 10-го сезона",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnhoQmFWR0staDQwS3ZFSkx1M29qS2NuenYwVVpRNHlJZ2dnUEtQMi1wTGc5YVAyRkRMLXR1ZUx0bnd4MGFhNllhR0c5NUVPckJkLUZxWTI5Y3VUQnpoN1BrcXo2cmJHMjg2WmNpZU0wSXJsT0hCTlNZZmJJSllwenNISzBqMHFQU19QUWVDa0RudmY5R2NuVzhXbmFjUmsyb1NSUFg2aWRYbFc5RTZlbmF3SC05U3laMWxHemR5X2R3ckRoNGc?oc=5"
    ],
    "image": "tmdb"
   }
