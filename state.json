@@ -1,24 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794326915.6952415,
-   "title": "Джейсон Момоа вернется в фильме \"Дюна: Часть третья\"",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.kinonews.ru/news_144082/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794330604.0295613,
-   "title": "Джейкоб Элорди сыграет в адаптации «Песни палача»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/jacob-elordi-the-executioners-song-1237217841/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794334066.900544,
    "title": "Годзилла установил рекорд кассовых сборов",
    "rubric": "Касса",
@@ -1327,6 +1309,17 @@
     "https://collider.com/home-alone-macaulay-culkin-kevin-mccallister-return-mcdonalds/"
    ],
    "image": "tmdb"
+  },
+  {
+   "ts": 1794935453.9503858,
+   "title": "Skydance обновила руководство Paramount Pictures и Warner Bros.",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394/",
+    "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/",
+    "https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/"
+   ],
+   "image": "article"
   }
  ]
 }
