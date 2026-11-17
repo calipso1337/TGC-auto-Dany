@@ -1,27 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794287303.2491837,
-   "title": "Мюзикл о медвежонке Паддингтоне объявил бродвейский каст",
-   "rubric": "Театр",
-   "urls": [
-    "https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794290878.7972791,
-   "title": "Первые отзывы на фильм «Эбенезер» с Джонни Деппом",
-   "rubric": "Премьера",
-   "urls": [
-    "https://variety.com/2026/film/news/ebenezer-first-reactions-johnny-depp-hollywood-comeback-1236941249/",
-    "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-first-reactions-scrooge-1236751441/",
-    "https://deadline.com/2026/11/johnny-depp-ti-west-london-ebenezer-global-premiere-1237218130/",
-    "https://variety.com/gallery/jceleb-red-carpet-photos-november-2026/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794294697.1754797,
    "title": "Завершились съёмки 4 сезона сериала «Белый лотос»",
    "rubric": "Сериалы",
@@ -1338,6 +1317,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://www.film.ru/news/novyy-treyler-ostansya-m-nayta-shyamalana"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794895704.683651,
+   "title": "Брэд Питт раскрыл сроки съёмок «Четырнадцати друзей Оушена»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://variety.com/2026/film/columns/brad-pitt-oceans-14-shooting-late-2027-1236950020/"
    ],
    "image": "tmdb"
   }
