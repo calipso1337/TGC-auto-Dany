@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794334066.900544,
-   "title": "Годзилла установил рекорд кассовых сборов",
-   "rubric": "Касса",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9td1lRYzY5MXJTcU1Zd3ZxQW95c1JoSDVxN3BwZ01hRlUzWnFJWUpXSnJvbjhFZldaN1B6OWdOOGlBbGYzTG1Mdm45eGxmdDVQSDBkVnRJRGZxLThRMDJhRUx3ajd1NEk?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGZjeXIwb0Z1S3ZzSXVESjdlVFpuVWFQRXVCNTMtT0dlS3lpcjN6cUM0dzlCZjB1ZHg2MG5XU0FhdlJzMUQ4U0loVDI1QUp4QWNUTWdGZWt5Q1Nfa2ZVZktHeXJYUDlnZkw4N21MWmNZQ2JJdy1JQmdrZXduSFFDTVJVUVYtRURJZ0RKTnFYbWdLN2s?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU25WYU5GTkJFY1NmWmF3THNQREJKZlRLN3hmMlNZT1F3TUJneTRqTG82dEF3UktpejBfNnp0aHJMVzlTcnVkeFZtUkFpbTV0REdwRXlqbno4OGtLb3VZSmZVOWx5NW5NMExPQlFlYkppSDNuS1JmelRUYkJoUE5iVlZBMFRZNlRPTjlKWkhMSHhmYXFkY2RYMg?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794337692.447281,
    "title": "Warner Bros. готовит ребут фильма «Вам письмо»",
    "rubric": "Индустрия",
@@ -1320,6 +1309,15 @@
     "https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/"
    ],
    "image": "article"
+  },
+  {
+   "ts": 1794939148.0077193,
+   "title": "Вышел первый трейлер мультсериала «Третий лишний»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://collider.com/ted-the-animated-series-trailer-mark-wahlberg-peacock/"
+   ],
+   "image": "tmdb"
   }
  ]
 }
