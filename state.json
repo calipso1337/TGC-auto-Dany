@@ -1,25 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794298293.928829,
-   "title": "Кира Найтли не помнит цитаты из «Реальной любви»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/keira-knightley-love-actually-fans-1236943826/",
-    "https://deadline.com/2026/11/keira-knightley-fans-quoting-love-actually-1237218199/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794301724.9890597,
-   "title": "Антонио Бандерас сыграет Эрнана Кортеса в фильме Алекса Пройаса",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.kinonews.ru/news_144075/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794305319.132528,
    "title": "Шестой сезон «Убийств в одном здании» переедет в Лондон и выйдет в декабре",
    "rubric": "Сериалы",
@@ -1338,6 +1319,16 @@
    "rubric": "Слухи",
    "urls": [
     "https://www.kinonews.ru/news_144181/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794906555.2714083,
+   "title": "«Одиссея» Кристофера Нолана вышла в цифре",
+   "rubric": "Цифра",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHpKa2ZhSUhCZmhWdFBtZG5EZWJQOEZYeFRhZFJQLTU4dWk0cERVU2paMmFKd0N1QlpPOVM0V2hvX2RRZDVsR2lIUE5QSmlpUENKcUlXTWFQQkNfN1BxZ0VvS1l4WDByX2doTjM0OW5yVFBlMGZtSERBNFh2cTlYdmdXd181ckpCemI3OGhBUU9STURDTXBOcTBldVNyOTFQUUc5cmV1NDdoSXlSSERTVDFKTXNHM0w5eDRWNUt3bjRnOGFLQkZ0ZjM3ek1IcHVkTnc?oc=5",
+    "https://www.film.ru/news/odisseya-oficialno-v-seti"
    ],
    "image": "tmdb"
   }
