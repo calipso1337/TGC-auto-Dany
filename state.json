@@ -1,25 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794431368.2886782,
-   "title": "Кейт Бекинсейл и Райан Филипп в трейлере «Пациента»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://collider.com/the-patient-trailer-kate-beckinsale-ryan-phillippe/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794434944.972549,
-   "title": "Дилан Спроус и Барби Феррейра сыграют в триллере о Хэмптоне",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/global/dylan-sprouse-barbie-ferreira-sleeping-dogs-of-southampton-1236945239/",
-    "https://deadline.com/2026/11/dylan-sprouse-barbie-ferreira-sleeping-dogs-southampton-1237220431/"
-   ],
-   "image": "article"
-  },
-  {
    "ts": 1794453193.9820013,
    "title": "Триллер «Захват» с Вашингтоном и Паттинсоном выйдет 15 января 2027 года",
    "rubric": "Премьера",
@@ -1296,6 +1277,15 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTllZeE5qdWxCSHpNc0dkNU9oZkVRcXBkak1BY2ZjMkczdUxmSW5HcGx2NW5GMEhEUTRQR3JSZHNPNndtQThwWFNTYmV0RENQenc1QnYwQ1h2WmdOZWlBSl9jazE3XzA0VDcwNXZqRS13WlZxdEVpRnhHMHhtZXdTRlpFakg0QUljM2tSWlhmaE9rM3dYVFZhZ0czQUxIdHF4SVF4WG1n?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGJXQ2Iwbjhra2xKRW1hWVI1anFVaFhoSklRVElyZ1dBZ3dpbHBYYVVqOTIyeFVOZDQxZUkybnQ5V3ZrZVdXZXlIbllVYjNiQmNNcEFHckpZZnRkVG1vZlhDMWp2RXotSUVCcTFXYXZFS2g0WlZhUG0zakdXbHdHWS1JZThqbjVOZk5fU0xSNTVUZS1ndTVDQVI1ajhtQ2tHT0h5SEpnWS1kOFFKcEdkTzUySkFFakNLdFI1TURB0gHDAUFVX3lxTE02YnFNSnFYWFVkMzlsVVNBTHIzb0RRN2VIZnJjR1YtdVluV2Q2X0NLX05JNlBDSGdQS21EZW5iV0cyMlFXdXJRSUY5RGNfbEF0UXdvNkRGN01RMmg3NklndEpab3BLMjBHeFM4VDdUZWpra0pvbFB2VWYwdmtsdHZMYWMyLUpqckZHOU1xVy16azN3UUpLNF9oWjhycUM4NVdEUkd0UHhjdHE2Rmd3XzVjVVpDR1ZjbldtVUxkeEktWFBpdw?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMURwU3prWllPRnJuMmczQ0FtQ0FCN1VUMlRlTDRlUDhrRzJCNHFVN2FsalhDTFpIOWh3QkxpeVF5UDY0YjFYdTBMa3c2eUphQXhUYUJjTy11Y3E4a1VCcVYxMUd4QkxzckN3TnpJVjM4S3lITUhRbnVRaW1aYWN2cnlTT05KU2dNWjVBMVQ0ejZoM29oTUJYaDJoZ2djcUhqUHY4RkZXaw?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795039840.615035,
+   "title": "Пенелопа Крус получит премию в Санта-Барбаре",
+   "rubric": "Премии",
+   "urls": [
+    "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-penelope-cruz-arlington-artist-2027-1236758189/"
    ],
    "image": "tmdb"
   }
