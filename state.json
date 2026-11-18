@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794377322.2934768,
-   "title": "Джейми Дорнан расплакался, когда получил роль Арагорна",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794380981.4161234,
    "title": "«Новые похождения Клиффа Бута» и «Оборотень» получили рейтинг R",
    "rubric": "Индустрия",
@@ -1314,6 +1305,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://www.film.ru/news/treyler-shestyh-ubiystv-v-odnom-zdanii"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794985680.8705077,
+   "title": "Энн Хэтэуэй стала мамой в третий раз",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.film.ru/news/heteuey-rodila-tretego"
    ],
    "image": "tmdb"
   }
