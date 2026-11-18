@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794384927.2408025,
-   "title": "Вышли первые серии третьего сезона сериала «Кольца власти»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa2xET1NQN3JLYlItOGF5U2JOLWJhZmdQdmpHaUpaMWZNTEdEckY1TnVyUjJSaHRsRjNUX1NrTFQyay1PUHV5SXRDUFZPVFNadmtiTTA1VUtvZmhhOXpDdE5rLUFzakpHS1V0Q05CM2xmSWU5TmY4aGUwWkVsdEg3UHU1QURITGxFTWxVQjllclFpbUlBSDF3WnhBUGxxeVFUZjk3cUY5dFB2emMxX0VXbWxVRFI4Wm9HTGI2Y3hlSjljc08tWG5wNV9RYmQ3dVQ0dHp5LXFBTlItQVNDbkZXTDJndWtKU1oxcjVRQzVQYzdwa3JwMWwxZ3JWS3dkQQ?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794388413.153165,
    "title": "Стартовали съёмки «Вовки в Тридевятом царстве» Сарика Андреасяна",
    "rubric": "Россия",
@@ -1314,6 +1305,15 @@
    "rubric": "Кастинг",
    "urls": [
     "https://www.kinonews.ru/news_144201/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794992927.007092,
+   "title": "Новый постер фильма «Бумажный тигр» с Адамом Драйвером",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXB4Y0VhVW1KOWZrS21GTl9DdWZSMFpJTzZBZ1Q4dVBuN2FPMmNQLTVkaVZKcUJ4NzVUWTNlWnFuR1k3WkY2blZPYWk2YkU4T1JsaXV0bzhIRlkxWlF4Zk5iNFcwbzhEWWdjWHdBdjZzTHQ3alNTZDJ6OWlEQnRhTW83Ri1sT1lKUlFyQnZPN2NDVXRpemdkWHRQNDZ4NGxSYVV3b2swd1pWV09kVHlmN3ktSkhocExYdU8yTndxMA?oc=5"
    ],
    "image": "tmdb"
   }
