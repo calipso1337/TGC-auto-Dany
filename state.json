@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794366579.35385,
-   "title": "Умер Стейси Кич — звезда сериала «Майк Хаммер» и фильма «Жирный город»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.indiewire.com/news/obituary/stacy-keach-dead-mike-hammer-fat-city-1235226784/",
-    "https://variety.com/2026/film/news/stacy-keach-dead-mike-hammer-fat-city-1236944687/",
-    "https://deadline.com/2026/11/stacy-keach-dead-mike-hammer-1237219619/",
-    "https://www.hollywoodreporter.com/movies/movie-news/stacy-keach-dead-mike-hammer-fat-city-new-centurions-1236752423/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794370173.1230514,
    "title": "Элизабет Олсен вернётся к роли Алой Ведьмы: тизер в «Квесте Вижна»",
    "rubric": "Сериалы",
@@ -1316,6 +1304,15 @@
    "urls": [
     "https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/",
     "https://www.hollywoodreporter.com/movies/movie-news/odyssey-ensemble-performance-award-palm-springs-festival-1236757227/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794971497.4801424,
+   "title": "Дени Вильнёв назвал фильм «Дюна: Часть третья» лучше первых двух",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
    ],
    "image": "tmdb"
   }
