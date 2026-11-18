@@ -1,26 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794424195.7601185,
-   "title": "Энн Хэтэуэй получит премию American Riviera на фестивале в Санта-Барбаре",
-   "rubric": "Премии",
-   "urls": [
-    "https://variety.com/2026/film/news/anne-hathaway-to-receive-american-riviera-award-1236944527/",
-    "https://deadline.com/2026/11/santa-barbara-film-festival-awards-2027-honorees-1237112049/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794427840.864392,
-   "title": "Первый кадр из байопика о Жозефине Бейкер с FKA Twigs",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/fka-twigs-josephine-baker-first-look-1236753161/",
-    "https://variety.com/2026/film/news/fka-twigs-josephine-baker-maimouna-doucoure-1236944739/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794431368.2886782,
    "title": "Кейт Бекинсейл и Райан Филипп в трейлере «Пациента»",
    "rubric": "Трейлер",
@@ -1295,6 +1275,16 @@
     "https://www.hollywoodreporter.com/movies/movie-news/the-comeback-king-trailer-glen-powell-judd-apatow-country-1236758552/",
     "https://www.indiewire.com/news/trailers/the-comeback-king-trailer-glen-powell-judd-apatow-1235229108/",
     "https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795032655.4012158,
+   "title": "Netflix снимет мультсериал «Грендель» по комиксам Мэтта Вагнера",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/netflix-grendel-animated-series-confirmed/",
+    "https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965/"
    ],
    "image": "tmdb"
   }
