@@ -1,37 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794406127.1600957,
-   "title": "Вышел трейлер шестого и финального сезона сериала «Эмили в Париже»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://deadline.com/2026/11/emily-in-paris-season-6-trailer-greece-1237220061/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794409819.8305476,
-   "title": "Первые отзывы о экшен-триллере «Как ограбить банк» с Николасом Холтом",
-   "rubric": "Рецензии",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-reviews/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz-1236747885/",
-    "https://screenrant.com/ghost-soldier-2026-movie-review/",
-    "https://screenrant.com/nicholas-hoult-how-to-rob-a-bank-first-reactions/",
-    "https://deadline.com/2026/11/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-john-c-reilly-1237220151/",
-    "https://www.indiewire.com/criticism/movies/how-to-rob-a-bank-movie-review-1235226457/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794413261.9431238,
-   "title": "Сильвестр Сталлоне рассказал о завершении вражды с Шварценеггером",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://collider.com/sylvester-stallone-arnold-schwarzenegger-20-year-rivalry/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794417091.9897153,
    "title": "Вышел новый тизер сиквела «Оружейного барона» с Николасом Кейджем",
    "rubric": "Трейлер",
@@ -1308,6 +1277,17 @@
     "https://www.film.ru/news/start-semok-oldskula-3",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODBkSG85dFRsQk9UTUJPR3MxZUcwSXFrNEUzWTB6OHpLQzNfWllhZmJXUFQwOXlvcmxnajhsamNQSkY1a1JaMXh5MDBDNHpYbDRMeDZreGVUQmd2aEU3VUMxc0phSnhwTmVHTVdZUUY0ZU5Obld3ZV8tUmFIa3FzbERzaEtDMnVrS0NCVnd6SmZPUQ?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW9PTWtyb21DSEJLcnRRYTB4NmtVRU1DalNyWDVrUlJoSGxrdDl1VHlUQWE5RlJWY2x1QWowcnNPLW9rRzBINC10c3VxR2tuWUJ0WDFLOE9pZmhSOGE5Y1NoZlphNDdlaDdDbnhXWlBDUElwS0lRN1NLdFR2Y3kwRmVwaFo3Zw?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795018138.1292107,
+   "title": "Раскрыты название и дата выхода новой «Пятницы, 13-е»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY0tHcWxTSVUycHFPaDdJU1l3WXI0WnEyZU5GbUxFVVNHMzJfZ1JLUmVnMHpMU3ZyRld3UlltQllSMXRVMncxN19XZ2dyRHkxZm5oY0hvRkxvZU4tazZUdVlMWXdmdl93OFdTWi0yNmdEWm12NG1Rcy1tY2huR2g1cmNBWUo5aEpQb2J6QzAzQlg5VU5JZEhBcENZRWdTaWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzRyS2FpTFZEMUo4YmFlSWc4Ty00UDFqX3JaYWNpZVpYYlpaZk9FdFRWcThxdUtVYWtvSnhDR2UwRmp4ek1oNTNPZ1Uwd0FURWluQ0M2YUE0VUZzdGdrcVNmQjhpSXZzWEhqQks2WDVyb3dSS2tSem1tV3QwWnlSZElFSHRMRWJnS0FpTTJySV9tMlV3OFVJV1B6aGROazRqTHdfOGUxbnYtdTZpNlgzSGtOYUVuVFI2UWJ3?oc=5"
    ],
    "image": "tmdb"
   }
