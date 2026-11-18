@@ -1,25 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794399295.1154513,
-   "title": "Появились первые отзывы на экшен Дэвида Литча «Как ограбить банк»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/david-leitch-how-to-rob-a-bank-first-reactions-1236752753/",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHRsa1hVZzlydFpIWGJhYVJ5UWk0QjdxX05KdFMyWVB3VXZtR0daelMtSDdGay1oWWI4Y0lKcW5veVJWNFRsZmdHZTkwQnpWN05vSEY5SHRGV3lOUjZ2NkVvdlNJTmwxU1F0MUJyVGl3UU9EbjB1YzBfUUN0NldPQW9nSzVpMFR3RHpPNkFQVFAxd1FGY0g4VExaeG8tQVh6LTBiTXl4dWNfV00?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794402485.294667,
-   "title": "Молли Маккэнн рассказала о приквеле «Голодных игр»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/molly-mccann-hunger-games-sunrise-on-the-reaping-louella-1237216656/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794406127.1600957,
    "title": "Вышел трейлер шестого и финального сезона сериала «Эмили в Париже»",
    "rubric": "Трейлер",
@@ -1316,6 +1297,17 @@
    "urls": [
     "https://collider.com/robert-eggers-werwulf-rated-r/",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wamZFMF9VcDVubmY1YmNkZ2k3N0gtOWROemxkbE81RDUzdFR6OTliaXA1YXRQa2ZsOF9TQ0dTNTVsem5mcWpQa2t0LTRWeGRfX2l3QmEtdTdSTGRzWkNUcy1QYm5UWWFka2Z5cm1uZWtRR2NScHU3Rg?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795007327.0423787,
+   "title": "Стартовали съемки третьего сезона сериала «Олдскул»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://www.film.ru/news/start-semok-oldskula-3",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODBkSG85dFRsQk9UTUJPR3MxZUcwSXFrNEUzWTB6OHpLQzNfWllhZmJXUFQwOXlvcmxnajhsamNQSkY1a1JaMXh5MDBDNHpYbDRMeDZreGVUQmd2aEU3VUMxc0phSnhwTmVHTVdZUUY0ZU5Obld3ZV8tUmFIa3FzbERzaEtDMnVrS0NCVnd6SmZPUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW9PTWtyb21DSEJLcnRRYTB4NmtVRU1DalNyWDVrUlJoSGxrdDl1VHlUQWE5RlJWY2x1QWowcnNPLW9rRzBINC10c3VxR2tuWUJ0WDFLOE9pZmhSOGE5Y1NoZlphNDdlaDdDbnhXWlBDUElwS0lRN1NLdFR2Y3kwRmVwaFo3Zw?oc=5"
    ],
    "image": "tmdb"
   }
