@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794395413.8455992,
-   "title": "Алан Ричсон раскрыл статус съёмок пятого сезона «Ричера»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/alan-ritchson-reacher-season-5-filming-wrap-update/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794399295.1154513,
    "title": "Появились первые отзывы на экшен Дэвида Литча «Как ограбить банк»",
    "rubric": "Премьера",
@@ -1315,6 +1306,16 @@
    "rubric": "Трейлер",
    "urls": [
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlJMdzVMNFNtOEZGX2VEYWhYeGFJVlJwV3M2SE5BQjhLbWJEV21BSTVnU0YwZjlzdV9OQlVkUmV2bmJ0cjEwZVhyVjR4cmtNOU56MVRmcGJ3S09TZEs1b05WNGd1b3VNT3VVVkdtOHRib1N4OWs3MEFob08xN2wwVlVCaXQ5d1hqT1JN0gGQAUFVX3lxTE9QWGJOMFdkbk5oQlZmS0c1NWY1VTNqYWR5d3hmWGdWWkQxQl9ueVl2VFdKczVURzBWSGEyUmJ2a3dZWkhpZHFmRkRxVE5oaEdtcE1QZjFRS2dfR0VVR1phWjgtQW9yNmYzN29uMjJaeUVCTGtEOUpodVFnZWFqaWhZN3gtQUwzbzBDR0oyXzhsTw?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795003842.190402,
+   "title": "Новый хоррор «Вервульф» Роберта Эггерса получил рейтинг R",
+   "rubric": "Премьера",
+   "urls": [
+    "https://collider.com/robert-eggers-werwulf-rated-r/",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wamZFMF9VcDVubmY1YmNkZ2k3N0gtOWROemxkbE81RDUzdFR6OTliaXA1YXRQa2ZsOF9TQ0dTNTVsem5mcWpQa2t0LTRWeGRfX2l3QmEtdTdSTGRzWkNUcy1QYm5UWWFka2Z5cm1uZWtRR2NScHU3Rg?oc=5"
    ],
    "image": "tmdb"
   }
