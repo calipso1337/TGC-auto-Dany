@@ -1,28 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794417091.9897153,
-   "title": "Вышел новый тизер сиквела «Оружейного барона» с Николасом Кейджем",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUlBNZVpJU1E0WHZ0ZmF4UDZ4YVlNSHVubTJJUFp2Ml9BTnJqZmVkaGhxblpVNFR0Uy1DWFNzS1A1N0tvN2ZyWGJubVc0NHdaSFE5V2dXMDFaRHZIRlRGaHdPQ0NvbldQSFVyWXoxZk5XT21BNXVxOVNQd1VGWTNGME9ycnN4a2NTandmWjNfMnNVZzNvUzFTTDNzQzI2cXU4OTJSazk0QXNuY2pldlF4T2dWTDdhTldKd0hXVm5MRG53eWFHeUc0bUs1d0s1TmJvYXc?oc=5",
-    "https://screenrant.com/nicolas-cage-lords-of-war-movie-teaser-2/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794420471.0351424,
-   "title": "Версия «Мстители: Финал. На бис» выходит на Disney+",
-   "rubric": "Премьера",
-   "urls": [
-    "https://variety.com/2026/film/news/avengers-endgame-encore-disney-streaming-release-date-1236821013/",
-    "https://collider.com/avengers-endgame-encore-streaming-release-date-disney-plus-november-2026/",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS29wQklSc2xLd3p5U3hxSEdIc052emRncVVqQXpoQ3RKWXZneEhwdHpqemhYWDM1SkhrNFBZTmEwdkUwMmV5R1EwMk5YSEJ0UkhkV1hYLWRXRWY0MF8weHM2eEN4bE9EWTd3MUI1LVFOb1gwZURWcjV2amg3amszLWJ6RmlUQjNSMGd3Njh4dGhnMV9fN0xUNURpQlBUQ1FUR2hFR1h4TUtpcE1vM3dadFE2dw?oc=5",
-    "https://www.slashfilm.com/2313452/how-watch-avengers-endgame-encore-home/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794424195.7601185,
    "title": "Энн Хэтэуэй получит премию American Riviera на фестивале в Санта-Барбаре",
    "rubric": "Премии",
@@ -1297,6 +1275,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://www.indiewire.com/news/trailers/artificial-trailer-luca-guadagnino-sam-altman-1235229086/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795025393.171853,
+   "title": "Сёстры Вачовски намерены вернуть себе права на франшизу «Матрица»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://collider.com/the-matrix-franchise-reclaim-rights-wachowskis-david-ellison-skydance/"
    ],
    "image": "tmdb"
   }
