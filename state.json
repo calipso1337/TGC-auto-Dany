@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794373650.7410734,
-   "title": "Второй трейлер музыкальной комедии «Дебют» с Джулианной Мур",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/novyy-treyler-debyuta-s-dzhuliannoy-mur"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794377322.2934768,
    "title": "Джейми Дорнан расплакался, когда получил роль Арагорна",
    "rubric": "Кастинг",
@@ -1305,6 +1296,15 @@
    "urls": [
     "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/",
     "https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1794978512.3555038,
+   "title": "Netflix может вернуться в Канны в 2027 году",
+   "rubric": "Фестивали",
+   "urls": [
+    "https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/"
    ],
    "image": "tmdb"
   }
