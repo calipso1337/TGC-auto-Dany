@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794492535.3279653,
-   "title": "Николас Кейдж поставил крест на втором сезоне «Паука-Нуар»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemxrMjRsY1EtWVZIVjhVT09vdjFUbWdUXzRST1Fla0dIWWdodnAxZ3dUaDdUV2xIc1VGc0UxRFVIRlZnWXRCZElzZ2tBMWd2em92UHVHRmEyeXJxX19aaHo3NzZxc05DZUZzVzBnb3B4bXQwTWs5clZuSzdNLWdHdlNNSmg3a0pUNmVObldQelA0TmZuWjZaQWs1UHJFdHdTdzJnbW9QejcyVjdFT050VHlub1pXVGg3Mlkw?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794499743.1505709,
    "title": "Disney+ выпустит документалку «Пробуждение героя» о «Звёздных войнах»",
    "rubric": "Премьера",
@@ -1290,6 +1281,16 @@
    "rubric": "Слухи",
    "urls": [
     "https://www.kinonews.ru/news_144219/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795097581.5230758,
+   "title": "Эдди Редмэйн вернется в сериале «День Шакала» весной 2027 года",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://screenrant.com/the-day-of-the-jackal-season-2-release-window-first-look-peacock/",
+    "https://collider.com/the-day-of-the-jackal-season-2-release-window-2027-teaser/"
    ],
    "image": "tmdb"
   }
