@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794453193.9820013,
-   "title": "Триллер «Захват» с Вашингтоном и Паттинсоном выйдет 15 января 2027 года",
-   "rubric": "Премьера",
-   "urls": [
-    "https://collider.com/the-take-denzel-washington-robert-pattinson-release-date-netflix-january-2027/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794456642.649212,
    "title": "У «Константина 2» появилась надежда после кадровых перестановок в DC",
    "rubric": "Индустрия",
@@ -1298,6 +1289,15 @@
     "https://screenrant.com/chris-pratt-the-traveler-movie-cast-paramount-producing-deal/",
     "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984/",
     "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795061427.6178179,
+   "title": "Тильда Суинтон и Брит Марлинг сыграют в сериале от авторов «ОА»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://deadline.com/2026/11/clandestine-series-paramount-plus-brit-marling-tilda-swinton-1237227752/"
    ],
    "image": "tmdb"
   }
