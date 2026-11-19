@@ -1,25 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794510697.7793512,
-   "title": "Брэд Питт сыграет в драме Connector от режиссёра «Звука металла»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.indiewire.com/news/breaking-news/brad-pitt-connector-sound-of-metal-director-darius-marder-1235227338/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794514061.8784475,
-   "title": "Юра Борисов возвращается в Сибирь в комедии «Кулик»",
-   "rubric": "Россия",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0ZQRzdFVVhYd0Y1aHljVkVZRkhiWDI4MmhHdHhxdGJMWFFNWExBQUJfa1J4dUdaQWlZR2hRTWxsMVdKMlF5MkdWVjJLTUxzTU1FSTN5MTNTdDFLVnZfWkNJdUN6R3ZPbUZ6eERPaHhPUFotVFJyZ09FWVhMa01XNkY5cE5weUpLNlMyQ1lxaFJ4UVZORGk5WGlIcVJOTV91QW5rLTNR?oc=5",
-    "https://www.film.ru/news/yura-borisov-sygraet-v-komedii-kulik"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794517800.8283136,
    "title": "Хью Джекман и Райан Рейнольдс напишут «Мстителей»",
    "rubric": "Индустрия",
@@ -1300,6 +1281,17 @@
    "urls": [
     "https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344/",
     "https://www.indiewire.com/news/breaking-news/gilded-age-renewed-for-fifth-season-hbo-1235229564/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795119255.2062407,
+   "title": "Джуд Лоу и Эндрю Гарфилд в тизере сериала «Дикие вещи»: дата премьеры",
+   "rubric": "Премьера",
+   "urls": [
+    "https://deadline.com/2026/11/siegfried-roy-wild-things-release-date-apple-tv-1237229337/",
+    "https://screenrant.com/andrew-garfield-wild-things-apple-tv-release-date-first-look/",
+    "https://collider.com/wild-things-jude-law-andrew-garfield-siegfried-roy-first-look-release-date-apple-tv/"
    ],
    "image": "tmdb"
   }
