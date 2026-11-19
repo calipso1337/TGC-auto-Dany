@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794470918.280659,
-   "title": "Генри Кавилл поделился деталями сериала по Warhammer 40,000",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://www.kinonews.ru/news_144110/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794474566.8644335,
    "title": "Юрий Быков представил трейлер фильма «Вершина»",
    "rubric": "Трейлер",
@@ -1292,6 +1283,15 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xU09PMEtMdlRhZS0yS0lYTUFkQWtabm4zWGRJWnpZeE9vUmJDYjI1THpYd0RFeGNDRGw1Y0t0ZWFSYzVraTYtdWtPdW91WTVHc3VTT2x3VjlHZUF3MWg3WWpFTjREenc?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1JEZXpXaUhEalBzbW1MemNiSnBfck5oeWd1TWhSYS1sU3A2aTkyZjg3Q2ZrOTNKTjZWbktSQ1FqSjZNX2pFUGJ2U0x1eVlJWHFCeTAwUDZLMU1LaW1Cc1hpTEdKNmh6cU9ZQ2hiU2tUX29iN182Z29YX3dkN1BvZkNJV3dwbUJCS0VN?oc=5",
     "https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795076221.3305004,
+   "title": "Мадонна вернется на экран во 2 сезоне «Киностудии»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVZaT2hCel9kX3U5YXRiQ0YwVUZucUdJM080dEpXdVZTTU1leHpycWxZdVUzUHVpellId2pfc0IzZ2ZTVm42akJfZDBPdEUtWlNXM09zU2JkaEZHT0dGUkZjZTdQbExPOXU0b2NnMjZZOGlmek1mZEppQTF1WWVId0ZZTE1mR0lKMm5XUXdxSTVBU2cwX0QwUTM4OGs3ZkxKbmFyZE1HeFlqbDVBRHpIeG1zZzdoa3JXSnlNeg?oc=5"
    ],
    "image": "tmdb"
   }
