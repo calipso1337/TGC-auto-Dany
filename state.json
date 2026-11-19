@@ -1,26 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794517800.8283136,
-   "title": "Хью Джекман и Райан Рейнольдс напишут «Мстителей»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/avengers-doomsday-ryan-reynolds-hugh-jackman-writers-1236946441/",
-    "https://www.kinonews.ru/news_144126/",
-    "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794521402.3250973,
-   "title": "Арнольд Шварценеггер вернется в «Конана», «Хищника» и «Коммандос»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.kinonews.ru/news_144125/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794539294.489239,
    "title": "Майк Майерс пишет сценарий «Остина Пауэрса 4» и ждёт сольник Ослика",
    "rubric": "Слухи",
@@ -1303,6 +1283,16 @@
     "https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529/",
     "https://www.slashfilm.com/2322359/spider-man-brand-new-day-daredevil-crossover-claire-temple-photo/",
     "https://collider.com/spider-man-brand-new-day-extended-cut-rosario-dawson-claire-temple-return/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795126541.2548296,
+   "title": "Кристофер Нолан объяснил, почему зрители не увидят вырезанные сцены «Одиссеи»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/",
+    "https://www.kinonews.ru/news_144233/"
    ],
    "image": "tmdb"
   }
