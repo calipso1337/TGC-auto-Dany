@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794463752.9406283,
-   "title": "Ребекка Фергюсон и Хавьер Бардем снимутся в фильме «Wet»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/lionsgate-acquires-wet-connor-storrie-rebecca-ferguson-1236753619/",
-    "https://variety.com/2026/film/news/lionsgate-alma-harel-wet-connor-storrie-1236945829/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794467290.367924,
    "title": "Арнольд Вослу вернется к роли Имхотепа в новом фильме франшизы",
    "rubric": "Кастинг",
@@ -1289,6 +1279,16 @@
    "urls": [
     "https://variety.com/2026/film/news/michelle-monaghan-justin-theroux-sleepover-blumhouse-atomic-1236952362/",
     "https://www.hollywoodreporter.com/movies/movie-news/blumhouse-atomic-sleepover-michelle-monaghan-justin-theroux-1236758889/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795068581.6870346,
+   "title": "Пирс Броснан поздравил Роберта Паттинсона с ролью Джеймса Бонда",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669/",
+    "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112/"
    ],
    "image": "tmdb"
   }
