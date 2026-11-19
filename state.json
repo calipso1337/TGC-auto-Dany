@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794499743.1505709,
-   "title": "Disney+ выпустит документалку «Пробуждение героя» о «Звёздных войнах»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://collider.com/star-wars-the-hero-awakens-documentary-disney-plus-2027/",
-    "https://www.mirf.ru/news/po-zvezdnym-voinam-vypustyat-dokumentalnyi-film"
-   ],
-   "image": "article"
-  },
-  {
    "ts": 1794506967.463918,
    "title": "Pixar представила трейлер мультфильма «Гатто» с Марком Руффало",
    "rubric": "Трейлер",
@@ -1293,6 +1283,16 @@
     "https://collider.com/the-day-of-the-jackal-season-2-release-window-2027-teaser/"
    ],
    "image": "tmdb"
+  },
+  {
+   "ts": 1795108370.436187,
+   "title": "Раскрыт актерский состав сериала «Жизнь после Арчи»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://deadline.com/2026/11/after-life-with-main-archie-cast-disney-comics-1237228462/",
+    "https://collider.com/afterlife-with-archie-disney-plus-main-cast-riverdale/"
+   ],
+   "image": "article"
   }
  ]
 }
