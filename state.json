@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794474566.8644335,
-   "title": "Юрий Быков представил трейлер фильма «Вершина»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldaT2d1NnNMUEtiRXhiQXJySnRscGtleU42cUloRUZENlhCVXpCUVpHRElwTkh3VnhFbl9wNzNYN05lOWxRNkFrV1pkUV9qeENyb0VKUlhvOWk2SllXZG1Gc2tqWnZzLTZtd0dDRTRxRWxVdjRKV192emN5dll6MC1CQ1diVWlyTG84R01yUmpFNzZId25UR0NyOV9zM3MzNkpDekdMaw?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794478256.0521145,
    "title": "Николь Кидман получит почётную премию «Сезар»",
    "rubric": "Премии",
@@ -1292,6 +1283,15 @@
    "rubric": "Кастинг",
    "urls": [
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVZaT2hCel9kX3U5YXRiQ0YwVUZucUdJM080dEpXdVZTTU1leHpycWxZdVUzUHVpellId2pfc0IzZ2ZTVm42akJfZDBPdEUtWlNXM09zU2JkaEZHT0dGUkZjZTdQbExPOXU0b2NnMjZZOGlmek1mZEppQTF1WWVId0ZZTE1mR0lKMm5XUXdxSTVBU2cwX0QwUTM4OGs3ZkxKbmFyZE1HeFlqbDVBRHpIeG1zZzdoa3JXSnlNeg?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795079441.4706633,
+   "title": "Джон Траволта дважды отказался от сценария «Без лица 2»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.kinonews.ru/news_144217/"
    ],
    "image": "tmdb"
   }
