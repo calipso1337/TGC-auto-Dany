@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794600581.749129,
-   "title": "Тизер финального сезона «Эмили в Париже»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlJQV2FXRE9CVUlNallWek9MeVZvdjNVeVhXOVJQSmhCdm00YWRHRk5uWnpDLU5MQ2o4U21PcGZaWEpiSTBlZmp0REZ4RklrelVBMlNHWE9lX3gzcFY2M0FKTmFVVEJrRDItRkVMZHNXSlZqWHBPYVF3NHh0M2stNzliR3RGNXNjMV9sZWJQaHB3Nk9DN3FzczhnTTNjOTVvMjZYYlRqQmdRMmlmSFRPN0RlZDhsT285ZVJoSjZn?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794604289.4944067,
    "title": "Netflix показал кадр из мультсериала Planeswalker по Magic: The Gathering",
    "rubric": "Сериалы",
@@ -1298,6 +1289,17 @@
     "https://collider.com/home-alone-reboot-macaulay-culkin-returning/",
     "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/",
     "https://screenrant.com/home-alone-reboot-macaulay-culkin-development-report/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795209083.0596497,
+   "title": "Стерлинг К. Браун сыграет с Николасом Кейджем в новом «Собирателе душ»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/sterling-k-brown-new-longlegs-movie-nicolas-cage-1236954539/",
+    "https://collider.com/nicolas-cage-longlegs-spin-off-cast-sterling-k-brown/",
+    "https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255/"
    ],
    "image": "tmdb"
   }
