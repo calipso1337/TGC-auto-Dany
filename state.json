@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794546863.4080281,
-   "title": "Фрея Аллан сыграет главную роль в хорроре «Система»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794550185.5900817,
    "title": "Второй трейлер мультфильма Рэй Ганн от Брэда Берда",
    "rubric": "Трейлер",
@@ -1305,6 +1296,15 @@
     "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/",
     "https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907/",
     "https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-ending-explained/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795154927.5116215,
+   "title": "«Мстители: Судный день»: предпродажи билетов приближаются к ₹50 крор",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQU1h2MEQ0ZUpDUzdES3JXN3d5YzRLV0VqRkhGQ2hhczBKNDVob0VNQnU3MFJwZE1WLTA4dWNhcHc0al9kaklZLXA5QTZzb3lXZVhGdTV2dWU4OTUzcnBHZFkxNGY2c2N4SGIwNU1KTzZlV1dPZVZHVnd1cERnX01hU1lUdXBfU1BZcUU5WExuV1hidDF2eWtIbVlMb2FVVTRza1otWk5jV19kWU9JQ2JvQzFPemMxVEtWOGl5WWthUG1oYVcxQ3E0TTdUVDFJWS16ck9FX3ltSjBGVG5ORVczRDY3U2lQTEV6eTFTRjA3ZTQ4VExSWERRUklpU3o2LTFfVW5sZ3NBanZ1UFAtdXlydjZNelRfRjY5Q3ZoSEFNaTFUZjFyQ0E4cEpvakdVMUtnN2hUcHNYeFBBaTQ1N1Z3V2NvekpWNDZ3ME1MRWdiUG7SAdYCQVVfeXFMTU9QcTU3TzNsUnRUejRsTHd2UEU4MERWMkpNV0tBTi1Vc0V6NVVjUHlqd05ZVHJmYjlYUU41dDkta0hDbUxTN1ZRbVQxZ2JGVmpjQmJJNlYwQjYwLTZibWlDX2QyX3c2YUNqVjZ2Y1plUFBFZ1p6VGc0eUVXQWprcndWeVFNMGVxWmFpR1hmQXBDSWk2Y0YzeFFBc2o5bzYtU2czVENXMENEcGN0MWQya3Fya1FQdElRN0trcEpyeXNFdE01SUtGbFlQVVFveU0wWWVzSVpoZFVoOE5CLVdEbHpfdUxNaWFiWjJ2NVV6OE5sN196OGRlTGVnT2RvdGNFVUsxRXlTQTFnQW93RFlwMlRvTkRRNTJOcU43QkIwWVFCRmk0VjBVOWFOQUVkVld2WXVyRWlsdzB0OE5IckdxdnlKTWxGeVJzVjBib1BWMTk3SzN3Yl9B?oc=5"
    ],
    "image": "tmdb"
   }
