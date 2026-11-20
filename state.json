@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794578979.246235,
-   "title": "Вышел трейлер сериала «Афера Томаса Крауна» с Майклом Б. Джорданом",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.kinonews.ru/news_144139/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794582621.1924503,
    "title": "Джон Хэмм и Эндрю Кодзи сыграют в триллере «Лягушка-бык»",
    "rubric": "Кастинг",
@@ -1292,6 +1283,16 @@
    "rubric": "Индустрия",
    "urls": [
     "https://www.kinonews.ru/news_144236/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795183967.717022,
+   "title": "Киран Калкин воссоединится с создателем «Наследников»",
+   "rubric": "Кино",
+   "urls": [
+    "https://deadline.com/2026/11/kieran-culkin-reunite-succession-jesse-armstrong-movie-1237230018/",
+    "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/"
    ],
    "image": "tmdb"
   }
