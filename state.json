@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794571697.7415187,
-   "title": "Роберт Дауни мл. рассказал о роли Доктора Дума в «Мстителях: Судный день»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.kinonews.ru/news_144135/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794575298.5609334,
    "title": "Новая «Пятница, 13-е» выйдет в 2027 году",
    "rubric": "Индустрия",
@@ -1295,6 +1286,16 @@
    "rubric": "Касса",
    "urls": [
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3h2a3BfNDdkV1VkTTRvSzIyS19ibndZRFo5Q3Z1NnEtYWliQW96ZjVuU3VuY1QxQlZhSzBZRUUtUWhkc2UzeDlQMEpDTWwyQklZVy1xa2hOYTh2VlFrTjBrSkIzYWRFRTVXQ1dCZE9LTENldUY1TE0yNERuWDlFaXl3RlZFcnphUlJ3WjhCcTlfUFJJOWRkem9xTEtXMENMQVl6a2lRczZ0VTQ0NzMzbXFKMDRnTk5idkRnZERrT2ZqN0NQWU83dmlIVnpQMFg4Y2I5QUtzZ1ZYVWk5WWd5em5QTmNwQQ?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795176644.7983875,
+   "title": "Фильм «Новые похождения Клиффа Бута» получил 84% на Rotten Tomatoes",
+   "rubric": "Премьера",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNnFtN3V3cHFjMEhuQktEMWprY2s2R1RBeWxKc0Z6eG9OLUdlQVF4TWs4U0hXczdwRTlHRmppV29memRqa1FoWVVMWHAtNnBDdlE?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW13YmlsZ09VeWJsdWwyX3g4eDhKM2hGSHR6ZTdUbDBhLWVGUHliYTB5UzBmTmlPamdNUXBtRW1iWjNxVlVCZEFCUnFnMmVuSWxRR1pGbmNXaERQazgxNEQyblc2bTczaWprMUVRZlJSaEdMZFhvRkp1SUNxM244OUt4Y2lmei02dnRVSTFfN3lQYWpqdkRSUGdoMFQxY0N3T2tVVVRIMDFlQ2JSM2RxeWh30gG3AUFVX3lxTE5qeFREX1Z6dkNOcTNYLVJYbzFRVlo4SWNhSHJrd0E4aWdVTzY4eHVvSk5GQk00WFNrNjZ2T0dUNWhZdTE3dDljeUx1OHJnX2ZmakJVOE0xQThiTmFoMUpKQkNYOUZ2elRTZTU0S2J5N3NFQjc4MXQ5RjkxNzhKaHdsU3hxNWVwMTBQOG03QTRhNG9Ba0c5WjkwMWxNZlppbUliaDF3Q2JNV285WThMOEh0dnN3blpTQQ?oc=5"
    ],
    "image": "tmdb"
   }
