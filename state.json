@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794596852.2024658,
-   "title": "Марго Робби сыграет в новом фильме Кристоффера Боргли",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/margot-robbie-a24-the-week-of-pain-kristoffer-borgli-1236947188/",
-    "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794600581.749129,
    "title": "Тизер финального сезона «Эмили в Париже»",
    "rubric": "Трейлер",
@@ -1296,6 +1286,18 @@
     "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282/",
     "https://collider.com/polly-pocket-movie-cast-lili-reinhart-talks/",
     "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795201721.091194,
+   "title": "Маколей Калкин вернётся к роли Кевина в продолжении «Один дома»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://variety.com/2026/film/news/home-alone-reboot-disney-macaulay-culkin-seth-rogen-1236954344/",
+    "https://collider.com/home-alone-reboot-macaulay-culkin-returning/",
+    "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/",
+    "https://screenrant.com/home-alone-reboot-macaulay-culkin-development-report/"
    ],
    "image": "tmdb"
   }
