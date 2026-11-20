@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794539294.489239,
-   "title": "Майк Майерс пишет сценарий «Остина Пауэрса 4» и ждёт сольник Ослика",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/mike-myers-shrek-spinoff-donkey-austin-powers-4-1236754333/",
-    "https://screenrant.com/shrek-spinoff-donkey-mike-myers-casting/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794542850.145341,
    "title": "Сериал «Пятно» с Клэр Дэйнс и Юэном Макгрегором выходит 13 января",
    "rubric": "Сериалы",
@@ -1293,6 +1283,15 @@
    "urls": [
     "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/",
     "https://www.kinonews.ru/news_144233/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795144214.3057444,
+   "title": "Вышел основной трейлер мультфильма «Ледниковый период 6»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.film.ru/news/osnovnoy-treyler-lednikovogo-perioda-6"
    ],
    "image": "tmdb"
   }
