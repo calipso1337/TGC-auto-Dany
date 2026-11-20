@@ -1,24 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794550185.5900817,
-   "title": "Второй трейлер мультфильма Рэй Ганн от Брэда Берда",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/rey-gann-poluchil-novyy-treyler"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794553853.2158663,
-   "title": "Гамбит против Шан-Чи на свежем кадре «Мстителей: Судный день»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEhhSmV3b0RNRzh4dS11YzBpYlpwUmYzUUhhQ1d6ZUtzYnBmSUdWckYzTnRrMTBydE14eC1nSS0wdmliWjVnaXBrY1Jha3I5REVFdlk0Rm9jUDYyS0VpOHVoTlB1bE1NZDRqZC1vMEJ2XzYzVTc2NUlnNmtCVkhFSHpDN0gxdDl3M2JXeGRJQnRFWHBpdXlfQ09TWnFLR3BzMWROMW5HRFRFSGdfQkp2RmFGS2xwa2tKSkE?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794557520.9179077,
    "title": "Расширенная версия «Человека-паука: Новый день» выйдет 4 декабря",
    "rubric": "Премьера",
@@ -1305,6 +1287,16 @@
    "rubric": "Касса",
    "urls": [
     "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQU1h2MEQ0ZUpDUzdES3JXN3d5YzRLV0VqRkhGQ2hhczBKNDVob0VNQnU3MFJwZE1WLTA4dWNhcHc0al9kaklZLXA5QTZzb3lXZVhGdTV2dWU4OTUzcnBHZFkxNGY2c2N4SGIwNU1KTzZlV1dPZVZHVnd1cERnX01hU1lUdXBfU1BZcUU5WExuV1hidDF2eWtIbVlMb2FVVTRza1otWk5jV19kWU9JQ2JvQzFPemMxVEtWOGl5WWthUG1oYVcxQ3E0TTdUVDFJWS16ck9FX3ltSjBGVG5ORVczRDY3U2lQTEV6eTFTRjA3ZTQ4VExSWERRUklpU3o2LTFfVW5sZ3NBanZ1UFAtdXlydjZNelRfRjY5Q3ZoSEFNaTFUZjFyQ0E4cEpvakdVMUtnN2hUcHNYeFBBaTQ1N1Z3V2NvekpWNDZ3ME1MRWdiUG7SAdYCQVVfeXFMTU9QcTU3TzNsUnRUejRsTHd2UEU4MERWMkpNV0tBTi1Vc0V6NVVjUHlqd05ZVHJmYjlYUU41dDkta0hDbUxTN1ZRbVQxZ2JGVmpjQmJJNlYwQjYwLTZibWlDX2QyX3c2YUNqVjZ2Y1plUFBFZ1p6VGc0eUVXQWprcndWeVFNMGVxWmFpR1hmQXBDSWk2Y0YzeFFBc2o5bzYtU2czVENXMENEcGN0MWQya3Fya1FQdElRN0trcEpyeXNFdE01SUtGbFlQVVFveU0wWWVzSVpoZFVoOE5CLVdEbHpfdUxNaWFiWjJ2NVV6OE5sN196OGRlTGVnT2RvdGNFVUsxRXlTQTFnQW93RFlwMlRvTkRRNTJOcU43QkIwWVFCRmk0VjBVOWFOQUVkVld2WXVyRWlsdzB0OE5IckdxdnlKTWxGeVJzVjBib1BWMTk3SzN3Yl9B?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795158706.1135716,
+   "title": "«Клара и Солнце» с Дженной Ортегой выйдет в цифре 8 декабря",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.film.ru/news/onlayn-reliz-klary-i-solnca",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZXdkMEFSUUhaY3M4S1Y4QWhEYnIzT2pYX3hTRU5kc0trbHJyVFFYZmRkS3hMLU1aT3hEMmVmLVV2d0VIc2NMWFdMVV9wMkFQdVd3b2lyN1Y2TEF6b2prSUp3?oc=5"
    ],
    "image": "tmdb"
   }
