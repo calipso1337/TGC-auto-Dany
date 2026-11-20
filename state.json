@@ -1,26 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794582621.1924503,
-   "title": "Джон Хэмм и Эндрю Кодзи сыграют в триллере «Лягушка-бык»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/global/jon-hamm-andrew-koji-takashi-miike-tokyo-bullfrog-mk2-1236946806/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794586066.9759748,
-   "title": "Возвращение Джонни Деппа: сборы фильма «Эбенезер»",
-   "rubric": "Касса",
-   "urls": [
-    "https://deadline.com/2026/11/box-office-ebenezer-1237222749/",
-    "https://variety.com/2026/film/box-office/box-office-ebenezer-previews-johnny-depp-1236946391/",
-    "https://www.slashfilm.com/2315819/johnny-depp-ebenezer-a-christmas-carol-story-change/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794589718.9239376,
    "title": "Сериал «Девственница Ривер» продлен на 9 сезон",
    "rubric": "Сериалы",
@@ -1303,6 +1283,19 @@
    "urls": [
     "https://screenrant.com/mobland-season-3-filming-tom-hardy-return/",
     "https://collider.com/mobland-season-3-filming-begins/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795191234.2303357,
+   "title": "Второй сезон «Презумпции невиновности» выйдет 19 февраля 2027 года",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://deadline.com/2026/11/presumed-innocent-season-2-release-date-photos-teaser-1237229678/",
+    "https://www.kinonews.ru/news_144242/",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkpudm91SXVGeVk4eGl3WFhqTUw4QURqTXVrdlFQaEhuclNEYWlCQmUtX1RPLXh6UlJrTTFzTGJrby1sZU5QNklyRjRjSDhkeFdmZmlkMGJGWjV6X014b1NfX2JoYVJUekFnV2pHTllyQXEtZjY5WUthS3VXeWNBbEdoT2lRSmVIQjllNkFtU3FQbFo0dWdWUmdfZlZjMWUxR0puTExsQ1UyaDE3X0JId1poM29qTkI2MTc0dHlrQ0J4SmpvM1HSAcsBQVVfeXFMTnJPOExsZk05eWlKWXpUcXB5WWRFNEJMZ2YyMzFuS2FOUHlFVk9EZDZWd3ZUck55Q0NHbVpWT3ZBWXlXYk1fY0w5azROVnBjS0dadGxuSWNLR3Z0b3U5azk4YTFkdkVfd2pqaTJNSWYwMW8tRWZZdXZJWUxSekR1eHFCZ3Mzc05qZXdsNGpIVFd6ZWFWem83VWlTQkkxVXJ0NEJrR3BmenB4OWlSQUpVRTdiSW5tVU5iU3k1Y3JHTkQzOXc1TmVWbl9Gb3c?oc=5",
+    "https://www.film.ru/news/tizer-vtoroy-prezumpcii-nevinovnosti",
+    "https://collider.com/presumed-innocent-season-2-release-date-teaser/"
    ],
    "image": "tmdb"
   }
