@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794568151.154119,
-   "title": "Состоялась мировая премьера фильма «Скрудж» с Джонни Деппом",
-   "rubric": "Премьера",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1FDYTRJd1AxR016YUdlREk5c1BTUDFZNVVmNXYxRUpiNXhTLXg4ZnhaOV9MeWp0WkFvdUVJREU1amc3MWZkcjVSZG51T3Bldmp0TnR3dVNuQlZHc0pSNTg1RHNyNW9QSWxoX1g1bVdrODU1VWlfaWx0M3JSOUhYcXJES1dkb1VGbjBGWlYtWWo5VmxPNWMtdWJuVW5RLWVkNFdNQ0JnaFpQbGY5UGhPbVpOUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXpzb1poMURWSFg2WFoyaVlzbVpPUEJpWlRITjVWVjlzdVVPc0h0dzdJQUJxTjUwU0dzb05oMUhBY3RDYThuNUhLODlyWW9XbUhteThzMFFaV2JvZDFpTnRsdWtCaTZBaVo3bEV1bmg4Z1pwVVdHTU1LUXF1akRIZEwySzlRMW1rYjBlbkdKWlpHb2pLUy1hNU9VUlNoc3RmNUVOdXZjTjZmS2JkaUxHWjJaVl9RWmpZQ3hEZkFrT05mODlJZ1VyR9IBwwFBVV95cUxNVy1xVUZqaG5aQzczVXdtcG9UbWY2MVlzMWJvTG1MRHIyek5UYlpkaWE3ZTJFckk5SkdKdHUyOFkyWldMYWZINm91MVBXVHQ1UDUyMG5QUjJNNmlvcVpzWE1lQ0d0a25xUWN6ajVoMkxVQUVQRjNtbmxjczQ3QVVsLURtMmE4dGN3SmVtbkJaYS1XaHpidjl3bU9KZDJhZUpRMVB0bTdUeWhYTlJYVlZ6ZEZjN0tlVks0SjhyRmtZQm94Qk0?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794571697.7415187,
    "title": "Роберт Дауни мл. рассказал о роли Доктора Дума в «Мстителях: Судный день»",
    "rubric": "Кастинг",
@@ -1296,6 +1286,15 @@
    "rubric": "Индустрия",
    "urls": [
     "https://www.kinonews.ru/news_144237/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795172968.5484428,
+   "title": "«Человек-паук: Новый день» собрал $1,7 млрд и вошёл в топ-10 в истории",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3h2a3BfNDdkV1VkTTRvSzIyS19ibndZRFo5Q3Z1NnEtYWliQW96ZjVuU3VuY1QxQlZhSzBZRUUtUWhkc2UzeDlQMEpDTWwyQklZVy1xa2hOYTh2VlFrTjBrSkIzYWRFRTVXQ1dCZE9LTENldUY1TE0yNERuWDlFaXl3RlZFcnphUlJ3WjhCcTlfUFJJOWRkem9xTEtXMENMQVl6a2lRczZ0VTQ0NzMzbXFKMDRnTk5idkRnZERrT2ZqN0NQWU83dmlIVnpQMFg4Y2I5QUtzZ1ZYVWk5WWd5em5QTmNwQQ?oc=5"
    ],
    "image": "tmdb"
   }
