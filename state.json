@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794589718.9239376,
-   "title": "Сериал «Девственница Ривер» продлен на 9 сезон",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/virgin-river-season-9-renewed-netflix/",
-    "https://news.google.com/rss/articles/CBMipgNBVV95cUxPazJURmZKUTBUSTk4RlpscXF2N29YMDFCNnd4b18xcTlmTGdLZkpLeDBkd2ItZDFjd0diWHl4Q2ExMkxLRF9EazgxVzF4QXZ1V2VhQUFfdXh4b3VRSEtILW5Ma05EY1BFWThLbUJjN05iSTZ2YkhoX2YtTkhkcms5R3dHQzkybEo1WFRjRXlRakI0N3N6emtpNjR0dHg3TVRqdVlra0ZjLTh6QnY5aWNYdzdPcGM1cXhkUGFwOG5wQ1JsanZxcXc3aWw4X0NZV0tqNkltNE1DbXFFVWpIRzBIM0xhVzlub2Y3X3BKSE1yeFdUWDhzQ0NlNDJONlQ0U3FJX2txZloyTHR3WUhsRWdGWGhJcVEtZkJvRmE0Ul9XaXgxTzZuUkhnMnBjZ29IVm1qLWlfVXRhX2tYOUJQclNqdWhTRmx2X1kweTNxVWFXdV9UcGN6VmFrNTF1WjdhT0VQR1ltSHUyblZGaWxLdEFnTEFRZ3owbHBZWHpCOWx4Wm90Q1ktTW5EQjRrTjRDWDRIYWQ0TnBXdURFQkpVUHFIZllCNjFqQQ?oc=5",
-    "https://deadline.com/2026/11/virgin-river-renewed-season-9-netflix-longest-running-1237222568/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794593312.1160605,
    "title": "Эмили Ратаковски получила роль в ромкоме «Мы всё еще встречаемся»",
    "rubric": "Кастинг",
@@ -1296,6 +1285,15 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkpudm91SXVGeVk4eGl3WFhqTUw4QURqTXVrdlFQaEhuclNEYWlCQmUtX1RPLXh6UlJrTTFzTGJrby1sZU5QNklyRjRjSDhkeFdmZmlkMGJGWjV6X014b1NfX2JoYVJUekFnV2pHTllyQXEtZjY5WUthS3VXeWNBbEdoT2lRSmVIQjllNkFtU3FQbFo0dWdWUmdfZlZjMWUxR0puTExsQ1UyaDE3X0JId1poM29qTkI2MTc0dHlrQ0J4SmpvM1HSAcsBQVVfeXFMTnJPOExsZk05eWlKWXpUcXB5WWRFNEJMZ2YyMzFuS2FOUHlFVk9EZDZWd3ZUck55Q0NHbVpWT3ZBWXlXYk1fY0w5azROVnBjS0dadGxuSWNLR3Z0b3U5azk4YTFkdkVfd2pqaTJNSWYwMW8tRWZZdXZJWUxSekR1eHFCZ3Mzc05qZXdsNGpIVFd6ZWFWem83VWlTQkkxVXJ0NEJrR3BmenB4OWlSQUpVRTdiSW5tVU5iU3k1Y3JHTkQzOXc1TmVWbl9Gb3c?oc=5",
     "https://www.film.ru/news/tizer-vtoroy-prezumpcii-nevinovnosti",
     "https://collider.com/presumed-innocent-season-2-release-date-teaser/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795194610.7716343,
+   "title": "Вышел первый трейлер триллера «Убить Кастро» с Аль Пачино",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://deadline.com/2026/11/killing-castro-diego-boneta-trailer-1237230063/"
    ],
    "image": "tmdb"
   }
