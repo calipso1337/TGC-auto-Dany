@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794542850.145341,
-   "title": "Сериал «Пятно» с Клэр Дэйнс и Юэном Макгрегором выходит 13 января",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794546863.4080281,
    "title": "Фрея Аллан сыграет главную роль в хорроре «Система»",
    "rubric": "Кастинг",
@@ -1292,6 +1283,17 @@
    "rubric": "Трейлер",
    "urls": [
     "https://www.film.ru/news/osnovnoy-treyler-lednikovogo-perioda-6"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795147744.428861,
+   "title": "Билл Хейдер снимет хоррор «Они знают» (They Know)",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/",
+    "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/",
+    "https://deadline.com/2026/11/bill-hader-linda-cardellini-they-know-1237229655/"
    ],
    "image": "tmdb"
   }
