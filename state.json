@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794593312.1160605,
-   "title": "Эмили Ратаковски получила роль в ромкоме «Мы всё еще встречаемся»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/emily-ratajkowski-joins-still-we-met-mary-beth-barone-1237219464/"
-   ],
-   "image": "article"
-  },
-  {
    "ts": 1794596852.2024658,
    "title": "Марго Робби сыграет в новом фильме Кристоффера Боргли",
    "rubric": "Кастинг",
@@ -1294,6 +1285,17 @@
    "rubric": "Трейлер",
    "urls": [
     "https://deadline.com/2026/11/killing-castro-diego-boneta-trailer-1237230063/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795198222.1892626,
+   "title": "Лили Рейнхарт может сыграть в фильме «Полли Покет»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282/",
+    "https://collider.com/polly-pocket-movie-cast-lili-reinhart-talks/",
+    "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
    ],
    "image": "tmdb"
   }
