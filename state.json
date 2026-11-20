@@ -1,26 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794561070.5697906,
-   "title": "Новый сезон «Дипломатки» набрал 1 млрд минут просмотров за неделю",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMFh3VV84Y05XdVdQcXI3dXF3YUZJbFNhQy05RnY5SU5DRUdrbF85UUptc2k5UGVpYkdjNzlkcDM4UHZocW1LVXJTcTZaMUxEZHc4Mm1wenZpYWE1ZTB4R3VndTRLR3M4NXM2WFFnZGNEMkVvYjh5ekZQUXFQaGFkaEV3OHlvcXdkYUFvLWoyM0thVms0dUZYWTUyVGtFV2hjX25kbkFLVTdZUHRKaVE2a1ByRjVrLXhVX1hBNWtpTGxpaHI2WmR6QXpEc3hGTFh6U1J3RzlMVkhWcS1ETXpHT3ZEWXN6ajA?oc=5",
-    "https://news.google.com/rss/articles/CBMigwJBVV95cUxORHVTdHIwTTYxSW9TVHJfbDc0cTRsYWl5NzdwdmVLSGVac3l4VGIwaldxZF9zeDFiNUpLbjFQYWIwN1dzZ2dDZzhfWE9JVWhuRnV5dTJQZmVFeUlkMXhkQ1FZTmlKendRT0c5U3NXX3ZDZERIQ0FkTXl2enFXY3RtMGE2OHFITGNtblM4VTUyTWFFbmtUVUcyd0xFSGNMQUVXTXl6MUNfVERzT3d5Q1A0dkpjYnFudW5CRnRQalBFUDhGWlF3YzdscE94LUpkMWd1TkRjOUEwcmZnY0kxS0h6OGRVY0pGeXhEWWZLRkJ4RjVLQ2JodFh3UUUzSnh3QlkyVHpN?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794564560.1918702,
-   "title": "Световой меч Дарта Вейдера продали за рекордные $4,875 млн",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.kinonews.ru/news_144133/",
-    "https://www.mirf.ru/news/nastoyashchii-mech-darta-veidera-pereprodali-za-mnogo-millionov-opyat"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794568151.154119,
    "title": "Состоялась мировая премьера фильма «Скрудж» с Джонни Деппом",
    "rubric": "Премьера",
@@ -1307,6 +1287,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTI2aGxpUjEtMmtRWWVFRVlfbm4ycjhJWnlaN2JGLWtzZjRoYjJNSEk1M0tBNEp1aEpsX25QaGFBdGF1ZmhoUnI3dU5ueFdRSmUwSmczaWpzVjg4NG5qUkZHMk9Zd0hOSnBlUzBhV3c0TzVubUR5NWhkOE5MVms4Z3FfdF9tck1pbEF6MFlENHhxb0c1OHozbkNFU1kzM1I0Tkp2clJDSG93NkQxVFdNWUpRZUdmQkpBWk9icVVtY1lpWTFvcl8tN3dhTkJxTkx5M0tsX2llcDhpdVdKU1RaM0YwVU55dmFuWEd1TDBCdUU?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795169578.860853,
+   "title": "Джон Карпентер напишет музыку для ремейка «Побега из Нью-Йорка»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.kinonews.ru/news_144237/"
    ],
    "image": "tmdb"
   }
