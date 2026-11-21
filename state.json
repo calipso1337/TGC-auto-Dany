@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794679690.1062074,
-   "title": "Заголовок: Джеймс Ганн опроверг слухи о пересъёмках сиквела «Супермена»",
-   "rubric": "Слухи",
-   "urls": [
-    "https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669/",
-    "https://www.slashfilm.com/2316883/james-gunn-skydance-changes-superman-sequel-man-of-tomorrow/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794683481.1163735,
    "title": "Адам Драйвер назвал отмену фильма о Бене Соло «преступлением»",
    "rubric": "Индустрия",
@@ -1275,6 +1265,15 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXNPN1Q2d2RqLVpiQUlhNC11V0VpS3ZnNm8yYWJrTzZreEsyWmlSV2ZUNTJ4dnM2dWpBVTBxZkMxTi1RQ3JrRXdZQ1g5d2NOVVNpOTZDdDlhbGhmOWxTZVRhV0N5RzVQelRveFNyVVpsZl9aMExKNkF2bm45OHlRdlhQWFVvb29qR2R2WVVPeFgtdm5jUnJVckM4cW1ZOHlBN2k3U0U5SktScnFtZEpGWDI5RWdUN3EyYzNPZlN1QW1TZw?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM29VR01JTllYUFRtNXFmemJaQ1F1emcyTjUtYVEtR1NvWDA2MUVBeEo3Q0NoY21OSUhuR1JGNTNYSVlWc2ZYVkt0WTJxY1djWHNnZ0t3aVBrUkpzVmM4V2VDUy1EdU9ZMU9ZUDJzcjUzMjk5b1JWSlRyamRXV2ZKZzdSMWZPM3FCU3pVdFFPaWhBYlhvMlo5TDFVd0FFWGx6bFk2MHVRUFdLY21uN1Bj?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXFCX01mM0x1X1o2dHZubzNURHMzS3RfdDBGZUduaWpOcDEyUkg0cUtNSFNUZkdIRTBQYW9McXpqYU9ETmpVUW9XS05LRUhBWVFtRHZJRktDWVJzNm85TEpjdkVrdmlGM0tQSERCbzZHM0xlbmpjcmRFRXZFMXpGNVYxTkFCSXFXQjQxVDVrRC10SzloM0MxOU55OXpDVTdzVTZfTGhicFZNSUt2S2JVdDFaNk4?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795284608.125901,
+   "title": "«Ричер» стал самым популярным сериалом Prime Video в 2026 году",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/alan-ritchson-reacher-season-4-most-watched-show-prime-video-2026/"
    ],
    "image": "tmdb"
   }
