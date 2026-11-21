@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794690735.0606747,
-   "title": "«Годзилла: Минус один» обвалилась в прокате",
-   "rubric": "Касса",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBteDNERmRJeTdlYVdZN1ZYRWhrN2pWS3hRMXV2RjJVUmxyeW1TTlMtazlBbnY1M2JDRGE0TmEzQVRfQlJvQVY1WUlsb2lKb0pLYXVIMlZWc1MzdUZPU1pmZjNwNk5mcnJnaUVB?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUVWakhVM29YRXJRSmZYY3dnZzBiSGNmbW5mUGF5MHlHUzNoRFRKVGJCd2M2ZDNySDhHQlIxelNXQ2pwRkFpUlIyZHc3YmxXU0JxLVE0OHJYWmp5TUhGVWxrWGJRUGJOU0RST3JBV0t4Vi0wX3Q1ZjB1b1VDREdzUg?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794694231.4025338,
    "title": "«Отечество» Павла Павликовского получило главный приз ToruńCAMERIMAGE 2026",
    "rubric": "Фестивали",
@@ -1283,6 +1273,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://screenrant.com/taylor-sheridan-frisco-king-switch-genres-comedy/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795298916.3349893,
+   "title": "Лука Гуаданьино подтвердил отмену новой экранизации «Американского психопата»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://screenrant.com/american-psycho-remake-canceled-luca-guadagnino/"
    ],
    "image": "tmdb"
   }
