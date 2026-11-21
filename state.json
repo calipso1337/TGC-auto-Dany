@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794683481.1163735,
-   "title": "Адам Драйвер назвал отмену фильма о Бене Соло «преступлением»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794687052.2690163,
    "title": "Третий сезон «Перси Джексона» стартует 20 ноября",
    "rubric": "Сериалы",
@@ -1274,6 +1265,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://collider.com/alan-ritchson-reacher-season-4-most-watched-show-prime-video-2026/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795288317.6685493,
+   "title": "Сидни Свини начала сниматься в сиквеле триллера «Служанка»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://collider.com/sydney-sweeney-the-housemaids-secret-sequel-filming-update/"
    ],
    "image": "tmdb"
   }
