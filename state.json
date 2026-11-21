@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794669171.404993,
-   "title": "Шоураннер опроверг слухи об отмене сериала «Фонари»",
-   "rubric": "Слухи",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWRjUldfb2kzZVYxMUJOaXBiOWFraWJKN3BQV1pmTkR3dUhuS2pRb2lsVXZmTUdCNDNoQUl4WmdnV0w4ZE44UEdKRG1EYmdmdHJibUdDOFMxRThjejVyQXZvSFlwMVFjLVJ5R0dJOTBMaS1xNjJMcFJzay1xT0U1Yk9oeTAya3hsdmxlb3RzS05XblZlRDRLTHdQNUdKN2ZNenh1aW5BWUc1R3p3YXZaVmZJOFVxQTJJR0E?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794672495.8771794,
    "title": "Сериал «Очарованные» вышел на Кинопоиске",
    "rubric": "Премьера",
@@ -1279,6 +1270,16 @@
    "rubric": "Премьера",
    "urls": [
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLUs4alVYSXRudmVnaThfWnlUSUltUHdTbnZZTU9hbThEQjRwQWVwNVdiTG4zUEgyWk50VnNqVVlRaXNFYTFuUmtQMXFxbWhPdXBzMUVUdHYxQnBwTzE5QTN1VWhYN2xKWUJlUTlJVU4xVFBlUzVhRERDQ1dCRFpsSGo0U191NDdiWnJ3MVNxd1JCdXFrN19UZWFVVzR4WmxXaEpDcFZ3ajhsamVTeXU4cklIeWFwcXd6eVF5bms1OTdaVW1xTVNXN2xxclk?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795277295.8361866,
+   "title": "Роберт Паттинсон стал новым Джеймсом Бондом",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.kinonews.ru/news_144252/",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGlNejNxZkcwRVFnLVY4OHNweC1yRUxvYVNzamRZZ3FhaTAtbGthLVY4UUJlUGZCSVVGbno1eUhpYVloLVF5NFlwcTJ2Y2VMeUFCX1ItZG1OVTQ0alNaMUJWNEpyYzE3aFZNSUhObUhmYWlDSHNDa3Nad3hPamZpSkl6VlZYbkZHeTNXa2hadFFQdzZPVk5PaEVRNnpxVXBlbGc?oc=5"
    ],
    "image": "tmdb"
   }
