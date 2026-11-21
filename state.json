@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794629273.715551,
-   "title": "Суд между Майклом Манном и New Regency из-за прав на «Схватку»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/michael-mann-new-regency-heat-screenplay-lawsuit-1236947532/",
-    "https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794632921.4720688,
    "title": "Финал сериала «Квест Вижна» показал рекордные просмотры на Disney+",
    "rubric": "Сериалы",
@@ -1293,6 +1283,16 @@
    "urls": [
     "https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVV6Rnp0emIxRmJ4Yk5Fc1FjRHp1NDlWMXl2bW9MWkFvVmVZNUs4UVRvNFk2ZFpMMUE2eVlOYms4cmhtUkl6VVZGWGswSnJJaHNTeTdYcjJpaFhFV2h5T2tmZm5oNnNlejFDU1o3Vkk3d2tQOUZxblNGdVdENmw5U1hPMU9rRWpDN2J6WHNwMFJaREJSS1ZrcXRyVlBpOGE2RXFrUWhR?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795234240.3444993,
+   "title": "Бассам Тарик рассказал о причинах ухода из «Блейда» Marvel",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/",
+    "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728/"
    ],
    "image": "tmdb"
   }
