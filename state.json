@@ -1,26 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794672495.8771794,
-   "title": "Сериал «Очарованные» вышел на Кинопоиске",
-   "rubric": "Премьера",
-   "urls": [
-    "https://www.film.ru/news/premera-ocharovannyh"
-   ],
-   "image": "banner"
-  },
-  {
-   "ts": 1794676059.7680461,
-   "title": "Аниме «Re:Zero» получит пятый сезон",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEZKOHRvS3N5eGYyZFJDTEVpSGx3ai1lOE9neEtiYnFITTI0YVBpR0RYRGlzWUpYQ1VTa0s1dlRxbzhPVmVHSzg5b3pQUzVVaXE0STYwOFdmT01iekVkdnVydi1MRHN2QmFMVVZiSG1CV1M2OEt0Z0dRaGJDWng2Z0dlZGJoUXFXZ0NLbnZDakd4LW1rQlhCUXFKT09FbG9vMVlLdQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFZ2ekFlcVVPNV9PWWxpeE9iamVZMW5BYjM0TlNNS1VpanY0d0hFcEx0czdjTzJZOFRvYzU5azlrN0w1ekxSaldHZW56MGd5TmxhbEppallMUGZ1R0RUejFoUV9mQUJRTm9jVnRGS1BwSU05Z0sxZ3VIeTlHRWozcEFQRWRGcFQ4QVllY0xQOU1aY0lzeDZOMUFmdzBFVEgybnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPejdWTV90QXFBZUJiczRGY2tpcjlIUVBEMERGbFkzN1lISHZQUllsazlPMWtMSlZPZWFzQjNSemtrajQxY3hpQTd1WHZZTzVnYmg4ZkZlaGJ3YmdSSkY2VFJRODdLVlNHY3RkWWlqaEtYcXR5ZUcyY09YdzNodWtmMDAwRnloaGFiZzl3YUJrODNJcnFOVGRRXzFSX2VVS3g4S1E4WkQxemVodnc5WmliTmdiejUzUEtGSzU2cVhTZ3lLZw?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794679690.1062074,
    "title": "Заголовок: Джеймс Ганн опроверг слухи о пересъёмках сиквела «Супермена»",
    "rubric": "Слухи",
@@ -1280,6 +1260,21 @@
    "urls": [
     "https://www.kinonews.ru/news_144252/",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGlNejNxZkcwRVFnLVY4OHNweC1yRUxvYVNzamRZZ3FhaTAtbGthLVY4UUJlUGZCSVVGbno1eUhpYVloLVF5NFlwcTJ2Y2VMeUFCX1ItZG1OVTQ0alNaMUJWNEpyYzE3aFZNSUhObUhmYWlDSHNDa3Nad3hPamZpSkl6VlZYbkZHeTNXa2hadFFQdzZPVk5PaEVRNnpxVXBlbGc?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795281294.8760502,
+   "title": "«Голодные игры: Рассвет на жатве» собрали $56 млн за первый день",
+   "rubric": "Касса",
+   "urls": [
+    "https://collider.com/hunger-games-sunrise-on-the-reaping-beats-the-odyssey-box-office-debut-100-million/",
+    "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjV1WU02bzM3RXprY1AyeHVFc2JPWjBRM0NEODBXdFFIeXI3XzYyRW9rVk90SVpFQ1lzS2g0NTZQR0NqTG83VzU0U0FIN054NmlGcWlmbTlpYmV4TlVSR04tQzFEdVQ4VV9NUXBlMXN3a19HZ21mWnJRMm5YRi0yX29iTDdBUnBtazNTY0xKQ0pPdU9zQk00aXllVXBoMnl0QVpmRGl0Q3NhUVM4NE9jTA?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaldkSEQ3azBLUl9CSnBWYTVJb0VKTGtFYk9BV3RJS0Y3NjVrVmZpSGdZRUVYUHRpYnB1NHhEdFV5eFMxZlJFUG5OWmNGN3hncFlubURnYlptQmt1ZGRkRlVYUmdXV2Zvd3ptOHJ6dlVRbVhvT1J6TG5wMGhvQzdQYnBSbnFvZDdrZ2NNSEhyTFU?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXNPN1Q2d2RqLVpiQUlhNC11V0VpS3ZnNm8yYWJrTzZreEsyWmlSV2ZUNTJ4dnM2dWpBVTBxZkMxTi1RQ3JrRXdZQ1g5d2NOVVNpOTZDdDlhbGhmOWxTZVRhV0N5RzVQelRveFNyVVpsZl9aMExKNkF2bm45OHlRdlhQWFVvb29qR2R2WVVPeFgtdm5jUnJVckM4cW1ZOHlBN2k3U0U5SktScnFtZEpGWDI5RWdUN3EyYzNPZlN1QW1TZw?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM29VR01JTllYUFRtNXFmemJaQ1F1emcyTjUtYVEtR1NvWDA2MUVBeEo3Q0NoY21OSUhuR1JGNTNYSVlWc2ZYVkt0WTJxY1djWHNnZ0t3aVBrUkpzVmM4V2VDUy1EdU9ZMU9ZUDJzcjUzMjk5b1JWSlRyamRXV2ZKZzdSMWZPM3FCU3pVdFFPaWhBYlhvMlo5TDFVd0FFWGx6bFk2MHVRUFdLY21uN1Bj?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXFCX01mM0x1X1o2dHZubzNURHMzS3RfdDBGZUduaWpOcDEyUkg0cUtNSFNUZkdIRTBQYW9McXpqYU9ETmpVUW9XS05LRUhBWVFtRHZJRktDWVJzNm85TEpjdkVrdmlGM0tQSERCbzZHM0xlbmpjcmRFRXZFMXpGNVYxTkFCSXFXQjQxVDVrRC10SzloM0MxOU55OXpDVTdzVTZfTGhicFZNSUt2S2JVdDFaNk4?oc=5"
    ],
    "image": "tmdb"
   }
