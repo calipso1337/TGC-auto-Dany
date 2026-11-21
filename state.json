@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794636632.8137157,
-   "title": "Айла Фишер и Аль Пачино сыграют в триллере «Похищенные»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794640067.5677629,
    "title": "Человек-паук: Новый день метит на Оскар",
    "rubric": "Премии",
@@ -1301,6 +1292,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://collider.com/slow-horses-apple-tv-renewed-season-9-10/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795244850.4970791,
+   "title": "Вселенная «Джона Уика» получит масштабную видеоигру",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://screenrant.com/john-wick-untitled-game-prequel-setting-confirmed/"
    ],
    "image": "tmdb"
   }
