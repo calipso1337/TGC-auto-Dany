@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794647389.8420293,
-   "title": "Дэн Трактенберг может снять сольный фильм о Росомахе для Marvel",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.kinonews.ru/news_144149/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794650962.1812763,
    "title": "Кевин Файги объяснил возвращение Людей Икс в «Мстители: Судный день»",
    "rubric": "Индустрия",
@@ -1275,6 +1266,15 @@
    "urls": [
     "https://www.film.ru/news/princ-garri-o-novom-bonde",
     "https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795252376.4818985,
+   "title": "Луи Гаррель сыграет в фильме «Летчик» Бена Стиллера",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.film.ru/news/lui-garrel-u-bena-stillera"
    ],
    "image": "tmdb"
   }
