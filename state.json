@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794687052.2690163,
-   "title": "Третий сезон «Перси Джексона» стартует 20 ноября",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/percy-jackson-season-3-the-titans-curse-disney-plus-november-20/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794690735.0606747,
    "title": "«Годзилла: Минус один» обвалилась в прокате",
    "rubric": "Касса",
@@ -1283,6 +1274,15 @@
    "rubric": "Индустрия",
    "urls": [
     "https://screenrant.com/video/ebenezer-could-finally-bring-johnny-depp-back/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795295376.245865,
+   "title": "Тейлор Шеридан меняет жанр в спин-оффе «Короля Талсы»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://screenrant.com/taylor-sheridan-frisco-king-switch-genres-comedy/"
    ],
    "image": "tmdb"
   }
