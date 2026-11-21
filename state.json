@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794665587.1511006,
-   "title": "Николь Кидман получит почётную премию «Сезар»",
-   "rubric": "Премии",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tYmxla2MtYkhubHNuQmZoVlpxYVZGVndSWVA3di1rTV9hZVYwaUI1d0dRUG5YekxkQzU1dzRtMVVxaXdfYXNhRmY1RE80T0NPZE9Ib2ExSWhTX0tIMEM0d1ZtdlhVWlZlZGZrdWhMdnVITlg5?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794669171.404993,
    "title": "Шоураннер опроверг слухи об отмене сериала «Фонари»",
    "rubric": "Слухи",
@@ -1279,6 +1270,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxObFVpZDktN183LVJxbzduVGktTFgwUjd2TjlWdmdkX29kYklvd19MU0JvR2VGY0VReTBEWWhKeUt4UDNxOG4yUDZoajA4LVE2T2dheUh5cWpNX1hPYnlPUVByWUYwLWFyb2pZc2FkWUI3UmxxRU5DWTZyTzREb0VXSGFmWnBqeTdHZURRbDdRdzJnY2NZR1h0WGFUY3NBNmt6QlZadGJOM3pIalFKY3l1aURkTHJwYlpMU3ZOcFMzNDM2RUMyR2drSUNVcUw?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795273942.2318559,
+   "title": "Новый фильм франшизы «Пятница, 13-е» получил название «Jason»",
+   "rubric": "Премьера",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLUs4alVYSXRudmVnaThfWnlUSUltUHdTbnZZTU9hbThEQjRwQWVwNVdiTG4zUEgyWk50VnNqVVlRaXNFYTFuUmtQMXFxbWhPdXBzMUVUdHYxQnBwTzE5QTN1VWhYN2xKWUJlUTlJVU4xVFBlUzVhRERDQ1dCRFpsSGo0U191NDdiWnJ3MVNxd1JCdXFrN19UZWFVVzR4WmxXaEpDcFZ3ajhsamVTeXU4cklIeWFwcXd6eVF5bms1OTdaVW1xTVNXN2xxclk?oc=5"
    ],
    "image": "tmdb"
   }
