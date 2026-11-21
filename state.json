@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794632921.4720688,
-   "title": "Финал сериала «Квест Вижна» показал рекордные просмотры на Disney+",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://www.film.ru/news/rekord-finalnoy-serii-kvesta-vizhna",
-    "https://deadline.com/2026/11/visionquest-finale-viewership-record-marvel-1237223483/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794636632.8137157,
    "title": "Айла Фишер и Аль Пачино сыграют в триллере «Похищенные»",
    "rubric": "Кастинг",
@@ -1302,6 +1292,15 @@
    "rubric": "Трейлер",
    "urls": [
     "https://www.film.ru/news/treyler-korolya-frisko-s-dzheksonom-i-stallone"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795241285.4905288,
+   "title": "Сериал «Медленные лошади» продлили сразу до 10-го сезона",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/slow-horses-apple-tv-renewed-season-9-10/"
    ],
    "image": "tmdb"
   }
