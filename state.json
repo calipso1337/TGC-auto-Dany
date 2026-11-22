@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794776877.310614,
-   "title": "Джаред Буш раскрыл детали и график выхода «Зверополиса 3»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://screenrant.com/zootopia-3-release-timeline-disney-jared-bush/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794780669.5797799,
    "title": "Дэвид Теннант рассказал о своём камео в «Убийствах в одном здании»",
    "rubric": "Сериалы",
@@ -1254,7 +1245,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+  },
+  {
+   "ts": 1795383391.3014083,
+   "title": "Дэвид Литч рассказал о статусе «Четырнадцати друзей Оушена»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/david-leitch-oceans-14-update-lot-motivation-make-sequel-1237231206/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w780/1jITtYNvrcdE98anIblRK3f9xnt.jpg"
   }
  ],
- "last_post_hour": "2026-11-22 23"
+ "last_post_hour": "2026-11-23 00"
 }
