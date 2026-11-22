@@ -1,24 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794719453.667059,
-   "title": "Брэд Питт может сыграть монтажника в новом фильме Apple",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWS1rWjRpcW1tXzJYYUdRY01VNzc1eFNDdUxva1REZFhmVTV6bkM1NDBMR2pQRllEU21TenFZUktEVGVKb3FZTWxQRDRmQkYySXM0U1NodG5nc1MteWUwMk9hVWZmSTk2emExTUItdWNId3ctbkktWEV4SnlvVkdhc3pRN3Ntc3U3OW54bHhFSmZsa1FhYUVORHRBLV9yZmt0RXRTT0FTUGvSAbABQVVfeXFMTmtuV01TOGNCNktTUG5IM19JTUlZdnhkWENrX1lvNFh5V2EzQUhBYVQ1UEdwSGNYdHRrWndUYVFpZ25pRnBlZUpubzhwcTd0djZKOS1vWlA1UlZITTQ4TC02RE9ESVFrQ3FkcVJhbldSMjJOMzEtU25iTGtPRFYzYkp6cHpWcy1CcXZwUkRSSEZzZVJLbjBIeExZb2lKYjhRa0h3LU9mUHN6VXU5d1dta2w?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794722867.4181244,
-   "title": "Джей и Молчаливый Боб вернутся в новом фильме Store Wars",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://screenrant.com/kevin-smith-jay-and-silent-bob-store-wars-filming-start-window-jason-mewes/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794726658.551101,
    "title": "Победители Kids’ Choice Awards: «Очень странные дела», BTS и Дженна Ортега",
    "rubric": "Премии",
@@ -1278,6 +1260,15 @@
    "rubric": "Кастинг",
    "urls": [
     "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795327721.1272466,
+   "title": "Роберт Родригес может снять ремейк «Побега из Нью-Йорка»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/"
    ],
    "image": "tmdb"
   }
