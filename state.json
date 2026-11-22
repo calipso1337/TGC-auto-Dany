@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794740955.7814918,
-   "title": "«28 лет спустя» под угрозой из-за проблем с бюджетом",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Mei1KM3hqZ3JSUnpIU1huSmVnUGZQNU52OUJnTFZ1dUttaFdiUDQyRTVYN0dPdGN5OXI4TkxUNWRKSmxpWVowZENR?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794744730.766964,
    "title": "Звезда «Скорпиона» сыграет злодея в пятом сезоне «Ричера»",
    "rubric": "Кастинг",
@@ -1277,6 +1268,16 @@
    "rubric": "Кастинг",
    "urls": [
     "https://collider.com/anya-taylor-joy-netflix-how-to-kill-your-family-new-set-photos/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795349328.4937782,
+   "title": "«Годзилла: Минус ноль» обошла «Дикий лес» в прокате США",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTlsREMxTU5jOWppVXA1a3FtODR3RUdWMnNGUkRZazlWUXdVaDVVY2NYVy1TdTlhak03Y3FKcUpBT2ZhN0ViM0d2YW1zcEh1aDJuX2JzekstVkhjbEtiMEpacnp1dEVkQmpxMmNtMnIwVlZ4WGppYnZIT1A3NDdVTGpxdG1jUTY5czRaR2tKcDRrYTIxVkJBSW1JRFpNWGxEenJGaFBueUJBaDJMQ1lGT3ZwcHBNMFJSdU9kN1lVSkRHVlM4N3lvenRn?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWpRRmdfeVM5LVBNeTJPbEJBQjBZWmVHVV9JSjIxRi01OWhVVm01SVgtMURGVDRVUzk1dGxIXzRfcXdjRndKNkREWHlIZHc0dU4xbFlWYm5MbjZqMTdBN3FWcmFmaHNUTnU4NFR0Ml9SR3ZCNmZiNTh0dWxBVjV4OThRVVY5Q3RZSW5PcjlVTTNGNGZYb09DNFpibm4xZ1RoSUtCTEZVNjkzWHY0ZmhGVnBwRFNYNWlVN0wzWXgyNTdCMHY0MWpj?oc=5"
    ],
    "image": "tmdb"
   }
