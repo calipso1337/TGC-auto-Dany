@@ -36,21 +36,27 @@ def _tmdb(path, **params):
     return r.json()
 
 
-def tmdb_lookup(kind: str, query: str, year=None):
-    """Возвращает (url_картинки, tmdb_id, media) или (None, None, None)."""
+def tmdb_lookup(kind: str, query: str, year=None, exclude=()):
+    """Возвращает (url_картинки, tmdb_id, media) или (None, None, None).
+
+    exclude — множество URL картинок, которые уже использовались в постах:
+    они пропускаются, а для того же фильма/сериала ищется другой кадр.
+    """
     if not query or kind not in ("movie", "tv", "person"):
         return None, None, None
-    res = _lookup(kind, query, year)
+    res = _lookup(kind, query, year, set(exclude))
     print(f"  TMDB [{kind}] «{query}» {year or ''} → {'найдено' if res[0] else 'нет картинки'}", flush=True)
     return res
 
 
-def _lookup(kind, query, year):
+def _lookup(kind, query, year, exclude):
     if kind == "person":
         data = _tmdb("/search/person", query=query, language="ru-RU")
-        for p in (data or {}).get("results", [])[:3]:
+        for p in (data or {}).get("results", [])[:5]:
             if p.get("profile_path"):
-                return TMDB_IMG + "h632" + p["profile_path"], p["id"], "person"
+                url = TMDB_IMG + "h632" + p["profile_path"]
+                if url not in exclude:
+                    return url, p["id"], "person"
         return None, None, None
     params = {"query": query, "language": "ru-RU"}
     if year:
@@ -60,12 +66,33 @@ def _lookup(kind, query, year):
     if not results and year:  # год мог быть указан неточно
         params.pop("year", None), params.pop("first_air_date_year", None)
         results = (_tmdb(f"/search/{kind}", **params) or {}).get("results", [])
-    for m in results[:3]:
+    for m in results[:5]:
+        url = None
         if m.get("backdrop_path"):
-            return TMDB_IMG + "w1280" + m["backdrop_path"], m["id"], kind
-        if m.get("poster_path"):
-            return TMDB_IMG + "w780" + m["poster_path"], m["id"], kind
+            url = TMDB_IMG + "w1280" + m["backdrop_path"]
+        elif m.get("poster_path"):
+            url = TMDB_IMG + "w780" + m["poster_path"]
+        if not url:
+            continue
+        if url in exclude:
+            alt = _alt_image(kind, m["id"], exclude)
+            if alt:
+                return alt, m["id"], kind
+            continue
+        return url, m["id"], kind
     return None, None, None
+
+
+def _alt_image(kind, mid, exclude):
+    """Другой кадр/постер того же фильма или сериала, если основной уже был в постах."""
+    data = _tmdb(f"/{kind}/{mid}/images") or {}
+    for group, size in (("backdrops", "w1280"), ("posters", "w780")):
+        imgs = sorted(data.get(group, []), key=lambda b: -b.get("vote_average", 0))
+        for b in imgs:
+            url = TMDB_IMG + size + b["file_path"]
+            if url not in exclude:
+                return url
+    return None
 
 
 def tmdb_trailer(tmdb_id, media):
