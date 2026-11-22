@@ -5,9 +5,13 @@
   2. выбрать самую интересную тему, которой ещё не было;
   3. проверить достоверность (второй источник / отраслевое издание);
   4. написать пост и сверить каждый факт с исходными статьями;
-  5. подобрать картинку и опубликовать.
+  5. подобрать картинку (уже использованные картинки пропускаются) и опубликовать.
+
+Посты выходят в случайную минуту часа: планировщик запускает workflow в начале
+часа, а скрипт сам ждёт случайно выбранную для этого часа минуту.
 
 Запуск:  python main.py            — обычная работа
+         python main.py --force    — опубликовать сразу, без ожидания и проверок
          python main.py --dry-run  — ничего не отправлять, сохранить пост в папку preview/
          python main.py --check-feeds — проверить, какие ленты работают
 """
@@ -15,6 +19,7 @@ import calendar
 import html
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -48,6 +53,28 @@ def save_state(state):
     cutoff = time.time() - 7 * 86400
     state["posts"] = [p for p in state["posts"] if p["ts"] > cutoff]
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+
+# ---------------------------------------------------------------- случайный слот часа
+
+def wait_for_slot(state):
+    """Ждёт случайную минуту текущего часа. False — в этот час уже постили.
+
+    Минута выбирается детерминированно-рандомно из номера часа: при повторном
+    запуске в тот же час цель та же, а между часами выглядит случайно.
+    """
+    now = datetime.now(MSK)
+    hour_key = now.strftime("%Y-%m-%d %H")
+    if state.get("last_post_hour") == hour_key:
+        print("В этот час уже постили — пропускаю запуск.")
+        return False
+    target = random.Random("post-slot:" + hour_key).randint(0, 59)
+    delay = (target - now.minute) * 60 - now.second
+    if delay > 0:
+        print(f"Случайная минута часа: :{target:02d}, жду {delay // 60} мин {delay % 60} сек…", flush=True)
+        time.sleep(delay)
+    else:
+        print(f"Случайная минута часа (:{target:02d}) уже прошла — публикую сразу.")
+    return True
 
 # ---------------------------------------------------------------- сбор новостей
 
@@ -274,22 +301,24 @@ def make_post(state):
         post["body"] = post["body"].lstrip()[len(em):].lstrip()
 
     # картинка: TMDB (постер/кадр/фото) → картинка из статьи → фирменный баннер
+    # уже использованные картинки пропускаем, чтобы в постах не было повторов
+    used_images = {p["image_url"] for p in state["posts"] if p.get("image_url")}
     im = post.get("image") or {}
-    tmdb_url, tmdb_id, media = images.tmdb_lookup(im.get("kind"), im.get("query"), im.get("year"))
+    tmdb_url, tmdb_id, media = images.tmdb_lookup(im.get("kind"), im.get("query"), im.get("year"), exclude=used_images)
     if not tmdb_url and im.get("kind") in ("movie", "tv"):  # новый сериал мог завестись как фильм и наоборот
         other = "tv" if im["kind"] == "movie" else "movie"
-        tmdb_url, tmdb_id, media = images.tmdb_lookup(other, im.get("query"), im.get("year"))
+        tmdb_url, tmdb_id, media = images.tmdb_lookup(other, im.get("query"), im.get("year"), exclude=used_images)
     trailer = images.tmdb_trailer(tmdb_id, media) if post.get("is_trailer_news") else None
-    fb_url, _, _ = (None, None, None) if tmdb_url else images.tmdb_lookup(im.get("fallback_kind"), im.get("fallback_query"))
+    fb_url, _, _ = (None, None, None) if tmdb_url else images.tmdb_lookup(im.get("fallback_kind"), im.get("fallback_query"), exclude=used_images)
     # картинки из статей берём только у изданий без логотипов и надписей на фото
-    if og_image and not images.clean_og(src_url):
+    if og_image and (og_image in used_images or not images.clean_og(src_url)):
         og_image = None
     order = [("tmdb", tmdb_url), ("article", og_image), ("tmdb", fb_url)]
-    photo, image_src = None, "banner"
+    photo, image_src, image_url = None, "banner", None
     for kind, url in order:
         photo = images.download_image(url)
         if photo:
-            image_src = kind
+            image_src, image_url = kind, url
             break
         if url:
             print(f"  Картинка не скачалась: {url}", flush=True)
@@ -297,7 +326,8 @@ def make_post(state):
         photo = images.make_banner(post["title"], post.get("banner_tag") or sel.get("rubric") or "Новости")
 
     return {
-        "post": post, "photo": photo, "image_src": image_src, "trailer": trailer, "rumor": rumor,
+        "post": post, "photo": photo, "image_src": image_src, "image_url": image_url,
+        "trailer": trailer, "rumor": rumor,
         "src_url": src_url, "rubric": sel.get("rubric", ""),
         "urls": [s["url"] for s in story],
     }
@@ -341,18 +371,22 @@ def main():
     if "--check-feeds" in sys.argv:
         return check_feeds()
     dry = "--dry-run" in sys.argv
+    force = "--force" in sys.argv
     hour = datetime.now(MSK).hour
-    if not dry and 1 < hour < 6 and "--force" not in sys.argv:
+    if not dry and not force and 1 < hour < 6:
         print("Ночь по Москве — не публикуем.")
         return
     state = load_state()
+    if not dry and not force and not wait_for_slot(state):
+        return
     res = make_post(state)
     if not res:
         return
     publish(res, dry)
     if not dry:
+        state["last_post_hour"] = datetime.now(MSK).strftime("%Y-%m-%d %H")
         state["posts"].append({"ts": time.time(), "title": res["post"]["title"], "rubric": res["rubric"],
-                               "urls": res["urls"], "image": res["image_src"]})
+                               "urls": res["urls"], "image": res["image_src"], "image_url": res.get("image_url")})
         save_state(state)
 
 
