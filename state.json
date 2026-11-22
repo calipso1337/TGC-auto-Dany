@@ -1,24 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794769775.24876,
-   "title": "Дэвид Литч снял два разных финала для триллера «Как ограбить банк»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://screenrant.com/how-to-rob-a-bank-two-endings-filmed-nicholas-hoult-explained/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794773514.747523,
-   "title": "Съёмки «Схватки 2» Майкла Манна стартуют в январе 2027 года",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.film.ru/news/kogda-nachnutsya-semki-shvatki-2"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794776877.310614,
    "title": "Джаред Буш раскрыл детали и график выхода «Зверополиса 3»",
    "rubric": "Премьера",
@@ -1262,7 +1244,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
+  },
+  {
+   "ts": 1795378471.2827928,
+   "title": "Финальный сезон «Дома Дракона» выйдет только в 2028 году",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/house-of-the-dragon-season-4-final-season-2028-release/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   }
  ],
- "last_post_hour": "2026-11-22 22"
+ "last_post_hour": "2026-11-22 23"
 }
