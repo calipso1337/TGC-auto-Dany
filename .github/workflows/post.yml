@@ -2,6 +2,11 @@ name: Пост в канал
 
 on:
   workflow_dispatch: # кнопка «Run workflow» для ручного запуска
+    inputs:
+      force:
+        description: "Опубликовать сразу, без ожидания случайной минуты"
+        type: boolean
+        default: false
 
 permissions:
   contents: write # чтобы сохранять state.json (список опубликованного)
@@ -13,7 +18,7 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 75 # запуск в начале часа + ожидание случайной минуты (до ~59 мин)
     steps:
       - uses: actions/checkout@v4
 
@@ -32,7 +37,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           POST_MODE: ${{ vars.POST_MODE }}
-        run: python main.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+        run: python main.py ${{ inputs.force && '--force' || '' }}
 
       - name: Сохранить список опубликованного
         if: always()
