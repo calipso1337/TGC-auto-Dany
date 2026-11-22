@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794737472.661221,
-   "title": "HBO показал первый отрывок из сериала «Гарри Поттер»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://www.mirf.ru/news/pir-v-hogvartse-hbo-vylojili-otryvok-iz-garri-pottera",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkZ1cFJlTk91bHRScHlLRnk1X2dCeUU1aXROUWpJWTB5TnhPLVM5SExkelVaZnJpVkZUZU9MR2JjSi1QQjZ5TEdja1JqUlhNaGgtTHFwMUJ5cE1tNURTTENBcTZvc29VU0ZkZ3l3QW9tbFlSN0ZEaDBlNzVGN3dtZ0NDaFJYTUFhYU84Wk5qd0xzVVZKbWhHekdvV3ZLck5kaWE1UVF3Vjl2Wkt0OFZ2NExhdUw5NjDSAbwBQVVfeXFMTWxHT3BSdWx1dVlBUWlMWWp4VkQtVlg5bGxFVnhWTy1kX2hvOVNRNnBsa2stbE5fS3hQWnVmUWdJamRid3ZvQk9vMVJaekRDNFNtSEFxQ3RLOUFtbnFjVVU2ZWdnUXl2QU5oWmtha193RXBOejd0TmtJM2tCU3gxbUx4QjVXazktR1JMaEJEdXhQS2poX0tDYnAxN1Q0NFRIaFVpQnZ6V096YXZyVlRIRC1YRjJyQm9mN0FQUHI?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794740955.7814918,
    "title": "«28 лет спустя» под угрозой из-за проблем с бюджетом",
    "rubric": "Индустрия",
@@ -1278,6 +1268,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://collider.com/guy-ritchie-the-gentlemen-robert-de-niro-inspiration-theo-james/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795345707.714514,
+   "title": "Первые кадры: Аня Тейлор-Джой на съёмках триллера Netflix",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://collider.com/anya-taylor-joy-netflix-how-to-kill-your-family-new-set-photos/"
    ],
    "image": "tmdb"
   }
