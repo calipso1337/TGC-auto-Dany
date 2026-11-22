@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794755382.437144,
-   "title": "Меч Дарта Вейдера из «Звёздных войн» продали за рекордные $4,875 млн",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.film.ru/news/svetovoy-mech-darta-veydera-prodali"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794759157.468671,
    "title": "Фильм «Дальнейшие злоключения Клиффа Бута» от Финчера и Тарантино выйдет 25 ноября",
    "rubric": "Премьера",
@@ -1269,6 +1260,15 @@
    "rubric": "Индустрия",
    "urls": [
     "https://www.film.ru/news/deni-vilnyov-snimet-kino-o-yadernoy-voyne"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795363667.8101053,
+   "title": "Квентин Тарантино стал отцом в третий раз",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.kinonews.ru/news_144264/"
    ],
    "image": "tmdb"
   }
