@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794726658.551101,
-   "title": "Победители Kids’ Choice Awards: «Очень странные дела», BTS и Дженна Ортега",
-   "rubric": "Премии",
-   "urls": [
-    "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794730403.133788,
    "title": "Инсайд: Marvel тайно готовит «Железного человека 4» с Робертом Дауни мл.",
    "rubric": "Слухи",
@@ -1278,6 +1269,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmVSYldRRUw4OTdUTTl4VHlzSW9XUU01djVzZFlnNzNpLWZGd09tMHpwaFNVUW1icHpPeTc5WkZ1cEhLbXBRcjZERmhKQjhkWTM2UXVHaXB1dzZiTU9ZQ21kWDZRQk5Hb1QzUW10UFQ5bTlmOFV1d0FGMzF5YXBzUkFMTzJzbVZjTUMtczZrZTRaRFFPMmlXWjkzOXF6UkRXX1ZTMGhhVmxkVmlVY1pTY0QxN0MwWUhKTzNTbDYtZlJCSTdhOTh4NGRiWkw?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795334900.2016141,
+   "title": "«Дедмобиль» с Юрием Стояновым стал самой кассовой российской новинкой",
+   "rubric": "Россия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalNQM3RvQ1RBaTRWUjAtUV9vTHRjY0cwN0RRNUpBdGRka1BQekdwMy1jSk82RThxOUpFZzdsUWctM2NiQU1pNnlNTHFpaXlLdzhMcW43NVJsamtJSlVVOE1scnNzVVo5aHBFS3NVX1RvZGoyOGczRWRqM2lOX1NXdGpOVGFqX2hfODZ0SGtnYzJTbGNZaUNRSlJiRG0zc2NWX0x0WUFR?oc=5"
    ],
    "image": "tmdb"
   }
