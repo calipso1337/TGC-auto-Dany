@@ -305,6 +305,8 @@ def make_post(state):
     # URL сравниваем без параметров: одно фото может отдаваться под разными адресами
     norm = lambda u: u.split("#")[0].split("?")[0] if u else None
     used_images = {norm(p["image_url"]) for p in state["posts"] if p.get("image_url")}
+    used_images |= {norm(u) for p in state["posts"] for u in p.get("blocked_images", [])}
+    used_images.discard(None)
     im = post.get("image") or {}
     tmdb_url, tmdb_id, media = images.tmdb_lookup(im.get("kind"), im.get("query"), im.get("year"), exclude=used_images)
     if not tmdb_url and im.get("kind") in ("movie", "tv"):  # новый сериал мог завестись как фильм и наоборот
