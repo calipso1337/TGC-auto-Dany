@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794780669.5797799,
-   "title": "Дэвид Теннант рассказал о своём камео в «Убийствах в одном здании»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/david-tennant-only-murders-in-the-building-doctor-who-future-1237224368/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794798532.2220728,
    "title": "Гленн Клоуз и Ридли Скотт получили почетные «Оскары»",
    "rubric": "Премии",
@@ -1255,7 +1246,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w780/1jITtYNvrcdE98anIblRK3f9xnt.jpg"
+  },
+  {
+   "ts": 1795386070.090427,
+   "title": "Райан Джонсон не исключает возвращения к «Звёздным войнам»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/ggwlJvCn0laNGjcvwGchuwC00hQ.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 00"
+ "last_post_hour": "2026-11-23 01"
 }
