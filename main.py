@@ -302,7 +302,9 @@ def make_post(state):
 
     # картинка: TMDB (постер/кадр/фото) → картинка из статьи → фирменный баннер
     # уже использованные картинки пропускаем, чтобы в постах не было повторов
-    used_images = {p["image_url"] for p in state["posts"] if p.get("image_url")}
+    # URL сравниваем без параметров: одно фото может отдаваться под разными адресами
+    norm = lambda u: u.split("#")[0].split("?")[0] if u else None
+    used_images = {norm(p["image_url"]) for p in state["posts"] if p.get("image_url")}
     im = post.get("image") or {}
     tmdb_url, tmdb_id, media = images.tmdb_lookup(im.get("kind"), im.get("query"), im.get("year"), exclude=used_images)
     if not tmdb_url and im.get("kind") in ("movie", "tv"):  # новый сериал мог завестись как фильм и наоборот
@@ -311,14 +313,14 @@ def make_post(state):
     trailer = images.tmdb_trailer(tmdb_id, media) if post.get("is_trailer_news") else None
     fb_url, _, _ = (None, None, None) if tmdb_url else images.tmdb_lookup(im.get("fallback_kind"), im.get("fallback_query"), exclude=used_images)
     # картинки из статей берём только у изданий без логотипов и надписей на фото
-    if og_image and (og_image in used_images or not images.clean_og(src_url)):
+    if og_image and (norm(og_image) in used_images or not images.clean_og(src_url)):
         og_image = None
     order = [("tmdb", tmdb_url), ("article", og_image), ("tmdb", fb_url)]
     photo, image_src, image_url = None, "banner", None
     for kind, url in order:
         photo = images.download_image(url)
         if photo:
-            image_src, image_url = kind, url
+            image_src, image_url = kind, norm(url)
             break
         if url:
             print(f"  Картинка не скачалась: {url}", flush=True)
