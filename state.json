@@ -1,24 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794730403.133788,
-   "title": "Инсайд: Marvel тайно готовит «Железного человека 4» с Робертом Дауни мл.",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.kinonews.ru/news_144160/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794733854.2483463,
-   "title": "Закари Куинто вернулся к роли Спока из «Звёздного пути» спустя 10 лет",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://screenrant.com/star-trek-mtg-zachary-quinto-spock-stardates/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794737472.661221,
    "title": "HBO показал первый отрывок из сериала «Гарри Поттер»",
    "rubric": "Сериалы",
@@ -1278,6 +1260,15 @@
    "rubric": "Россия",
    "urls": [
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalNQM3RvQ1RBaTRWUjAtUV9vTHRjY0cwN0RRNUpBdGRka1BQekdwMy1jSk82RThxOUpFZzdsUWctM2NiQU1pNnlNTHFpaXlLdzhMcW43NVJsamtJSlVVOE1scnNzVVo5aHBFS3NVX1RvZGoyOGczRWRqM2lOX1NXdGpOVGFqX2hfODZ0SGtnYzJTbGNZaUNRSlJiRG0zc2NWX0x0WUFR?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795338678.0643466,
+   "title": "Disney показала трейлер шестой части «Ледникового периода»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHJGcDVDUjc2azFvNHZ0SDdsU3FIYmxmMGpCQVNUWTE4dEsyUFFIRHZoUi0xRkVONnhiU2FkaExuNDExSXk0ZnQwVUwyd0hBWHJJUHlEVHB6c0NhRlVSYTVlWUdkU3p0VWp0eGdqUWEzNzFlM1Q0U3dYQS1rUGpsWHNIcUo5NFV4V2RuWW1jQ0tSa2d0T3dZTzZndVFnQjNoQVNmUjVlQzFKN0ZIblFDQTY5RnhCM2xBd0JpbEdtU0FKWlJZ0gHKAUFVX3lxTFByZk9oN0V1a3E5bTZ0RVR5czEtLWNzSXBfUmFlZXJ4X3Brd2QwRW1sT0xmS2pxWUNadGxnN3EzeGI1amx0U1N5RGhEMEFjblotSUVra0tmTmtJTXdyZ2JITTdWVThJNVdMb21xY2RybjR1enh5QWxDek84aFFvOG9YMXdBU0NNblpsN2R4N0xsRHVyVE0tWmE2YUhTR3paM05peUNrS0hGVkZySnhuSE9qNENSS0swQjBZUjVhTC1MZ2R5TC1GbDRhdXc?oc=5"
    ],
    "image": "tmdb"
   }
