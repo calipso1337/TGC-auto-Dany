@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794694231.4025338,
-   "title": "«Отечество» Павла Павликовского получило главный приз ToruńCAMERIMAGE 2026",
-   "rubric": "Фестивали",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483/",
-    "https://www.indiewire.com/news/festivals/toruncamerimage-golden-frog-winners-2026-1235227760/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794712167.3835392,
    "title": "Крис Пратт хочет сняться в «Стражах Галактики 4» с Джеймсом Ганном",
    "rubric": "Индустрия",
@@ -1282,6 +1272,15 @@
    "rubric": "Слухи",
    "urls": [
     "https://screenrant.com/american-psycho-remake-canceled-luca-guadagnino/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795316959.6674964,
+   "title": "Махершала Али заявил, что два «Оскара» не помогают ему получать роли",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/"
    ],
    "image": "tmdb"
   }
