@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794759157.468671,
-   "title": "Фильм «Дальнейшие злоключения Клиффа Бута» от Финчера и Тарантино выйдет 25 ноября",
-   "rubric": "Премьера",
-   "urls": [
-    "https://collider.com/further-mis-adventures-cliff-booth-imax-release-november-25/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794762551.6504898,
    "title": "Джонни Депп вернулся на вершину проката с «Эбенезером»",
    "rubric": "Касса",
@@ -1269,6 +1260,16 @@
    "rubric": "Индустрия",
    "urls": [
     "https://www.kinonews.ru/news_144264/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795367279.996107,
+   "title": "Седьмой сезон сериала «Страйк» выйдет в декабре",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxS19hbExQYWVac0VqRDhzZG9XczAyNHg3LWhOclYzNkZsTm53dHo3RldmMG53UlNxMzF0VHNPeG5JUW9qSklRN1A1MngxOTZPRUFaVDRYOVR3WXc5eGN3?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGF1RlNEQTI2dU9hY3YySk1lcS1ROVdOWFk5MXZjRVVPaFlFRUtqa2RrUlR6TV9oODNUUUtpUm9TTmpFeUlTMFFYeENfZThjX212b2NrNkJmbGY5M0hVb0EyUjdrTmNzcVRKd2JZMVVZeEJ1aXl3SktYalJGaEdpOW4zMjJVZ0hFdzgxalFxZw?oc=5"
    ],
    "image": "tmdb"
   }
