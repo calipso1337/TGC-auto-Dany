@@ -15,10 +15,14 @@
    "title": "«Годзилла: Минус ноль» побил рекорд первого дня и претендует на $105 млн",
    "rubric": "Касса",
    "urls": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVB4dkptTl9hMkVBbFR4U3BvSEctLWtMaFNsSHpqZ05LSF85YUFpMXNiWlpCN01BRnUxdFM3MkY4WURody1ndHg5VVNfY0N2a1lTUFFFZ2RfYXh6bVVEMlN0dWZYSzNwRkJBdmRoR3JpVnMxSzctY29BMlk1bFZucXk2OWV2dE82cW40X2F2b3QwV1pDOS13WEo3c184Zmx0SEFqWUZtRjFGUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVB4dkptTl9hMkVBbFR4U3BvSEctLWtMaFNsSHpqZ05LSF85YUFpMXNiWlpCN01BRnUxdFM3MkY4WURody1ndHg5VVNfY0N2a1lTUFFFZ2RfYXh6bW9sYXJnZVVEb1N0dWZYSzNwRkJBdmRoR3JpVnMxSzctY29BMlk1bFZucXk2OWV2dE82cW40X2F2b3QwV1pDOS13WEo3c184Zmx0SEFqWUZtRjFGUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pdHY5dkktZS1VckJhUnJYRGVvbURKMHd4UFA1bUMxZE1PdHdMenEwLWw0eE9fZmRxY01nSEhKUXZ1dFo2eV9jbDhTeXBBRExMaDVOQzBZQWtIWXM3RlhkMjY1SmxZR1k?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/nU5YaWbnF4dmdpSQz06Dn2uL0Hk.jpg",
+    "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
+   ]
   },
   {
    "ts": 1794805861.3225024,
@@ -27,7 +31,10 @@
    "urls": [
     "https://deadline.com/2026/11/olivia-cooke-slow-horses-season-8-last-1237224533/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
+   ]
   },
   {
    "ts": 1794809367.832066,
@@ -45,7 +52,12 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTVWb3U4UEluS0VSUnlxZTM2ZTdrb19mbkdQWVhjMEZycEEyYjluaHV2dkdvNTh2aFBSRkg2VV9XWFNXdTMycVZFclNndDFDWE9IbFJ6R3doeUJMblZ3eGVTMkxyLWJOSkdzYkF4Nko2ZU1BdFFnWUQ0Tms5TDBtOTZKd2VCZTdhNnY5WFZHaDZvSGFTM3RtUjlyVQ?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/9GVc1eEcrrgARXgOJ50viVNt3S4.jpg",
+    "https://image.tmdb.org/t/p/w1280/4OH161N3H7SjKJXK0S6fzviLZap.jpg",
+    "https://image.tmdb.org/t/p/w1280/keZhBHLjpthWnyLGgoaVtIGPn87.jpg"
+   ]
   },
   {
    "ts": 1794816506.6052155,
@@ -63,7 +75,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUGtWVGFyaFZ1Qy11dEhlNDY1ODRBZmRJakxXaTBPSVRuMkt4TDB4RENHOU1Pby1yZUc4ZHFESnE1djlqdks3RVpRY3BKYVB2RVRXNm1pc3BCY2VBaVBpNkwybVRIbHFfQVU5WHB6Zkx6a2VUQlhmcmFGdGRrYzUyVURxbzRpYjdic25mUzhaemRvQUVROVdkcnJrZC1tb0MwOTNFT2pnRldocnpZbFBMUi1wZGlpYkhHMVVTU2plMjN5RFZVTkg1R1RVTkVSLTRVc296N0VtdmlkSmVyYWdFSWpzdWJFWDZ2X2VfRHEtVXFkLWJzeGRSVw?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/7K7wbQIpkzif4fMhDHsCweXFS42.jpg"
+   ]
   },
   {
    "ts": 1794823709.6541495,
@@ -72,7 +87,12 @@
    "urls": [
     "https://collider.com/disney-avengers-endgame-encore-doomsday-footage-november-2026/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/4ZfiaVkh7dhpHJsPGnhTCviDjFC.jpg",
+    "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg"
+   ]
   },
   {
    "ts": 1794827281.654319,
@@ -91,7 +111,12 @@
    "urls": [
     "https://www.film.ru/news/treyler-bayopika-stalin"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/lXOn6MhSwB3idCyZrM58ZiKreCH.jpg",
+    "https://image.tmdb.org/t/p/w1280/e5QOY2JJRJw82tPeVjoJ04tFXIQ.jpg",
+    "https://image.tmdb.org/t/p/w1280/nX149x4sMTo1J95MPZvyjk7gJX3.jpg"
+   ]
   },
   {
    "ts": 1794834566.8942451,
@@ -100,7 +125,12 @@
    "urls": [
     "https://www.kinonews.ru/news_144175/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/4ZfiaVkh7dhpHJsPGnhTCviDjFC.jpg",
+    "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg"
+   ]
   },
   {
    "ts": 1794838227.0739431,
@@ -110,7 +140,10 @@
     "https://www.mirf.ru/news/glava-sony-schitaet-chto-cheloveka-pauka-novyi-den-doljny-nominirovat-na-oskar",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFIyd2pwWW5XUXkxY0NFdFFZRUlHZHlnSFpta3JGWTVoM01OZDlxaGtkOWF4WVBFWHhvaVl2Q3g3S0p0OEZYdUZsZllYVUdrMDhNbDVvZjJMSzg5U0JURzl5QXY3ZlVaVHRhY1RtQUVrc0JMSlFQdnlXX1BKdGQydDV6R2ZQTnp3b2p1Tk1SRktxU1pjNE4ycmN3QVB3M05KX1BYTGRpV3NwMHZSRUtadVVfVWZUc01ydUQtWTVTU2NsNXFTcFB1RlhlelBxNkloc2hBYzdJaG5Vem1PUzBz?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/1WCVeD3kCI4a67OwyEhieWpzRbg.jpg"
+   ]
   },
   {
    "ts": 1794841923.1183,
@@ -134,7 +167,12 @@
    "urls": [
     "https://deadline.com/2026/11/kyle-maclachlan-michael-hyatt-hulu-limited-series-victoria-1237225367/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/nUTLQWHUO4IG7c5RVu0XSS9Jq41.jpg",
+    "https://image.tmdb.org/t/p/w1280/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",
+    "https://image.tmdb.org/t/p/w1280/k1PoqeqZb38VdUnnnJMXdrcUAPl.jpg"
+   ]
   },
   {
    "ts": 1794856138.105726,
@@ -152,7 +190,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxON05DRTBBN0hWTWw3QUU5YTBLSGFRVFpjVUdRZ0dDY1h0d2dnTmJsRWlRY0t3OUR0c2lULTg3TWFRemJQNVlLV1kzT3N2MVRrd3lNbWh6XzUwT0RmOERsMHl5QXo4ZVg2YjlCS0owd2dBSDhNZGs1al9qd1VwMW0xNHFtVXhDYVFkZjZQTGJJNktFZk5vLW03TUpPNUM3NmNjVks1eGZabTc1R1NMME1aaWxZY3pWVHNPRnRDeVNSVnp3ZHNSRkE?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg"
+   ]
   },
   {
    "ts": 1794863250.2887807,
@@ -184,7 +225,11 @@
     "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/",
     "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-rerelease-theaters-rosario-dawson-1236756620/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "https://image.tmdb.org/t/p/w1280/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg"
+   ]
   },
   {
    "ts": 1794888553.4045901,
@@ -203,7 +248,11 @@
    "urls": [
     "https://www.film.ru/news/novyy-treyler-ostansya-m-nayta-shyamalana"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/m47Io4f0w0MtEKfGYtiMqceXX1.jpg",
+    "https://image.tmdb.org/t/p/w1280/v7kL3an4ornAOWOxZucZilfTDbR.jpg"
+   ]
   },
   {
    "ts": 1794895704.683651,
@@ -243,7 +292,11 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHpKa2ZhSUhCZmhWdFBtZG5EZWJQOEZYeFRhZFJQLTU4dWk0cERVU2paMmFKd0N1QlpPOVM0V2hvX2RRZDVsR2lIUE5QSmlpUENKcUlXTWFQQkNfN1BxZ0VvS1l4WDByX2doTjM0OW5yVFBlMGZtSERBNFh2cTlYdmdXd181ckpCemI3OGhBUU9STURDTXBOcTBldVNyOTFQUUc5cmV1NDdoSXlSSERTVDFKTXNHM0w5eDRWNUt3bjRnOGFLQkZ0ZjM3ek1IcHVkTnc?oc=5",
     "https://www.film.ru/news/odisseya-oficialno-v-seti"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
+    "https://image.tmdb.org/t/p/w1280/y2ZTaASXaHwqmq7hKQWyFfsufC5.jpg"
+   ]
   },
   {
    "ts": 1794910448.2989314,
@@ -270,7 +323,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnhoQmFWR0staDQwS3ZFSkx1M29qS2NuenYwVVpRNHlJZ2dnUEtQMi1wTGc5YVAyRkRMLXR1ZUx0bnd4MGFhNllhR0c5NUVPckJkLUZxWTI5Y3VUQnpoN1BrcXo2cmJHMjg2WmNpZU0wSXJsT0hCTlNZZmJJSllwenNISzBqMHFQU19QUWVDa0RudmY5R2NuVzhXbmFjUmsyb1NSUFg2aWRYbFc5RTZlbmF3SC05U3laMWxHemR5X2R3ckRoNGc?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
+   ]
   },
   {
    "ts": 1794921378.3717592,
@@ -304,7 +360,12 @@
     "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/",
     "https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/"
    ],
-   "image": "article"
+   "image": "article",
+   "blocked_images": [
+    "https://deadline.com/wp-content/uploads/2026/11/Kira-Goldberg-Don-Jesse.jpg",
+    "https://variety.com/wp-content/uploads/2026/10/Skydance-Paramount-Warner-Bros-Merger.png",
+    "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg"
+   ]
   },
   {
    "ts": 1794939148.0077193,
@@ -313,7 +374,11 @@
    "urls": [
     "https://collider.com/ted-the-animated-series-trailer-mark-wahlberg-peacock/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/6yG7sdAnOC9yAljcUPaw2Ixp6wf.jpg",
+    "https://image.tmdb.org/t/p/w1280/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg"
+   ]
   },
   {
    "ts": 1794942632.7762535,
@@ -331,7 +396,10 @@
    "urls": [
     "https://www.slashfilm.com/2319653/cillian-murphy-28-years-later-part-3-condition/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg"
+   ]
   },
   {
    "ts": 1794949845.8859582,
@@ -340,7 +408,11 @@
    "urls": [
     "https://collider.com/netflix-narnia-the-magicians-nephew-april-2027-release-date/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/ioGlZohe3jmaH2TSmSWJVRjHoMT.jpg",
+    "https://image.tmdb.org/t/p/w1280/kXTZR11xLYaShf3ZMeTmBP9Lsq7.jpg"
+   ]
   },
   {
    "ts": 1794953473.4382646,
@@ -350,7 +422,11 @@
     "https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/",
     "https://www.hollywoodreporter.com/movies/movie-news/odyssey-ensemble-performance-award-palm-springs-festival-1236757227/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
+    "https://image.tmdb.org/t/p/w1280/y2ZTaASXaHwqmq7hKQWyFfsufC5.jpg"
+   ]
   },
   {
    "ts": 1794971497.4801424,
@@ -359,7 +435,12 @@
    "urls": [
     "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+    "https://image.tmdb.org/t/p/w1280/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+    "https://image.tmdb.org/t/p/w1280/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg"
+   ]
   },
   {
    "ts": 1794975032.7785878,
@@ -414,7 +495,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXB4Y0VhVW1KOWZrS21GTl9DdWZSMFpJTzZBZ1Q4dVBuN2FPMmNQLTVkaVZKcUJ4NzVUWTNlWnFuR1k3WkY2blZPYWk2YkU4T1JsaXV0bzhIRlkxWlF4Zk5iNFcwbzhEWWdjWHdBdjZzTHQ3alNTZDJ6OWlEQnRhTW83Ri1sT1lKUlFyQnZPN2NDVXRpemdkWHRQNDZ4NGxSYVV3b2swd1pWV09kVHlmN3ktSkhocExYdU8yTndxMA?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg"
+   ]
   },
   {
    "ts": 1794996602.3909206,
@@ -424,7 +508,11 @@
     "https://deadline.com/2026/11/jean-pierre-luc-dardenne-european-film-academy-honor-1237227768/",
     "https://www.hollywoodreporter.com/movies/movie-news/dardenne-brothers-european-film-award-lifetime-achievement-1236757154/"
    ],
-   "image": "article"
+   "image": "article",
+   "blocked_images": [
+    "https://deadline.com/wp-content/uploads/2026/11/MixCollage-18-Nov-2026-06-29-AM-1013.jpg",
+    "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Dardenne-Brothers_c_Christine-Plenus.jpg"
+   ]
   },
   {
    "ts": 1795000145.8404708,
@@ -433,7 +521,11 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlJMdzVMNFNtOEZGX2VEYWhYeGFJVlJwV3M2SE5BQjhLbWJEV21BSTVnU0YwZjlzdV9OQlVkUmV2bmJ0cjEwZVhyVjR4cmtNOU56MVRmcGJ3S09TZEs1b05WNGd1b3VNT3VVVkdtOHRib1N4OWs3MEFob08xN2wwVlVCaXQ5d1hqT1JN0gGQAUFVX3lxTE9QWGJOMFdkbk5oQlZmS0c1NWY1VTNqYWR5d3hmWGdWWkQxQl9ueVl2VFdKczVURzBWSGEyUmJ2a3dZWkhpZHFmRkRxVE5oaEdtcE1QZjFRS2dfR0VVR1phWjgtQW9yNmYzN29uMjJaeUVCTGtEOUpodVFnZWFqaWhZN3gtQUwzbzBDR0oyXzhsTw?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+    "https://image.tmdb.org/t/p/w1280/vOKdx9SVqay7uSRc1kwXplJgnRG.jpg"
+   ]
   },
   {
    "ts": 1795003842.190402,
@@ -443,7 +535,10 @@
     "https://collider.com/robert-eggers-werwulf-rated-r/",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wamZFMF9VcDVubmY1YmNkZ2k3N0gtOWROemxkbE81RDUzdFR6OTliaXA1YXRQa2ZsOF9TQ0dTNTVsem5mcWpQa2t0LTRWeGRfX2l3QmEtdTdSTGRzWkNUcy1QYm5UWWFka2Z5cm1uZWtRR2NScHU3Rg?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg"
+   ]
   },
   {
    "ts": 1795007327.0423787,
@@ -454,7 +549,11 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODBkSG85dFRsQk9UTUJPR3MxZUcwSXFrNEUzWTB6OHpLQzNfWllhZmJXUFQwOXlvcmxnajhsamNQSkY1a1JaMXh5MDBDNHpYbDRMeDZreGVUQmd2aEU3VUMxc0phSnhwTmVHTVdZUUY0ZU5Obld3ZV8tUmFIa3FzbERzaEtDMnVrS0NCVnd6SmZPUQ?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW9PTWtyb21DSEJLcnRRYTB4NmtVRU1DalNyWDVrUlJoSGxrdDl1VHlUQWE5RlJWY2x1QWowcnNPLW9rRzBINC10c3VxR2tuWUJ0WDFLOE9pZmhSOGE5Y1NoZlphNDdlaDdDbnhXWlBDUElwS0lRN1NLdFR2Y3kwRmVwaFo3Zw?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/lYTk0kgtJPvNxIMBChgxYj0qYoR.jpg",
+    "https://image.tmdb.org/t/p/w1280/otkqAKv5Fs4nlFbFw31DqOgZSzO.jpg"
+   ]
   },
   {
    "ts": 1795018138.1292107,
@@ -463,9 +562,12 @@
    "urls": [
     "https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY0tHcWxTSVUycHFPaDdJU1l3WXI0WnEyZU5GbUxFVVNHMzJfZ1JLUmVnMHpMU3ZyRld3UlltQllSMXRVMncxN19XZ2dyRHkxZm5oY0hvRkxvZU4tazZUdVlMWXdmdl93OFdTWi0yNmdEWm12NG1Rcy1tY2huR2g1cmNBWUo5aEpQb2J6QzAzQlg5VU5JZEhBcENZRWdTaWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzRyS2FpTFZEMUo4YmFlSWc4Ty00UDFqX3JaYWNpZVpYYlpaZk9FdFRWcThxdUtVYWtvSnhDR2UwRmp4ek1oNTNPZ1Uwd0FURWluQ0M2YUE0VUZzdGdrcVNmQjhpSXZzWEhqQks2WDVyb3dSS2tSem1tV3QwWnlSZElFSHRMRWJnS0FpTTJySV9tMlV3OFVJV1B6aGROazRqTHdfOGUxbnYtdTZpNlgzSGtOYUVuVFI2UWJ3?oc=5"
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzRyS2FpTFZEMUo4YmFlSWc4Ty00UDFqX3JaWWNpZVpYYlpaZk9FdFRWcThxdUtVYWtvSnhDR2UwRmp4ek1oNTNPZ1Uwd0FURWluQ0M2YUE0VUZzdGdrcVNmQjhpSXZzWEhqQks2WDVyb3dSS2tSem1tV3QwWnlSZElFSHRMRWJnS0FpTTJySV9tMlV3OFUJV1B6aGROazRqTHdfOGUxbnYtdTZpNlgzSGtOYUVuVFI2UWJ3?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/fFgMO4cd0fGAjJvOIm2AyVJ7Iu8.jpg"
+   ]
   },
   {
    "ts": 1795021852.1635628,
@@ -474,7 +576,11 @@
    "urls": [
     "https://www.indiewire.com/news/trailers/artificial-trailer-luca-guadagnino-sam-altman-1235229086/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/sTKpFaObARrgKXU3099qbBjLLod.jpg",
+    "https://image.tmdb.org/t/p/w1280/xM1K7aVHb2JOBeWCRGp4X0DoAXg.jpg"
+   ]
   },
   {
    "ts": 1795025393.171853,
@@ -483,7 +589,11 @@
    "urls": [
     "https://collider.com/the-matrix-franchise-reclaim-rights-wachowskis-david-ellison-skydance/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/Ams57f2bNSwWsoQWCfD5u3xQjgS.jpg",
+    "https://image.tmdb.org/t/p/w1280/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
+   ]
   },
   {
    "ts": 1795028972.623283,
@@ -504,7 +614,10 @@
     "https://collider.com/netflix-grendel-animated-series-confirmed/",
     "https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w780/6bAoqHxWSGNsVDuxdvNrIYWdUaL.jpg"
+   ]
   },
   {
    "ts": 1795036079.763035,
@@ -512,10 +625,13 @@
    "rubric": "Касса",
    "urls": [
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTllZeE5qdWxCSHpNc0dkNU9oZkVRcXBkak1BY2ZjMkczdUxmSW5HcGx2NW5GMEhEUTRQR3JSZHNPNndtQThwWFNTYmV0RENQenc1QnYwQ1h2WmdOZWlBSl9jazE3XzA0VDcwNXZqRS13WlZxdEVpRnhHMHhtZXdTRlpFakg0QUljM2tSWlhmaE9rM3dYVFZhZ0czQUxIdHF4SVF4WG1n?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGJXQ2Iwbjhra2xKRW1hWVI1anFVaFhoSklRVElyZ1dBZ3dpbHBYYVVqOTIyeFVOZDQxZUkybnQ5V3ZrZVdXZXlIbllVYjNiQmNNcEFHckpZZnRkVG1vZlhDMWp2RXotSUVCcTFXYXZFS2g0WlZhUG0zakdXbHdHWS1JZThqbjVOZk5fU0xSNTVUZS1ndTVDQVI1ajhtQ2tHT0h5SEpnWS1kOFFKcEdkTzUySkFFakNLdFI1TURB0gHDAUFVX3lxTE02YnFNSnFYWFVkMzlsVVNBTHIzb0RRN2VIZnJjR1YtdVluV2Q2X0NLX05JNlBDSGdQS21EZW5iV0cyMlFXdXJRSUY5RGNfbEF0UXdvNkRGN01RMmg3NklndEpab3BLMjBHeFM4VDdUZWpra0pvbFB2VWYwdmtsdHZMYWMyLUpqckZHOU1xVy16azN3UUpLNF9oWjhycUM4NVdEUkd0UHhjdHE2Rmd3XzVjVVpDR1ZjbldtVUxkeEktWFBpdw?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGJXQ2Iwbjhra2xKRW1hWVI1anFVaFhoSklRVElyZ1dBZ3dpbHBYYVVqOTIyeFVOZDQxZUkybnQ5V3ZrZVdXZXlIbllVYjNiQmNNcEFHckpZZnRkVG1vZlhDMWp2RXotSUVCcTFXYXZFS2g0WlZhUG0zakdXbHdHWS1JZThqbjVOZk5fU0xSNTVUZS1ndTVDQVI1ajhtQ2tHT0h5SEpnWS1kOFFKcEdkTzUySkFFakNLdFI1TURB0gHDAUFVX3lxTE02YnFNSnFYWFVkMzlsVVNBTHIzb0RRN2VIZnJjR1YtdVluV2Q2X0NLX05JNlBDSGdQS21EZW5iV0cyMlFXdXJRSUY5RGNfbEF0UXdvNkRGN01RMmg3NklndEpab3BLMjBHeFM4VDdUZWpra0pvbFB2VWYwdmtsdHZMYWMyLUpqckZHOU1xVy16azN3UUpLNF9oWjhycUM4NVZEUkd0UHhjdHE2Rmd3XzVjVVpDR1ZjbldtVUxkeEktWFBpdw?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMURwU3prWllPRnJuMmczQ0FtQ0FCN1VUMlRlTDRlUDhrRzJCNHFVN2FsalhDTFpIOWh3QkxpeVF5UDY0YjFYdTBMa3c2eUphQXhUYUJjTy11Y3E4a1VCcVYxMUd4QkxzckN3TnpJVjM4S3lITUhRbnVRaW1aYWN2cnlTT05KU2dNWjVBMVQ0ejZoM29oTUJYaDJoZ2djcUhqUHY4RkZXaw?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
+   ]
   },
   {
    "ts": 1795039840.615035,
@@ -536,7 +652,11 @@
     "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984/",
     "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w780/2c0UOBpTJX5uynGXUA7xldCgkVV.jpg",
+    "https://image.tmdb.org/t/p/w780/mlgOylIhGyEyLq4GVKm38fejK7I.jpg"
+   ]
   },
   {
    "ts": 1795061427.6178179,
@@ -545,7 +665,12 @@
    "urls": [
     "https://deadline.com/2026/11/clandestine-series-paramount-plus-brit-marling-tilda-swinton-1237227752/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/iiEiwcEaOObQXHoOitU1wstZmMF.jpg",
+    "https://image.tmdb.org/t/p/w1280/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
+    "https://image.tmdb.org/t/p/w1280/mjU3B6IK8oGd19Jed4gzqKp0KCP.jpg"
+   ]
   },
   {
    "ts": 1795064976.281148,
@@ -555,7 +680,10 @@
     "https://variety.com/2026/film/news/michelle-monaghan-justin-theroux-sleepover-blumhouse-atomic-1236952362/",
     "https://www.hollywoodreporter.com/movies/movie-news/blumhouse-atomic-sleepover-michelle-monaghan-justin-theroux-1236758889/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg"
+   ]
   },
   {
    "ts": 1795068581.6870346,
@@ -572,12 +700,16 @@
    "title": "Джейсон Блум и Джеймс Ван о рекордных сборах хорроров и успехе «Одержимости»",
    "rubric": "Касса",
    "urls": [
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVU5SY2ZpenlMOUhmdnFFTUw3SE9UYUpOS0VzbVJFY0RYSXFrWTFfdTFCSVBMdjMtQzN0djdaMDBZVE9nVWNabTRRa2NPbFk0Ulk1MEtpWi0zTTJNSVVnQjJTakxzeFc5dDdrUUczRjMwczRaZlVKV3h5bDl6dnM2SVI1RHdjY2RNSVZNLVltOWtTa2RZOU9zMllWMEUyV1RUTmZBXzd6VERsaW5xdXJEc2c3emw1SkVVcmFoc25JeVNlSl9PczhSdWNuVFFfUDdUSEc1enQ2UzZjd2x0YzA2dU5SWmFLUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVU5SY2ZpenlMOUhmdnFFTUw3SE9UYUpOS0VzbVJFY0RYSXFrWTFfdTFCSVBMdjMtQzN0djdaMDBZVE9nVWNabTRRa2NPbFk0Ulk1MEtpWi0zTTJNSVVnQjJTakxzeFc5dDdrUUczRjMwczRaZlVKV3h5bDl6dnM2SVI1RHdjY2RNSVZNLVltOWtTa2RZOU9zMllWMEUyV1RUTmZBXzd6VERsaW5xdHJCc2c3emw1SkVVcmFoc25JeVNlSl9PczhSdWNuVFFfUDdUSEc1enQ2UzZjd2x0YzA2dU5SWmFLUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xU09PMEtMdlRhZS0yS0lYTUFkQWtabm4zWGRJWnpZeE9vUmJDYjI1THpYd0RFeGNDRGw1Y0t0ZWFSYzVraTYtdWtPdW91WTVHc3VTT2x3VjlHZUF3MWg3WWpFTjREenc?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1JEZXpXaUhEalBzbW1MemNiSnBfck5oeWd1TWhSYS1sU3A2aTkyZjg3Q2ZrOTNKTjZWbktSQ1FqSjZNX2pFUGJ2U0x1eVlJWHFCeTAwUDZLMU1LaW1Cc1hpTEdKNmh6cU9ZQ2hiU2tUX29iN182Z29YX3dkN1BvZkNJV3dwbUJCS0VN?oc=5",
     "https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/cfoFgrPULUMFAP0XCo6hfjzKZGN.jpg",
+    "https://image.tmdb.org/t/p/w1280/odSvWtn22HynOxFEwJuGlR9uUKj.jpg"
+   ]
   },
   {
    "ts": 1795076221.3305004,
@@ -586,7 +718,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVZaT2hCel9kX3U5YXRiQ0YwVUZucUdJM080dEpXdVZTTU1leHpycWxZdVUzUHVpellId2pfc0IzZ2ZTVm42akJfZDBPdEUtWlNXM09zU2JkaEZHT0dGUkZjZTdQbExPOXU0b2NnMjZZOGlmek1mZEppQTF1WWVId0ZZTE1mR0lKMm5XUXdxSTVBU2cwX0QwUTM4OGs3ZkxKbmFyZE1HeFlqbDVBRHpIeG1zZzdoa3JXSnlNeg?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/ji58D04dn1faMxjOBiRPsHRmb8Q.jpg"
+   ]
   },
   {
    "ts": 1795079441.4706633,
@@ -632,7 +767,11 @@
     "https://screenrant.com/the-day-of-the-jackal-season-2-release-window-first-look-peacock/",
     "https://collider.com/the-day-of-the-jackal-season-2-release-window-2027-teaser/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/dbYaUQz3oeu4Pyedyy9fxB5AHyU.jpg",
+    "https://image.tmdb.org/t/p/w1280/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg"
+   ]
   },
   {
    "ts": 1795108370.436187,
@@ -642,7 +781,11 @@
     "https://deadline.com/2026/11/after-life-with-main-archie-cast-disney-comics-1237228462/",
     "https://collider.com/afterlife-with-archie-disney-plus-main-cast-riverdale/"
    ],
-   "image": "article"
+   "image": "article",
+   "blocked_images": [
+    "https://deadline.com/wp-content/uploads/2026/11/Afterlife-with-Archie.jpg",
+    "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/riverdale.jpg"
+   ]
   },
   {
    "ts": 1795111778.4978497,
@@ -651,7 +794,11 @@
    "urls": [
     "https://variety.com/2026/film/news/the-nightingale-trailer-dakota-elle-fanning-book-1236953111/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/lsCvP342xZsUaX8s5cwzUryWLeQ.jpg",
+    "https://image.tmdb.org/t/p/w1280/8nNFGXzKmJ6tREY9ayjtd5iD5GQ.jpg"
+   ]
   },
   {
    "ts": 1795115494.1971526,
@@ -661,7 +808,10 @@
     "https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344/",
     "https://www.indiewire.com/news/breaking-news/gilded-age-renewed-for-fifth-season-hbo-1235229564/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/afUVsProh46h31w2EvL7qyHXrqj.jpg"
+   ]
   },
   {
    "ts": 1795119255.2062407,
@@ -693,7 +843,10 @@
     "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/",
     "https://www.kinonews.ru/news_144233/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/iEAukcYiyuByB23aitdcbRqrEqO.jpg"
+   ]
   },
   {
    "ts": 1795144214.3057444,
@@ -702,7 +855,10 @@
    "urls": [
     "https://www.film.ru/news/osnovnoy-treyler-lednikovogo-perioda-6"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/pJfMliqzzVzTU634zpYDMfYNX6c.jpg"
+   ]
   },
   {
    "ts": 1795147744.428861,
@@ -713,7 +869,10 @@
     "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/",
     "https://deadline.com/2026/11/bill-hader-linda-cardellini-they-know-1237229655/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w780/cOn1jOuamkfIFNNWVVtMBCaD7H1.jpg"
+   ]
   },
   {
    "ts": 1795151338.5382423,
@@ -731,9 +890,14 @@
    "title": "«Мстители: Судный день»: предпродажи билетов приближаются к ₹50 крор",
    "rubric": "Касса",
    "urls": [
-    "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQU1h2MEQ0ZUpDUzdES3JXN3d5YzRLV0VqRkhGQ2hhczBKNDVob0VNQnU3MFJwZE1WLTA4dWNhcHc0al9kaklZLXA5QTZzb3lXZVhGdTV2dWU4OTUzcnBHZFkxNGY2c2N4SGIwNU1KTzZlV1dPZVZHVnd1cERnX01hU1lUdXBfU1BZcUU5WExuV1hidDF2eWtIbVlMb2FVVTRza1otWk5jV19kWU9JQ2JvQzFPemMxVEtWOGl5WWthUG1oYVcxQ3E0TTdUVDFJWS16ck9FX3ltSjBGVG5ORVczRDY3U2lQTEV6eTFTRjA3ZTQ4VExSWERRUklpU3o2LTFfVW5sZ3NBanZ1UFAtdXlydjZNelRfRjY5Q3ZoSEFNaTFUZjFyQ0E4cEpvakdVMUtnN2hUcHNYeFBBaTQ1N1Z3V2NvekpWNDZ3ME1MRWdiUG7SAdYCQVVfeXFMTU9QcTU3TzNsUnRUejRsTHd2UEU4MERWMkpNV0tBTi1Vc0V6NVVjUHlqd05ZVHJmYjlYUU41dDkta0hDbUxTN1ZRbVQxZ2JGVmpjQmJJNlYwQjYwLTZibWlDX2QyX3c2YUNqVjZ2Y1plUFBFZ1p6VGc0eUVXQWprcndWeVFNMGVxWmFpR1hmQXBDSWk2Y0YzeFFBc2o5bzYtU2czVENXMENEcGN0MWQya3Fya1FQdElRN0trcEpyeXNFdE01SUtGbFlQVVFveU0wWWVzSVpoZFVoOE5CLVdEbHpfdUxNaWFiWjJ2NVV6OE5sN196OGRlTGVnT2RvdGNFVUsxRXlTQTFnQW93RFlwMlRvTkRRNTJOcU43QkIwWVFCRmk0VjBVOWFOQUVkVld2WXVyRWlsdzB0OE5IckdxdnlKTWxGeVJzVjBib1BWMTk3SzN3Yl9B?oc=5"
+    "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQU1h2MEQ0ZUpDUzdES3JXN3d5YzRLV0VqRkhGQ2hhczBKNDVob0VNQnU3MFJwZE1WLTA4dWNhcHc0al9kaklZLXA5QTZzb3lXZVhGdTV2dWU4OTUzcnBHZFkxNGY2c2N4SGIwNU1KTzZlV1dPZVZHVnd1cERnX01hU1lUdXBfU1BZcUU5WExuV1hidDF2eWtIbVlMb2FVVTRza1otWk5jV19kWU9JQ2JvQzFPemMxVEtWOGl5WWthUG1oYVcxQ3E0TTdUVDFJWS16ck9FX3ltSjBGVG5ORVczRDY3U2lQTEV6eTFTRjA3ZTQ4RExSWERRUklpU3o2LTFfVW5sZ3NBanZ1UFAtdXlydjZNelRfRjY5Q3ZoSEFNaTFUZjFyQ0E4cEpvakdVMUtnN2tUcHNYeFBBaTQ0NTdXdjZVZWNvekpWNDZ3ME1MRWdiUG4?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/4ZfiaVkh7dhpHJsPGnhTCviDjFC.jpg",
+    "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg"
+   ]
   },
   {
    "ts": 1795158706.1135716,
@@ -743,7 +907,10 @@
     "https://www.film.ru/news/onlayn-reliz-klary-i-solnca",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZXdkMEFSUUhaY3M4S1Y4QWhEYnIzT2pYX3hTRU5kc0trbHJyVFFYZmRkS3hMLU1aT3hEMmVmLVV2d0VIc2NMWFdMVV9wMkFQdVd3b2lyN1Y2TEF6b2prSUp3?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg"
+   ]
   },
   {
    "ts": 1795162185.1424456,
@@ -760,9 +927,13 @@
    "title": "Джек Куэйд вернется в пятом сезоне сериала «Неуязвимый»",
    "rubric": "Сериалы",
    "urls": [
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTI2aGxpUjEtMmtRWWVFRVlfbm4ycjhJWnlaN2JGLWtzZjRoYjJNSEk1M0tBNEp1aEpsX25QaGFBdGF1ZmhoUnI3dU5ueFdRSmUwSmczaWpzVjg4NG5qUkZHMk9Zd0hOSnBlUzBhV3c0TzVubUR5NWhkOE5MVms4Z3FfdF9tck1pbEF6MFlENHhxb0c1OHozbkNFU1kzM1I0Tkp2clJDSG93NkQxVFdNWUpRZUdmQkpBWk9icVVtY1lpWTFvcl8tN3dhTkJxTkx5M0tsX2llcDhpdVdKU1RaM0YwVU55dmFuWEd1TDBCdUU?oc=5"
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTI2aGxpUjEtMmtRWWVFRVlfbm4ycjhJWnlaN2JGLWtzZjRoYjJNSEk1M0tBNEp1aEpsX25QaGFBdGF1ZmhoUnI3dU5ueFdRSmUwSmczaWpzVjg4NG5qUkZHMk9Zd0hOSnBlUzBhV3c0TzVubUR5NWhkOE5MVms4Z3FfdF9tck1pbEF6MFlENHhxb0c1OHozbkNFU1kzM1I0Tkp2clJDSG93NkQxVFdNWUpRZUdmQkpBWk9icVVtY1lpWTFvcl8tN3dhTkJxTkx5M0tsX2llcDhpd1ZKU1RaM0YwVU55dmFuWEd1TDBCdUU?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
+    "https://image.tmdb.org/t/p/w1280/9qrroces8C6R9aKr08hACNPVXdZ.jpg"
+   ]
   },
   {
    "ts": 1795169578.860853,
@@ -780,7 +951,11 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3h2a3BfNDdkV1VkTTRvSzIyS19ibndZRFo5Q3Z1NnEtYWliQW96ZjVuU3VuY1QxQlZhSzBZRUUtUWhkc2UzeDlQMEpDTWwyQklZVy1xa2hOYTh2VlFrTjBrSkIzYWRFRTVXQ1dCZE9LTENldUY1TE0yNERuWDlFaXl3RlZFcnphUlJ3WjhCcTlfUFJJOWRkem9xTEtXMENMQVl6a2lRczZ0VTQ0NzMzbXFKMDRnTk5idkRnZERrT2ZqN0NQWU83dmlIVnpQMFg4Y2I5QUtzZ1ZYVWk5WWd5em5QTmNwQQ?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+    "https://image.tmdb.org/t/p/w1280/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg"
+   ]
   },
   {
    "ts": 1795176644.7983875,
@@ -790,7 +965,10 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNnFtN3V3cHFjMEhuQktEMWprY2s2R1RBeWxKc0Z6eG9OLUdlQVF4TWs4U0hXczdwRTlHRmppV29memRqa1FoWVVMWHAtNnBDdlE?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW13YmlsZ09VeWJsdWwyX3g4eDhKM2hGSHR6ZTdUbDBhLWVGUHliYTB5UzBmTmlPamdNUXBtRW1iWjNxVlVCZEFCUnFnMmVuSWxRR1pGbmNXaERQazgxNEQyblc2bTczaWprMUVRZlJSaEdMZFhvRkp1SUNxM244OUt4Y2lmei02dnRVSTFfN3lQYWpqdkRSUGdoMFQxY0N3T2tVVVRIMDFlQ2JSM2RxeWh30gG3AUFVX3lxTE5qeFREX1Z6dkNOcTNYLVJYbzFRVlo4SWNhSHJrd0E4aWdVTzY4eHVvSk5GQk00WFNrNjZ2T0dUNWhZdTE3dDljeUx1OHJnX2ZmakJVOE0xQThiTmFoMUpKQkNYOUZ2elRTZTU0S2J5N3NFQjc4MXQ5RjkxNzhKaHdsU3hxNWVwMTBQOG03QTRhNG9Ba0c5WjkwMWxNZlppbUliaDF3Q2JNV285WThMOEh0dnN3blpTQQ?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg"
+   ]
   },
   {
    "ts": 1795180155.82129,
@@ -799,7 +977,10 @@
    "urls": [
     "https://www.kinonews.ru/news_144236/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/l6pOvhDhN5C8Zh9p5rkRCDQlEkE.jpg"
+   ]
   },
   {
    "ts": 1795183967.717022,
@@ -809,7 +990,10 @@
     "https://deadline.com/2026/11/kieran-culkin-reunite-succession-jesse-armstrong-movie-1237230018/",
     "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/va91QsVNhinjAhMps6KLbEknajG.jpg"
+   ]
   },
   {
    "ts": 1795187420.845165,
@@ -819,7 +1003,10 @@
     "https://screenrant.com/mobland-season-3-filming-tom-hardy-return/",
     "https://collider.com/mobland-season-3-filming-begins/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+   ]
   },
   {
    "ts": 1795191234.2303357,
@@ -852,7 +1039,11 @@
     "https://collider.com/polly-pocket-movie-cast-lili-reinhart-talks/",
     "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/mF21J5mBfGdVFDHLWCX8VeSSz1N.jpg",
+    "https://image.tmdb.org/t/p/w780/krP3tWoW2hFbGboVd8lzPItivRf.jpg"
+   ]
   },
   {
    "ts": 1795201721.091194,
@@ -864,7 +1055,10 @@
     "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/",
     "https://screenrant.com/home-alone-reboot-macaulay-culkin-development-report/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/a8tH0jl37366bLVyPB08dncgqqd.jpg"
+   ]
   },
   {
    "ts": 1795209083.0596497,
@@ -887,7 +1081,10 @@
     "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUh2LUFzdWdLems1QU1Qb0pzRm9udUtrLVcxcDBpdXU2U3J5TzVxWlJhRFRfNWhjTDJVaVhwMndXY0Z2TjBvOWtnSlNYaTVzQ3JOTWhMN0NRbGh3ODBFbjc5VGZ5X0JpeHFjLVc0dkVLd0ZpTnd0WFlXVnM3VUN0V1BfbWY5NHFMSzhhMU5qbUNKVHZsUjJGb00zeUNrbnRtUVdGZUtWWjNxVC1JTVdBODVmTzNsSFhPWXc?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
+   ]
   },
   {
    "ts": 1795230677.2031038,
@@ -897,7 +1094,12 @@
     "https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVV6Rnp0emIxRmJ4Yk5Fc1FjRHp1NDlWMXl2bW9MWkFvVmVZNUs4UVRvNFk2ZFpMMUE2eVlOYms4cmhtUkl6VVZGWGswSnJJaHNTeTdYcjJpaFhFV2h5T2tmZm5oNnNlejFDU1o3Vkk3d2tQOUZxblNGdVdENmw5U1hPMU9rRWpDN2J6WHNwMFJaREJSS1ZrcXRyVlBpOGE2RXFrUWhR?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/A8pgt5mUtzN3gUnYxBkNgMhNLfr.jpg",
+    "https://image.tmdb.org/t/p/w1280/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+    "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
+   ]
   },
   {
    "ts": 1795234240.3444993,
@@ -925,7 +1127,10 @@
    "urls": [
     "https://collider.com/slow-horses-apple-tv-renewed-season-9-10/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
+   ]
   },
   {
    "ts": 1795244850.4970791,
@@ -934,7 +1139,11 @@
    "urls": [
     "https://screenrant.com/john-wick-untitled-game-prequel-setting-confirmed/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
+    "https://image.tmdb.org/t/p/w1280/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg"
+   ]
   },
   {
    "ts": 1795248657.5506487,
@@ -953,7 +1162,11 @@
    "urls": [
     "https://www.film.ru/news/lui-garrel-u-bena-stillera"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/yLVuYhuv6EDOfvcluz7BR0Dccz6.jpg",
+    "https://image.tmdb.org/t/p/w780/lRfdoj3FiddIP5mAPbCUgstZjtj.jpg"
+   ]
   },
   {
    "ts": 1795255734.1675959,
@@ -971,7 +1184,11 @@
    "urls": [
     "https://collider.com/the-office-cast-reunion-nbc-100th-anniversary-steve-carell/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/rwfbbTIZakqQxtEGTQdmDNXuPxj.jpg",
+    "https://image.tmdb.org/t/p/w1280/tESyWvpMZczQCYL6dWuKoqdGrpi.jpg"
+   ]
   },
   {
    "ts": 1795263103.0273852,
@@ -1007,7 +1224,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLUs4alVYSXRudmVnaThfWnlUSUltUHdTbnZZTU9hbThEQjRwQWVwNVdiTG4zUEgyWk50VnNqVVlRaXNFYTFuUmtQMXFxbWhPdXBzMUVUdHYxQnBwTzE5QTN1VWhYN2xKWUJlUTlJVU4xVFBlUzVhRERDQ1dCRFpsSGo0U191NDdiWnJ3MVNxd1JCdXFrN19UZWFVVzR4WmxXaEpDcFZ3ajhsamVTeXU4cklIeWFwcXd6eVF5bms1OTdaVW1xTVNXN2xxclk?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/j1PzqAMU4LzUnz60q9EEqmeX24n.jpg"
+   ]
   },
   {
    "ts": 1795277295.8361866,
@@ -1029,10 +1249,13 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjV1WU02bzM3RXprY1AyeHVFc2JPWjBRM0NEODBXdFFIeXI3XzYyRW9rVk90SVpFQ1lzS2g0NTZQR0NqTG83VzU0U0FIN054NmlGcWlmbTlpYmV4TlVSR04tQzFEdVQ4VV9NUXBlMXN3a19HZ21mWnJRMm5YRi0yX29iTDdBUnBtazNTY0xKQ0pPdU9zQk00aXllVXBoMnl0QVpmRGl0Q3NhUVM4NE9jTA?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaldkSEQ3azBLUl9CSnBWYTVJb0VKTGtFYk9BV3RJS0Y3NjVrVmZpSGdZRUVYUHRpYnB1NHhEdFV5eFMxZlJFUG5OWmNGN3hncFlubURnYlptQmt1ZGRkRlVYUmdXV2Zvd3ptOHJ6dlVRbVhvT1J6TG5wMGhvQzdQYnBSbnFvZDdrZ2NNSEhyTFU?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXNPN1Q2d2RqLVpiQUlhNC11V0VpS3ZnNm8yYWJrTzZreEsyWmlSV2ZUNTJ4dnM2dWpBVTBxZkMxTi1RQ3JrRXdZQ1g5d2NOVVNpOTZDdDlhbGhmOWxTZVRhV0N5RzVQelRveFNyVVpsZl9aMExKNkF2bm45OHlRdlhQWFVvb29qR2R2WVVPeFgtdm5jUnJVckM4cW1ZOHlBN2k3U0U5SktScnFtZEpGWDI5RWdUN3EyYzNPZlN1QW1TZw?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM29VR01JTllYUFRtNXFmemJaQ1F1emcyTjUtYVEtR1NvWDA2MUVBeEo3Q0NoY21OSUhuR1JGNTNYSVlWc2ZYVkt0WTJxY1djWHNnZ0t3aVBrUkpzVmM4V2VDUy1EdU9ZMU9ZUDJzcjUzMjk5b1JWSlRyamRXV2ZKZzdSMWZPM3FCU3pVdFFPaWhBYlhvMlo5TDFVd0FFWGx6bFk2MHVRUFdLY21uN1Bj?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXFCX01mM0x1X1o2dHZubzNURHMzS3RfdDBGZUduaWpOcDEyUkg0cUtNSFNUZkdIRTBQYW9McXpqYU9ETmpVUW9XS05LRUhBWVFtRHZJRktDWVJzNm85TEpjdkVrdmlGM0tQSERCbzZHM0xlbmpjcmRFRXZFMXpGNVYxTkFCSXFXQjQxVDVrRC10SzloM0MxOU55OXpDVTdzVTZfTGhicFZNSUt2S2JVdDFaNk4?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM29VR01JTllYWFRtNXFmemJaQ1F1emcyTjUtYVEtR1NvWDA2MUVBeEo3Q0NoY21OSUhuR1JGNTNYSVlWc2ZYVkt0WTJxY1djWHNnZ0t3aVBrUkpzVmM4V2VDUy1EdU9ZMU9ZUDJzcjUzMjk5b1JWSlRyamRXV2ZKZzdSMWZPM3FCU3pVdFFPaWhBYlhvMlo5TDFVd0FFWGx6bFk2MHVRUFdLY21uN1Bj?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXFCX01mM0x1X1o2dHZubzNURHMzS3RfdDBGZUduaWpOcDEyUkg0cUtNSFNUZkdIRTBQYW9McXpqYU9ETmpVUW9XS05LRUhBWVFtRHZJRktDWVJzNjY5TEpjdkVrdmlGM0tQSERCbzZHM0xlbmpjcmRFRXZFMXpGNVYxTkFCSXFXQjQxVDVrRC10SzloM0MxOU55OXpDVTdzVTZfTGhicFZNSUt2S2JVdDFaNk4?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
+   ]
   },
   {
    "ts": 1795284608.125901,
@@ -1041,7 +1264,12 @@
    "urls": [
     "https://collider.com/alan-ritchson-reacher-season-4-most-watched-show-prime-video-2026/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/pSZjljGvVTZ5thYd8uEJ95MWrHU.jpg",
+    "https://image.tmdb.org/t/p/w1280/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg",
+    "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg"
+   ]
   },
   {
    "ts": 1795288317.6685493,
@@ -1050,7 +1278,11 @@
    "urls": [
     "https://collider.com/sydney-sweeney-the-housemaids-secret-sequel-filming-update/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/2b3RNXF7ca9bgX8FrjRBYfLnNQC.jpg",
+    "https://image.tmdb.org/t/p/w780/2apYHu9nUNFaNMXgVmv9BFz0Gda.jpg"
+   ]
   },
   {
    "ts": 1795291772.5088878,
@@ -1086,7 +1318,11 @@
    "urls": [
     "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/fvcpnw0HeNUiKJMsrJnGuQN260M.jpg",
+    "https://image.tmdb.org/t/p/w1280/oNXn7FAxd0mLz3P50vyqERKzQWR.jpg"
+   ]
   },
   {
    "ts": 1795320574.999611,
@@ -1095,7 +1331,10 @@
    "urls": [
     "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg"
+   ]
   },
   {
    "ts": 1795324110.7165194,
@@ -1104,7 +1343,10 @@
    "urls": [
     "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/FjqN9Aaqxd63Bfjoft6APu4Fua.jpg"
+   ]
   },
   {
    "ts": 1795327721.1272466,
@@ -1120,7 +1362,7 @@
    "title": "Создатель «Игры в кальмара» заговорил о четвёртом сезоне",
    "rubric": "Сериалы",
    "urls": [
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmVSYldRRUw4OTdUTTl4VHlzSW9XUU01djVzZFlnNzNpLWZGd09tMHpwaFNVUW1icHpPeTc5WkZ1cEhLbXBRcjZERmhKQjhkWTM2UXVHaXB1dzZiTU9ZQ21kWDZRQk5Hb1QzUW10UFQ5bTlmOFV1d0FGMzF5YXBzUkFMTzJzbVZjTUMtczZrZTRaRFFPMmlXWjkzOXF6UkRXX1ZTMGhhVmxkVmlVY1pTY0QxN0MwWUhKTzNTbDYtZlJCSTdhOTh4NGRiWkw?oc=5"
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcmVSYldRRUw4OTdUTTl4VHlzSW9XUU01djVzZFlnNzNpLWZGd09tMHpwaFNVUW1icHpPeTc5WkZ1cEhLbXBRcjZERmhKQjhkWTM2UXVHaXB1dzZiTU9ZQ21kWDZRQk5Hb1QzUW10UFQ5bTlmOFV1d0FGMzF5YXBzUkFMTzJzbVZjTUMtczZrZTRaRFFPMmlXWjkzOXF6UkRXX1ZTMGhhVmxkVmlVY1pTY0QxN0MwWUhKTzNTbDYtZlJCSTdhOTh4NGRiZkw?oc=5"
    ],
    "image": "tmdb"
   },
@@ -1131,7 +1373,10 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalNQM3RvQ1RBaTRWUjAtUV9vTHRjY0cwN0RRNUpBdGRka1BQekdwMy1jSk82RThxOUpFZzdsUWctM2NiQU1pNnlNTHFpaXlLdzhMcW43NVJsamtJSlVVOE1scnNzVVo5aHBFS3NVX1RvZGoyOGczRWRqM2lOX1NXdGpOVGFqX2hfODZ0SGtnYzJTbGNZaUNRSlJiRG0zc2NWX0x0WUFR?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/sGJKN7OhLTpZ2TwstYyyAUr4x1V.jpg"
+   ]
   },
   {
    "ts": 1795338678.0643466,
@@ -1140,7 +1385,11 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHJGcDVDUjc2azFvNHZ0SDdsU3FIYmxmMGpCQVNUWTE4dEsyUFFIRHZoUi0xRkVONnhiU2FkaExuNDExSXk0ZnQwVUwyd0hBWHJJUHlEVHB6c0NhRlVSYTVlWUdkU3p0VWp0eGdqUWEzNzFlM1Q0U3dYQS1rUGpsWHNIcUo5NFV4V2RuWW1jQ0tSa2d0T3dZTzZndVFnQjNoQVNmUjVlQzFKN0ZIblFDQTY5RnhCM2xBd0JpbEdtU0FKWlJZ0gHKAUFVX3lxTFByZk9oN0V1a3E5bTZ0RVR5czEtLWNzSXBfUmFlZXJ4X3Brd2QwRW1sT0xmS2pxWUNadGxnN3EzeGI1amx0U1N5RGhEMEFjblotSUVra0tmTmtJTXdyZ2JITTdWVThJNVdMb21xY2RybjR1enh5QWxDek84aFFvOG9YMXdBU0NNblpsN2R4N0xsRHVyVE0tWmE2YUhTR3paM05peUNrS0hGVkZySnhuSE9qNENSS0swQjBZUjVhTC1MZ2R5TC1GbDRhdXc?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/8tmTaLSExk1pnsoSaLNCmLCMxjN.jpg",
+    "https://image.tmdb.org/t/p/w1280/cWX6nC0Isyc7yRZJE1b7dxL764d.jpg"
+   ]
   },
   {
    "ts": 1795342110.6904736,
@@ -1149,7 +1398,11 @@
    "urls": [
     "https://collider.com/guy-ritchie-the-gentlemen-robert-de-niro-inspiration-theo-james/"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/88wq0JNtS4ru1tpcWnp7QB2pWx0.jpg",
+    "https://image.tmdb.org/t/p/w1280/mdaBC7yEcorGC4uI9U5CEyfWsvK.jpg"
+   ]
   },
   {
    "ts": 1795345707.714514,
@@ -1168,7 +1421,11 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTlsREMxTU5jOWppVXA1a3FtODR3RUdWMnNGUkRZazlWUXdVaDVVY2NYVy1TdTlhak03Y3FKcUpBT2ZhN0ViM0d2YW1zcEh1aDJuX2JzekstVkhjbEtiMEpacnp1dEVkQmpxMmNtMnIwVlZ4WGppYnZIT1A3NDdVTGpxdG1jUTY5czRaR2tKcDRrYTIxVkJBSW1JRFpNWGxEenJGaFBueUJBaDJMQ1lGT3ZwcHBNMFJSdU9kN1lVSkRHVlM4N3lvenRn?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWpRRmdfeVM5LVBNeTJPbEJBQjBZWmVHVV9JSjIxRi01OWhVVm01SVgtMURGVDRVUzk1dGxIXzRfcXdjRndKNkREWHlIZHc0dU4xbFlWYm5MbjZqMTdBN3FWcmFmaHNUTnU4NFR0Ml9SR3ZCNmZiNTh0dWxBVjV4OThRVVY5Q3RZSW5PcjlVTTNGNGZYb09DNFpibm4xZ1RoSUtCTEZVNjkzWHY0ZmhGVnBwRFNYNWlVN0wzWXgyNTdCMHY0MWpj?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/nU5YaWbnF4dmdpSQz06Dn2uL0Hk.jpg",
+    "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
+   ]
   },
   {
    "ts": 1795353069.0598404,
@@ -1186,7 +1443,10 @@
    "urls": [
     "https://www.film.ru/news/deni-vilnyov-snimet-kino-o-yadernoy-voyne"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/w1280/l6pOvhDhN5C8Zh9p5rkRCDQlEkE.jpg"
+   ]
   },
   {
    "ts": 1795363667.8101053,
@@ -1205,7 +1465,12 @@
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxS19hbExQYWVac0VqRDhzZG9XczAyNHg3LWhOclYzNkZsTm53dHo3RldmMG53UlNxMzF0VHNPeG5JUW9qSklRN1A1MngxOTZPRUFaVDRYOVR3WXc5eGN3?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGF1RlNEQTI2dU9hY3YySk1lcS1ROVdOWFk5MXZjRVVPaFlFRUtqa2RrUlR6TV9oODNUUUtpUm9TTmpFeUlTMFFYeENfZThjX212b2NrNkJmbGY5M0hVb0EyUjdrTmNzcVRKd2JZMVVZeEJ1aXl3SktYalJGaEdpOW4zMjJVZ0hFdzgxalFxZw?oc=5"
    ],
-   "image": "tmdb"
+   "image": "tmdb",
+   "blocked_images": [
+    "https://image.tmdb.org/t/p/h632/xX6aB2rH84LiwPB4c25iPTzMB9t.jpg",
+    "https://image.tmdb.org/t/p/w1280/bEiScnhsrzqIGMouk6jq3PCmVe4.jpg",
+    "https://image.tmdb.org/t/p/w1280/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg"
+   ]
   },
   {
    "ts": 1795372668.6783104,
