@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794751769.8571372,
-   "title": "Звезды «Холодного сердца» вернутся в новом сериале Disney",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/frozen-kristen-bell-idina-menzel-new-disney-series-national-geographic/"
-   ],
-   "image": "article"
-  },
-  {
    "ts": 1794755382.437144,
    "title": "Меч Дарта Вейдера из «Звёздных войн» продали за рекордные $4,875 млн",
    "rubric": "Индустрия",
@@ -1269,6 +1260,15 @@
    "rubric": "Сериалы",
    "urls": [
     "https://collider.com/harry-potter-hbo-reboot-first-scene-dumbledore-book-change/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795356800.9993157,
+   "title": "Дени Вильнёв экранизирует книгу «Ядерная война: сценарий»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.film.ru/news/deni-vilnyov-snimet-kino-o-yadernoy-voyne"
    ],
    "image": "tmdb"
   }
