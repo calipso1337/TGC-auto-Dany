@@ -1,24 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794744730.766964,
-   "title": "Звезда «Скорпиона» сыграет злодея в пятом сезоне «Ричера»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://collider.com/reacher-season-5-ari-stidham-strip-club-kingpin-casting/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794748151.5045102,
-   "title": "Появились первые кадры нового мультсериала «Гарфилд»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25BTWlXSnI5TjU0Tk5QeWdqRlJUSXFJVEJmRXdnYTFvNkRienZFTXRtd0ktTm8wUkNHemU3T2R6a0FPd2VRVzNQVkZEc1lqcjR0ZVlaTjN1UVQybEs1ZVJWWmZZQTRCRjdUZkowTEFxQUZXV1hEVEpvdW1ZTktKU3JNbEJ2NUI1dkp3YnRYWFlkdWxuSXNGMG8xSjUtWmfSAaQBQVVfeXFMTTVvWnlHbWcxRUJGTnhYZlg4b1hUbmQ0QmlJeFA2YTFnVVI4Nnc3U2plaWY1Y0E0Um5XdkFQeVF1NmpBaTdZV0kxVnpXRERqMTBsaXJaZk00WjQ5c2VpcFRJVlBIUjZ5ZkZubU82TDJjWk15eXVNVTBPbUFZLUJHTUJXQl9wcUJiY05mOVRYTUZlNGh1MFVHUlNNaUdHRFZOblg5eko?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794751769.8571372,
    "title": "Звезды «Холодного сердца» вернутся в новом сериале Disney",
    "rubric": "Сериалы",
@@ -1278,6 +1260,15 @@
    "urls": [
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTlsREMxTU5jOWppVXA1a3FtODR3RUdWMnNGUkRZazlWUXdVaDVVY2NYVy1TdTlhak03Y3FKcUpBT2ZhN0ViM0d2YW1zcEh1aDJuX2JzekstVkhjbEtiMEpacnp1dEVkQmpxMmNtMnIwVlZ4WGppYnZIT1A3NDdVTGpxdG1jUTY5czRaR2tKcDRrYTIxVkJBSW1JRFpNWGxEenJGaFBueUJBaDJMQ1lGT3ZwcHBNMFJSdU9kN1lVSkRHVlM4N3lvenRn?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMWpRRmdfeVM5LVBNeTJPbEJBQjBZWmVHVV9JSjIxRi01OWhVVm01SVgtMURGVDRVUzk1dGxIXzRfcXdjRndKNkREWHlIZHc0dU4xbFlWYm5MbjZqMTdBN3FWcmFmaHNUTnU4NFR0Ml9SR3ZCNmZiNTh0dWxBVjV4OThRVVY5Q3RZSW5PcjlVTTNGNGZYb09DNFpibm4xZ1RoSUtCTEZVNjkzWHY0ZmhGVnBwRFNYNWlVN0wzWXgyNTdCMHY0MWpj?oc=5"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795353069.0598404,
+   "title": "В сериале о Гарри Поттере изменили сцену в Большом зале",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/harry-potter-hbo-reboot-first-scene-dumbledore-book-change/"
    ],
    "image": "tmdb"
   }
