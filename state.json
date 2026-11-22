@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794712167.3835392,
-   "title": "Крис Пратт хочет сняться в «Стражах Галактики 4» с Джеймсом Ганном",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/",
-    "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-1236755525/",
-    "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794715862.5403576,
    "title": "«Уличный боец» лишился почти 2800 кинотеатров из-за слабых сборов",
    "rubric": "Касса",
@@ -1281,6 +1270,15 @@
    "rubric": "Индустрия",
    "urls": [
     "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/"
+   ],
+   "image": "tmdb"
+  },
+  {
+   "ts": 1795320574.999611,
+   "title": "Сериал «Шершни» завершится на четвёртом сезоне",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
    ],
    "image": "tmdb"
   }
