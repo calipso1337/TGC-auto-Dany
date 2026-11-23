@@ -1,30 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794798532.2220728,
-   "title": "Гленн Клоуз и Ридли Скотт получили почетные «Оскары»",
-   "rubric": "Премии",
-   "urls": [
-    "https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318/",
-    "https://variety.com/gallery/governors-awards-2026-red-carpet-photos/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794802284.0281138,
-   "title": "«Годзилла: Минус ноль» побил рекорд первого дня и претендует на $105 млн",
-   "rubric": "Касса",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVB4dkptTl9hMkVBbFR4U3BvSEctLWtMaFNsSHpqZ05LSF85YUFpMXNiWlpCN01BRnUxdFM3MkY4WURody1ndHg5VVNfY0N2a1lTUFFFZ2RfYXh6bW9sYXJnZVVEb1N0dWZYSzNwRkJBdmRoR3JpVnMxSzctY29BMlk1bFZucXk2OWV2dE82cW40X2F2b3QwV1pDOS13WEo3c184Zmx0SEFqWUZtRjFGUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pdHY5dkktZS1VckJhUnJYRGVvbURKMHd4UFA1bUMxZE1PdHdMenEwLWw0eE9fZmRxY01nSEhKUXZ1dFo2eV9jbDhTeXBBRExMaDVOQzBZQWtIWXM3RlhkMjY1SmxZR1k?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/nU5YaWbnF4dmdpSQz06Dn2uL0Hk.jpg",
-    "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
-   ]
-  },
-  {
    "ts": 1794805861.3225024,
    "title": "«Медленные лошади» могут завершиться на восьмом сезоне",
    "rubric": "Сериалы",
@@ -1532,7 +1508,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
+  },
+  {
+   "ts": 1795409805.8021555,
+   "title": "Документалка «Увидеть все» собрала $100 млн в мировом прокате",
+   "rubric": "Касса",
+   "urls": [
+    "https://www.film.ru/news/uvidet-vse-sobral-100-mln-dollarov",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejlxTlNGV1kyRlRVeWVvZ2ZEZ05HNDBvRGJGYWhnZWd0Nk56LUFwRFEwOHhid0VTNXRWWk9OeTRNZkJNUmpoS3RfTHdyRmx3T0tsWGg2MGhQSk9XYlVIRVZRc25vdUs3NkwtVE04Ry1rT3doeVluUnNVeVFaUHo0MUFLLUI2YUo5dXdFX3lBdUhEUHVWR25ZVnBILVd0cWxfUFY3TVhLNXJQai1GeU9WZHZBVmlQQXEweUFnWg?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 06"
+ "last_post_hour": "2026-11-23 07"
 }
