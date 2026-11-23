@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794823709.6541495,
-   "title": "На Disney+ вышла расширенная версия фильма «Мстители: Финал»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://collider.com/disney-avengers-endgame-encore-doomsday-footage-november-2026/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/4ZfiaVkh7dhpHJsPGnhTCviDjFC.jpg",
-    "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-    "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg"
-   ]
-  },
-  {
    "ts": 1794827281.654319,
    "title": "Жерар Депардье отозвал апелляцию и признал вину по делу о домогательствах",
    "rubric": "Индустрия",
@@ -1515,7 +1501,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg"
+  },
+  {
+   "ts": 1795429596.5940683,
+   "title": "Режиссёр «Блэйда» рассказал о проблемах Marvel при работе над фильмом",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREhodDI1T3dPTmFMcVcyaE4wQWx1eHVfU3Ewd2EybmE4VzJ5N05DS0tiZll1czBxVFRzVF81YS00NDJFcUhyajU3dVZOTVhTcmxwemZidjQtYnFhcmVqVG00bnM2ZnUwbTBaREFjeFZLWGtENzAwb3o5Wl9ROFd6bdIBhgFBVV95cUxNNGZObkJtQ1RuaFcybHdQNV85enZFTExYckRJWGhBOUFXWGF0WXc3SlQwVEszV21hQ1pxZWRad0JaQlBaMWhCSnd2bnRPc3MtSjVtWGFoelpybTRqVUZBZk9KTVRlVms1aHFoOG1vZS0xaVE2Y050ZVZZclREVEgwN0d5bE5Ydw?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 12"
+ "last_post_hour": "2026-11-23 13"
 }
