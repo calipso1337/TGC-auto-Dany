@@ -1,41 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794852455.3714027,
-   "title": "Кайл Маклоклен присоединился к сериалу «Виктория»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/kyle-maclachlan-michael-hyatt-hulu-limited-series-victoria-1237225367/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/h632/nUTLQWHUO4IG7c5RVu0XSS9Jq41.jpg",
-    "https://image.tmdb.org/t/p/w1280/jpR7mT5nFAzWSGPseLpfFisoUtN.jpg",
-    "https://image.tmdb.org/t/p/w1280/k1PoqeqZb38VdUnnnJMXdrcUAPl.jpg"
-   ]
-  },
-  {
-   "ts": 1794856138.105726,
-   "title": "Второй сезон «Задачи трёх тел» выйдет 14 января",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/3-body-problem-season-2-release-date-netflix-1237225311/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794859743.6649575,
-   "title": "Гэндальф против Палландо в трейлере новых серий «Колец власти»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxON05DRTBBN0hWTWw3QUU5YTBLSGFRVFpjVUdRZ0dDY1h0d2dnTmJsRWlRY0t3OUR0c2lULTg3TWFRemJQNVlLV1kzT3N2MVRrd3lNbWh6XzUwT0RmOERsMHl5QXo4ZVg2YjlCS0owd2dBSDhNZGs1al9qd1VwMW0xNHFtVXhDYVFkZjZQTGJJNktFZk5vLW03TUpPNUM3NmNjVks1eGZabTc1R1NMME1aaWxZY3pWVHNPRnRDeVNSVnp3ZHNSRkE?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg"
-   ]
-  },
-  {
    "ts": 1794863250.2887807,
    "title": "Марго Робби получила роль в новом фильме студии A24",
    "rubric": "Индустрия",
@@ -1525,7 +1490,20 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/ohhQch6G9BKCKS9ZkqoV1XYcOxh.jpg"
+  },
+  {
+   "ts": 1795465357.5609636,
+   "title": "Стивен Спилберг снимет вестерн с Киллианом Мерфи",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1236761238/",
+    "https://www.slashfilm.com/2325439/steven-spielberg-paul-thomas-anderson-western-movie-cast-details/",
+    "https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084/",
+    "https://www.indiewire.com/news/breaking-news/steven-spielberg-paul-thomas-anderson-teaming-on-western-film-1235230075/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/99R0qr9iRbj5DQFXkvHLpQdzOEO.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 20"
+ "last_post_hour": "2026-11-23 23"
 }
