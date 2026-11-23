@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794863250.2887807,
-   "title": "Марго Робби получила роль в новом фильме студии A24",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lc0pmV2VLUVFhcHBSV3NjZDIydVNPYzRMRml5TjJuMVpYMlo5VFpUTmo1LXY2ZUtXb0Q5TjgyeHdXcjNlVGRRd19RWURCVHZhTE56UnhhLUV0VF9TWWg2VlpucnBBTVE?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794866979.1181998,
    "title": "Amazon готовит приквел «Списка жертв» об отце героя Криса Пратта",
    "rubric": "Сериалы",
@@ -1503,7 +1494,20 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/99R0qr9iRbj5DQFXkvHLpQdzOEO.jpg"
+  },
+  {
+   "ts": 1795470993.784963,
+   "title": "Сериал «Тед Лассо» официально продлили на пятый сезон",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zRGgxeTRIeHlnNWdPQnVYMV9US09aRlJ5M0JvcWxtTjBweFJDMlR3M2lsMjVhcFo5UHdFb3otMWtEQTc1Vmo0Nms2Y3FpZ0ZLWEVyM3A4VQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOanctbDc5U1dTSU9qNFQ3RlB6ZE82Vm5ySndGVnV3VFpUY1NXeVVFSXNEdkZzdFFmOG5iNVJnYnJKaXRxM2JFaDloMFByejdDTmdaTEptd2I2VGMzdHJTZ1NoWXdvZ1pGLVBpQmxPNVJPZ0tqa01ubmJxX2NqMmEwd01hSlRLYVJQY3h4U1YtZmtpOUwtR3Q4ZDVDaFFLRXF0TURLRUlrMTFaa3B4bXZFTDN3UGdVN2FxZ3c?oc=5",
+    "https://collider.com/ted-lasso-season-5-renewed-apple-tv/",
+    "https://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/4bG49jVR7NrCNQjahDUsDqvIwle.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 23"
+ "last_post_hour": "2026-11-24 00"
 }
