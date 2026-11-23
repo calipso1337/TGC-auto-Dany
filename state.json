@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794820185.560938,
-   "title": "Второй сезон мультсериала «Могучая Девятка» выйдет в марте",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUGtWVGFyaFZ1Qy11dEhlNDY1ODRBZmRJakxXaTBPSVRuMkt4TDB4RENHOU1Pby1yZUc4ZHFESnE1djlqdks3RVpRY3BKYVB2RVRXNm1pc3BCY2VBaVBpNkwybVRIbHFfQVU5WHB6Zkx6a2VUQlhmcmFGdGRrYzUyVURxbzRpYjdic25mUzhaemRvQUVROVdkcnJrZC1tb0MwOTNFT2pnRldocnpZbFBMUi1wZGlpYkhHMVVTU2plMjN5RFZVTkg1R1RVTkVSLTRVc296N0VtdmlkSmVyYWdFSWpzdWJFWDZ2X2VfRHEtVXFkLWJzeGRSVw?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/7K7wbQIpkzif4fMhDHsCweXFS42.jpg"
-   ]
-  },
-  {
    "ts": 1794823709.6541495,
    "title": "На Disney+ вышла расширенная версия фильма «Мстители: Финал»",
    "rubric": "Премьера",
@@ -1517,7 +1505,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg"
+  },
+  {
+   "ts": 1795426022.1799335,
+   "title": "Финальный сезон «Эмили в Париже» пройдёт в Греции",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQakY2aWNNOGFwcXBydlludmlYMnEycDR5d2RuSjNONWFJS1ZFd0JnQktncHRvd0Q0dDczc2hEa204RkU1UEZsQmZHRUhFNWh3VGdBTUE4eUJhMGhVVk83MWhXQ2R1Y1FzaFMyNmxHTzZzSVBySzlRcjItOENKaWx5ejNxdi1iRS1WY2x1WnFYNEZ4LVBHMmgwaXlYZUJOMkZGVUxzVmhLdlk0Y1dOQUkwX2J30gHCAUFVX3lxTE9vMUVpQXBBd2JORUNEMzBpWnNvak13RFZLczNhd2Fwbmhjc2gxX0Fjbm5pMi1kcjhyY21wVFJSdERPdGVWOVFlbkhoelZvamJuZkpQZWNNYXRRVG9HN0pIV3pNc29QNzRhQkVVYWo1LXFIdUpabU51X0tjWnNpeENLZzdobE9vWndOY1VTcUVmTlk5Ml9tdGNwdU1SdndTb3dxTUhZaVRNam1kdnA2dTZDZXJQTTNrVDdSTmgwMEdNd3FR?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 11"
+ "last_post_hour": "2026-11-23 12"
 }
