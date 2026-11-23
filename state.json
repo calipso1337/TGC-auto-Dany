@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794830956.1000032,
-   "title": "Трейлер сериала «Сталин» от KION",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/treyler-bayopika-stalin"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/h632/lXOn6MhSwB3idCyZrM58ZiKreCH.jpg",
-    "https://image.tmdb.org/t/p/w1280/e5QOY2JJRJw82tPeVjoJ04tFXIQ.jpg",
-    "https://image.tmdb.org/t/p/w1280/nX149x4sMTo1J95MPZvyjk7gJX3.jpg"
-   ]
-  },
-  {
    "ts": 1794834566.8942451,
    "title": "«Мстители: Судный день» собрали $150 млн на предпродажах билетов",
    "rubric": "Касса",
@@ -1511,7 +1497,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/fOseFlKN7CH0UfieRw735QrRYJ5.jpg"
+  },
+  {
+   "ts": 1795437827.2675312,
+   "title": "Райан Джонсон снимет параноидальный триллер",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.kinonews.ru/news_144279/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 14"
+ "last_post_hour": "2026-11-23 15"
 }
