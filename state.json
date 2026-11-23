@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794816506.6052155,
-   "title": "Николас Кейдж рассказал о краже его коллекции комиксов на миллионы долларов",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.kinonews.ru/news_144171/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794820185.560938,
    "title": "Второй сезон мультсериала «Могучая Девятка» выйдет в марте",
    "rubric": "Сериалы",
@@ -1514,7 +1505,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/bazlsLkNuhy3IuhviepqvlMm2hV.jpg"
+  },
+  {
+   "ts": 1795421704.7596114,
+   "title": "«Глиноликий» выходит на стримингах после победы над провалом DC",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTZrM2hjcEVtWlZWRnpGTWhfQTd1ekh0ZFl4TkJUcWFPLVJuWDdlYVJlTkNqd3pQa012ZVg3cUJKa0Q0M2FuSjc2VWd2UllWWDI0SEQ0MDRwWnhMWUl4ZG5USEgwQlJlclJqdExMdEdLeHNBVTJuRHRSVGR3SV9SZkJnR1FucDJ4UFo4LQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01X2RqeHJpM0RNV1V4MkpIcmk2azR1ZzRoY1FydTFPQWxsRERHRjN4TGRzVzl4eW5SNnN1S3hVZG1PSHd0REV3V0htRVJFQXN0LUdqRVdBRnFLNU1mOG04?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblJmUG5jZ0xndTdHaURNVzFZVVdseUJKWkZ5M3p1SHBFdFY2RVlxNUYxSFVzelFtRllYRGFBc2FHb29seWNmZzFxMUlNMng3TE4wTnR0VDYyTG9QdlFEUjdvSjg2aXZ4anZkUTRvcG44bW9zSXlBdUhhcDlUUHZnU0llcU5xTFV3UVFYMDc2akhMZlBtQXc4Qi1lZlY5ZFRmRTU4dGdvNWx2aWVoaFR0bzY4TllQRU52NmpLeDRTS1lrVWZhS2g0Sm8tWGpCQWphUEZPVUYyczdBSjBmTkE?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 10"
+ "last_post_hour": "2026-11-23 11"
 }
