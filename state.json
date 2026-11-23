@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794812993.5508504,
-   "title": "Якутская комедия «Директор» собрала более 30 млн рублей",
-   "rubric": "Россия",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTVWb3U4UEluS0VSUnlxZTM2ZTdrb19mbkdQWVhjMEZycEEyYjluaHV2dkdvNTh2aFBSRkg2VV9XWFNXdTMycVZFclNndDFDWE9IbFJ6R3doeUJMblZ3eGVTMkxyLWJOSkdzYkF4Nko2ZU1BdFFnWUQ0Tms5TDBtOTZKd2VCZTdhNnY5WFZHaDZvSGFTM3RtUjlyVQ?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/h632/9GVc1eEcrrgARXgOJ50viVNt3S4.jpg",
-    "https://image.tmdb.org/t/p/w1280/4OH161N3H7SjKJXK0S6fzviLZap.jpg",
-    "https://image.tmdb.org/t/p/w1280/keZhBHLjpthWnyLGgoaVtIGPn87.jpg"
-   ]
-  },
-  {
    "ts": 1794816506.6052155,
    "title": "Николас Кейдж рассказал о краже его коллекции комиксов на миллионы долларов",
    "rubric": "Слухи",
@@ -1518,7 +1504,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/r7uH0Wa7rzHyK83XQpxRZVH76u7.jpg"
+  },
+  {
+   "ts": 1795418313.855915,
+   "title": "Бюджет нового «Супермена» составит рекордные $330 млн",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXhtbWRzeTdjNVlJejNNXzRjeXE4SXpKaFBZNkdSSWJvYUlRdzRSZlB4Y0tqZ3dUN0dtX3JMUU04LTN2N3NDaEpiR05GbklFZXNuekRMYnFJUzZsX2VWSllDOWticUx3WHpIaEg0LTE0S2w0TXEyV19RSGVPd3dsOUxmTDBfRGFGOV9QVnRJTy1pc0xOdDhDeWVTY3VIUllJUU9zTjVUd3NVS3FISGNCalN5Mnl1NkNRU3JoQTVlZWJzc2xoLWpZMmxQTQ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/bazlsLkNuhy3IuhviepqvlMm2hV.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 09"
+ "last_post_hour": "2026-11-23 10"
 }
