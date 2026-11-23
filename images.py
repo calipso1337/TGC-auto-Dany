@@ -2,7 +2,9 @@
 import io
 import os
 import random
+import re
 import textwrap
+import unicodedata
 from pathlib import Path
 
 import requests
@@ -49,6 +51,56 @@ def tmdb_lookup(kind: str, query: str, year=None, exclude=()):
     return res
 
 
+def _norm_title(s):
+    """Название в нижнем регистре без пунктуации — для сравнения с запросом."""
+    s = re.sub(r"[«»\"'„“”\-–—:;,.!?()]", " ", (s or "").lower())
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _latin_only(s):
+    """True, если в строке только латинские буквы (и прочие небуквенные символы)."""
+    for ch in s:
+        if ch.isalpha() and not unicodedata.name(ch, "").startswith("LATIN"):
+            return False
+    return True
+
+
+def _match_score(query, m):
+    """Насколько результат поиска подходит под запрос: 0 — другой объект.
+
+    Берём не «первый результат с картинкой», а проверяем название, иначе
+    «Blade» превращается в «Blade Runner 2049», «God of War» — в китайскую
+    дораму, а несуществующий в базе фильм — в мультфильм про зайца.
+    """
+    q = _norm_title(query)
+    if not q:
+        return 0
+    orig = _norm_title(m.get("original_title") or m.get("original_name"))
+    loc = _norm_title(m.get("title") или m.get("name"))
+    score = 0
+    if orig and orig == q:
+        score = 4
+    elif loc and loc == q:
+        score = 3
+    else:
+        # фраза целиком, по границам слов: «avatar» в «avatar fire and ash» — ок,
+        # но «blade» в «blade runner 2049» — только если точного совпадения нет
+        for t, sc in ((orig, 2), (loc, 1)):
+            if not t:
+                continue
+            if len(t) >= len(q) and f" {q} " in f" {t} ":
+                score = max(score, sc)
+            elif len(t) < len(q) and f" {t} " in f" {q} ":
+                score = max(score, sc)
+    if not score:
+        return 0
+    # латинский запрос не должен приводить на объект с нелатинским оригинальным
+    # названием («God of War» → дорама 战神龙婿): лучше баннер, чем чужая картинка
+    if _latin_only(q) and orig and not _latin_only(orig):
+        return 0
+    return score
+
+
 def _lookup(kind, query, year, exclude):
     if kind == "person":
         data = _tmdb("/search/person", query=query, language="ru-RU")
@@ -61,26 +113,38 @@ def _lookup(kind, query, year, exclude):
     params = {"query": query, "language": "ru-RU"}
     if year:
         params["year" if kind == "movie" else "first_air_date_year"] = year
-    data = _tmdb(f"/search/{kind}", **params)
-    results = (data or {}).get("results", [])
-    if not results and year:  # год мог быть указан неточно
+
+    def search():
+        return (_tmdb(f"/search/{kind}", **params) or {}).get("results", [])
+
+    def pick(results):
+        # сначала объекты, чьё название реально совпадает с запросом;
+        # среди них — более популярные (обычно и есть нужный фильм)
+        scored = sorted(
+            (m for m in results if _match_score(query, m) > 0),
+            key=lambda m: (-_match_score(query, m), -(m.get("popularity") or 0)),
+        )
+        for m in scored[:5]:
+            url = None
+            if m.get("backdrop_path"):
+                url = TMDB_IMG + "w1280" + m["backdrop_path"]
+            elif m.get("poster_path"):
+                url = TMDB_IMG + "w780" + m["poster_path"]
+            if not url:
+                continue
+            if url in exclude:
+                alt = _alt_image(kind, m["id"], exclude)
+                if alt:
+                    return alt, m["id"], kind
+                continue
+            return url, m["id"], kind
+        return None, None, None
+
+    res = pick(search())
+    if not res[0] and year:  # год мог быть указан неточно
         params.pop("year", None), params.pop("first_air_date_year", None)
-        results = (_tmdb(f"/search/{kind}", **params) or {}).get("results", [])
-    for m in results[:5]:
-        url = None
-        if m.get("backdrop_path"):
-            url = TMDB_IMG + "w1280" + m["backdrop_path"]
-        elif m.get("poster_path"):
-            url = TMDB_IMG + "w780" + m["poster_path"]
-        if not url:
-            continue
-        if url in exclude:
-            alt = _alt_image(kind, m["id"], exclude)
-            if alt:
-                return alt, m["id"], kind
-            continue
-        return url, m["id"], kind
-    return None, None, None
+        res = pick(search())
+    return res
 
 
 def _alt_image(kind, mid, exclude):
