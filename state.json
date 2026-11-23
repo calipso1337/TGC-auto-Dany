@@ -1,33 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794834566.8942451,
-   "title": "«Мстители: Судный день» собрали $150 млн на предпродажах билетов",
-   "rubric": "Касса",
-   "urls": [
-    "https://www.kinonews.ru/news_144175/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/4ZfiaVkh7dhpHJsPGnhTCviDjFC.jpg",
-    "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg"
-   ]
-  },
-  {
-   "ts": 1794838227.0739431,
-   "title": "Sony намерена выдвинуть «Человека-паука: Новый день» на «Оскар»",
-   "rubric": "Премии",
-   "urls": [
-    "https://www.mirf.ru/news/glava-sony-schitaet-chto-cheloveka-pauka-novyi-den-doljny-nominirovat-na-oskar",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFIyd2pwWW5XUXkxY0NFdFFZRUlHZHlnSFpta3JGWTVoM01OZDlxaGtkOWF4WVBFWHhvaVl2Q3g3S0p0OEZYdUZsZllYVUdrMDhNbDVvZjJMSzg5U0JURzl5QXY3ZlVaVHRhY1RtQUVrc0JMSlFQdnlXX1BKdGQydDV6R2ZQTnp3b2p1Tk1SRktxU1pjNE4ycmN3QVB3M05KX1BYTGRpV3NwMHZSRUtadVVfVWZUc01ydUQtWTVTU2NsNXFTcFB1RlhlelBxNkloc2hBYzdJaG5Vem1PUzBz?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/1WCVeD3kCI4a67OwyEhieWpzRbg.jpg"
-   ]
-  },
-  {
    "ts": 1794841923.1183,
    "title": "Роберт Паттинсон официально стал новым Джеймсом Бондом",
    "rubric": "Кастинг",
@@ -1517,7 +1490,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/dfmPbyeZZSz3bekeESvMJaH91gS.jpg"
+  },
+  {
+   "ts": 1795443051.5775616,
+   "title": "Мэтт Бомер вошел во 2-й сезон сериала «День шакала»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUN3UHNwOWswUzJqc3lpcTlmTVhZaV9IU2RBRkg5U1Q0bUx6VGtXOFdDWUdpTFBnTFF4cXZDUzlGd1psR29tWUp1S21IVWVnLWFqQ2gtTkpsTFBUbUtHOW1fdXZvRkZpMUk4VHNwM24yVDVNWWlST0VNazZsZFJ3T3JQU1g3N3J1YTNNQTB1SEJhWHBnRkQ1UDlBeVkyWkhEMlQ2NzNNS1FyRzYxcGJGOQ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/v0z2jRhWWSiPmUEs0dfg7P04m6T.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 16"
+ "last_post_hour": "2026-11-23 17"
 }
