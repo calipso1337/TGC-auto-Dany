@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794805861.3225024,
-   "title": "«Медленные лошади» могут завершиться на восьмом сезоне",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/olivia-cooke-slow-horses-season-8-last-1237224533/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
-   ]
-  },
-  {
    "ts": 1794809367.832066,
    "title": "Съёмки «Бэтмена 2» с Робертом Паттинсоном снова затягиваются",
    "rubric": "Индустрия",
@@ -1519,7 +1507,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
+  },
+  {
+   "ts": 1795410832.8876207,
+   "title": "Данила Козловский в тизере исторического сериала «Голицын»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.film.ru/news/pervyy-vzglyad-na-golicyna-s-kozlovskim"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/6uHj234Xiu8DW8x2hFX1uWq4LxV.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 07"
+ "last_post_hour": "2026-11-23 08"
 }
