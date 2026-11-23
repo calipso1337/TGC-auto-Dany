@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794827281.654319,
-   "title": "Жерар Депардье отозвал апелляцию и признал вину по делу о домогательствах",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679/",
-    "https://deadline.com/2026/11/gerard-depardieu-drops-appeal-sexual-assault-verdict-1237224924/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794830956.1000032,
    "title": "Трейлер сериала «Сталин» от KION",
    "rubric": "Трейлер",
@@ -1511,7 +1501,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg"
+  },
+  {
+   "ts": 1795433732.2173767,
+   "title": "Эмир Кустурица хочет снять фильм о Владимире Путине",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXlfdlBzbzFuanByZUVaQzktdmY1SVQyS0ZzMHFWREFJc3JUcTNwcXJOSU1YZWtJLVpFUHROUXNCZEl2emUtSFNEVEJzeV8xRlE3b0xrT2RTNk9kOURQR1pzMDViT0NaeFVBQjdLa1Y2X0VwYTZBemdOb1phUnBOTU5OMGgzbGpMZnQ4?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/fOseFlKN7CH0UfieRw735QrRYJ5.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 13"
+ "last_post_hour": "2026-11-23 14"
 }
