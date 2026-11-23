@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794866979.1181998,
-   "title": "Amazon готовит приквел «Списка жертв» об отце героя Криса Пратта",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564/",
-    "https://collider.com/the-terminal-list-prequel-prime-video-cry-havoc/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794884898.888488,
    "title": "«Человек-паук: Совершенно новый день» вернётся в прокат 4 декабря",
    "rubric": "Премьера",
@@ -1507,7 +1497,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/4bG49jVR7NrCNQjahDUsDqvIwle.jpg"
+  },
+  {
+   "ts": 1795471959.437776,
+   "title": "Дакота Джонсон сыграет в драмеди «Расскажи мне всё» для Lionsgate",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/dakota-johnson-tell-me-everything-lionsgate-spec-sale-1236956258/",
+    "https://deadline.com/2026/11/dakota-johnson-tell-me-everything-lionsgate-1237231777/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/6svxanfwQWPKtWO7kG45whmerKO.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 00"
+ "last_post_hour": "2026-11-24 01"
 }
