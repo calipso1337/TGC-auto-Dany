@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794809367.832066,
-   "title": "Съёмки «Бэтмена 2» с Робертом Паттинсоном снова затягиваются",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.kinonews.ru/news_144169/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794812993.5508504,
    "title": "Якутская комедия «Директор» собрала более 30 млн рублей",
    "rubric": "Россия",
@@ -1517,7 +1508,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/6uHj234Xiu8DW8x2hFX1uWq4LxV.jpg"
+  },
+  {
+   "ts": 1795415385.572223,
+   "title": "Глен Пауэлл в трейлере комедии «Король камбэка»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.film.ru/news/treyler-korolya-kambeka-s-glenom-pauellom"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/r7uH0Wa7rzHyK83XQpxRZVH76u7.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 08"
+ "last_post_hour": "2026-11-23 09"
 }
