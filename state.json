@@ -1,21 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794841923.1183,
-   "title": "Роберт Паттинсон официально стал новым Джеймсом Бондом",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.mirf.ru/news/robert-pattinson-stal-novym-djeimsom-bondom",
-    "https://collider.com/james-bond-cast-robert-pattinson/",
-    "https://www.indiewire.com/news/breaking-news/robert-pattinson-next-james-bond-denis-villeneuve-007-movie-1235223210/",
-    "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-    "https://deadline.com/2026/11/robert-pattinson-james-bond-role-amazon-mgm-studios-1237225184/",
-    "https://www.hollywoodreporter.com/movies/movie-news/james-bond-found-robert-pattinson-1236751054/",
-    "https://screenrant.com/james-bond-robert-pattinson-casting-amazon-mgm-studios/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794852455.3714027,
    "title": "Кайл Маклоклен присоединился к сериалу «Виктория»",
    "rubric": "Кастинг",
@@ -1519,7 +1504,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg"
+  },
+  {
+   "ts": 1795452408.7395134,
+   "title": "Чарли Кокс не получил роль Джеймса Бонда из-за возраста",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/charlie-cox-james-bond-audition-too-old-1236955818/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/91fFBazOvuNjwjcES2b199Ukspn.jpg"
   }
  ],
- "last_post_hour": "2026-11-23 18"
+ "last_post_hour": "2026-11-23 19"
 }
