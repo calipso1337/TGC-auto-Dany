@@ -76,7 +76,7 @@ def _match_score(query, m):
     if not q:
         return 0
     orig = _norm_title(m.get("original_title") or m.get("original_name"))
-    loc = _norm_title(m.get("title") или m.get("name"))
+    loc = _norm_title(m.get("title") or m.get("name"))
     score = 0
     if orig and orig == q:
         score = 4
