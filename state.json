@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794906555.2714083,
-   "title": "«Одиссея» Кристофера Нолана вышла в цифре",
-   "rubric": "Цифра",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHpKa2ZhSUhCZmhWdFBtZG5EZWJQOEZYeFRhZFJQLTU4dWk0cERVU2paMmFKd0N1QlpPOVM0V2hvX2RRZDVsR2lIUE5QSmlpUENKcUlXTWFQQkNfN1BxZ0VvS1l4WDByX2doTjM0OW5yVFBlMGZtSERBNFh2cTlYdmdXd181ckpCemI3OGhBUU9STURDTXBOcTBldVNyOTFQUUc5cmV1NDdoSXlSSERTVDFKTXNHM0w5eDRWNUt3bjRnOGFLQkZ0ZjM3ek1IcHVkTnc?oc=5",
-    "https://www.film.ru/news/odisseya-oficialno-v-seti"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
-    "https://image.tmdb.org/t/p/w1280/y2ZTaASXaHwqmq7hKQWyFfsufC5.jpg"
-   ]
-  },
-  {
    "ts": 1794910448.2989314,
    "title": "Мэттью Лиллард сыграет в новом фильме режиссера «Обсессии»",
    "rubric": "Кастинг",
@@ -1503,7 +1489,21 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/30avL0vOOqlbN5kODDZZHDwbkr8.jpg"
+  },
+  {
+   "ts": 1795513341.694863,
+   "title": "«Голодные игры: Рассвет на жатве» мощно стартовали в прокате",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29Pa3RTemEtV1RDRnY0bDYwemppZVpyNHZqeTU0U2tpQkxBWkFmdEwxaEFhendSSTc0MURVREV2RFRvTmctVkRFSVp1SGdOVVpjdmdkZGpRY1NWQVhNMEpOZTV0ZFFIcW44M0dNb21LT21kaVRqUk9rUHZuc290Qk5uZVV4RWJr0gGOAUFVX3lxTE92Q3VDTUVjc3d1eThBSzVzaTZKamx2NWVvQlg4RzFPQVc1YUZBVENvRVhyb1NUUTV4S3JDTHpETDZRUEFJcDc0VlltaFlfSE94Uk9NWDBpcDZyUHBwcVRnb2U4WUxhaHF1QlZYYm8yTUgzUTBzZlAyeUhIdUpzMldfNUJQNVVtelhUbzJYaHc?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3RwcVNUTF9QVWZwb2FnSVFjT0ZOR0Y1a3Nqc2ZHcXhVRXN6VWVBOVRnWDVMVDVyaTM2WklKc2JJb1N0WTN0Ym5ZaXU0UWxWbWxGT2xOVTREam1NNlVMZ1d5bXVFZjFYeGU3YkZiNGNleXM3WVpJVGxIcXZ2NmpuZGFwUG5ldTg0X1VUQ0o5WXFiT09I?oc=5",
+    "https://variety.com/2026/film/box-office/the-hunger-games-sunrise-on-the-reaping-ramayana-uk-ireland-box-office-1236956785/",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWV9peVliNVJ5TVFqN3ozTjRMd3p4QUR2Ump1cm9NY3hCOWJZTElJZWZNdnlnM3djZVJBbHN3XzNBQ1lmeHJGTTMwMmNzWlI5WTFJREhES1liUkRZOWllZjA5dmlzOGZiQzVycTR1eW1FNWV2ejdnU1JOdFAwUlIzXzlVTlFxR3IzalRMTFlBUGU2OHprVFhpWG5GWXBlT3R4SGJybVFpbUJ6UktJbk9zb0J3ZmNoXzhyZGJJY2dMdWs?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BUkVvVDNYaUM2TE1FYzl3cmQ3dFBLUVpNNHM2QWJZd01MZWlxNG9PYjBSYVZibWwyWm9hM1JVbjM3R3ZtMU9FVkFfV21XcnRwU01tUUdqZncwV0IwTmp2WFBn?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/vezToHmUsQApQKHChwz8E9LBfEA.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 11"
+ "last_post_hour": "2026-11-24 12"
 }
