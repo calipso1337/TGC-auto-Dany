@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794892092.3119614,
-   "title": "Второй трейлер романтического хоррора «Останься» М. Найта Шьямалана",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/novyy-treyler-ostansya-m-nayta-shyamalana"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/m47Io4f0w0MtEKfGYtiMqceXX1.jpg",
-    "https://image.tmdb.org/t/p/w1280/v7kL3an4ornAOWOxZucZilfTDbR.jpg"
-   ]
-  },
-  {
    "ts": 1794895704.683651,
    "title": "Брэд Питт раскрыл сроки съёмок «Четырнадцати друзей Оушена»",
    "rubric": "Индустрия",
@@ -1505,7 +1492,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg"
+  },
+  {
+   "ts": 1795497016.5131507,
+   "title": "Хироюки Санада может сыграть Третьего Хокаге в фильме «Наруто»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.film.ru/news/iz-mortal-kombat-v-naruto",
+    "https://www.slashfilm.com/2326211/naruto-movie-better-than-imagined/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 07"
+ "last_post_hour": "2026-11-24 08"
 }
