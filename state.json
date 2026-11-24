@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794917716.173279,
-   "title": "Сериал «Медленные лошади» продлили до 10-го сезона",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnhoQmFWR0staDQwS3ZFSkx1M29qS2NuenYwVVpRNHlJZ2dnUEtQMi1wTGc5YVAyRkRMLXR1ZUx0bnd4MGFhNllhR0c5NUVPckJkLUZxWTI5Y3VUQnpoN1BrcXo2cmJHMjg2WmNpZU0wSXJsT0hCTlNZZmJJSllwenNISzBqMHFQU19QUWVDa0RudmY5R2NuVzhXbmFjUmsyb1NSUFg2aWRYbFc5RTZlbmF3SC05U3laMWxHemR5X2R3ckRoNGc?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
-   ]
-  },
-  {
    "ts": 1794921378.3717592,
    "title": "Брэд Питт хочет сыграть злодея в новом «Бонде» с Паттинсоном",
    "rubric": "Кастинг",
@@ -1517,7 +1505,19 @@
    ],
    "image": "banner",
    "image_url": null
+  },
+  {
+   "ts": 1795522837.5283458,
+   "title": "Грег Салкин и Златан Ибрагимович пополнят каст «Гангстерленда»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWl92NnM3T3doN3RROXF0YXZoSG5MYzBiNGp2Y0RTYzRhS000bmlnX0YtbUQzSTN1UkdHNUVwdy1NVHdqRGNId2M1R2pCeGwwWDR4aDlTZnp5bHhSbHU4a0pDamx3RHB4SDNxdjdsVG05dHJ3NEU1eHBTV09mN2NYX29wa0pOQ0VvNjhpV29XSFBqNnZ0NXJSYzhaclNrUnVuSm1VdmlrcGthX25nZklZRkJ2RHFWRzc0YXV5UHZtbDdWd0VJa2h3?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRG1WemZYaTMtaktQcTY0T3QtT0h4dGp3T09qVVdxOFVUQjF1YVJYd3pIRkN2NDNEeVVzTmdvM1AtSjlWSHlscWpmWnZuT3dKWFRMS1c2S2dqWlRCOEdNb0h6QS1LN2owMHgzTF93N2N1Tzd4Z3B1OVlRaGtLaUhxNlBBbkNUcGNhYmU4UmJyZEZ5YWhlckZRWUkwYWlpd0VWNEVtaV9jQ3ZFNENXSlZxdm1xMkhSTjJDRVgxQ3RMS2dhNEVrTGpKOUprWlA4NllNMVE?oc=5",
+    "https://deadline.com/2026/11/mobland-gregg-sulkin-season-3-paramount-1237232411/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/vW6oPZEdqxZyQIYimouqA5b78mT.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 14"
+ "last_post_hour": "2026-11-24 15"
 }
