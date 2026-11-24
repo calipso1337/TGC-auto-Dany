@@ -1,29 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794921378.3717592,
-   "title": "Брэд Питт хочет сыграть злодея в новом «Бонде» с Паттинсоном",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/global/brad-pitt-robert-pattinson-bond-villain-1236950118/",
-    "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-memes-culture-gen-z-reaction-1236756996/",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tcDVjQ05DZGxUcXlzZXhFM0toQzFPZzdVYWZRUU1CaTlLZmhyUjROYl9kd0dOZF8tMVlodm5OejAzalRtSzliaHZuVFFFMVFkTGt0cGVLbw?oc=5",
-    "https://www.kinonews.ru/news_144187/",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wLXgwTzRJVF9qSXk0NVBGRnBZb3o2ZHY1akZFbjlndmpTX0VJWW9QcDRXOFZYbVc3cFh0Q1RBQnNqY2xBM19Dend2R2FNV2haT0gtTndXWktGVlEwUjFmdkM1MENrcE1hNVc4MGVobnFvR2NPZGd6QXA1WQ?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794928153.3043492,
-   "title": "Маколей Калкин вернулся к роли Кевина Маккалистера",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://screenrant.com/home-alone-macaulay-culkin-new-sequel-mcdonalds-ad/",
-    "https://collider.com/home-alone-macaulay-culkin-kevin-mccallister-return-mcdonalds/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794935453.9503858,
    "title": "Skydance обновила руководство Paramount Pictures и Warner Bros.",
    "rubric": "Индустрия",
@@ -1517,7 +1494,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/vW6oPZEdqxZyQIYimouqA5b78mT.jpg"
+  },
+  {
+   "ts": 1795536458.7011795,
+   "title": "Трейлер сериала об убийстве ДжонБенет Рэмси от Netflix",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://screenrant.com/the-murder-of-jonbenet-ramsey-show-trailer-netflix/",
+    "https://deadline.com/2026/11/the-murder-of-jonbenet-ramsey-trailer-netflix-series-1237232085/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/q12hmkA73LaOSHrrexpMbE2UcV6.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 15"
+ "last_post_hour": "2026-11-24 19"
 }
