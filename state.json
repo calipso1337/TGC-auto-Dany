@@ -1,56 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794935453.9503858,
-   "title": "Skydance обновила руководство Paramount Pictures и Warner Bros.",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394/",
-    "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/",
-    "https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/"
-   ],
-   "image": "article",
-   "blocked_images": [
-    "https://deadline.com/wp-content/uploads/2026/11/Kira-Goldberg-Don-Jesse.jpg",
-    "https://variety.com/wp-content/uploads/2026/10/Skydance-Paramount-Warner-Bros-Merger.png",
-    "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg"
-   ]
-  },
-  {
-   "ts": 1794939148.0077193,
-   "title": "Вышел первый трейлер мультсериала «Третий лишний»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://collider.com/ted-the-animated-series-trailer-mark-wahlberg-peacock/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/6yG7sdAnOC9yAljcUPaw2Ixp6wf.jpg",
-    "https://image.tmdb.org/t/p/w1280/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg"
-   ]
-  },
-  {
-   "ts": 1794942632.7762535,
-   "title": "Роб Лоу снимется в хорроре «Третий родитель»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://collider.com/rob-lowe-new-horror-movie-the-third-parent-poster/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794946190.558696,
-   "title": "Дэнни Бойл назвал условие для триквела «28 лет спустя»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.slashfilm.com/2319653/cillian-murphy-28-years-later-part-3-condition/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg"
-   ]
-  },
-  {
    "ts": 1794949845.8859582,
    "title": "Фильм «Нарния: Племянник чародея» Греты Гервиг выйдет в 2027 году",
    "rubric": "Премьера",
@@ -1505,7 +1455,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/q12hmkA73LaOSHrrexpMbE2UcV6.jpg"
+  },
+  {
+   "ts": 1795553255.8224287,
+   "title": "Вышел новый тизер-трейлер фильма «Дюна: Часть третья»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLThBWUJISGt1c1lzRnU0cVNhUWZtaVVSTHRpYUcxV1cycVdhd1ZaanRiLUsySm1IdHBydFNSX2Q0SUhxaUJobEZjN3RhNFd6NWhzazRqbXZ5cTJXblJxM1Q5b1FfdHhZTUFmcU51MmE4QzBPSExQcWVfSnBTX2dMZmZnanFOUmZIN3VITUtDcXV2REhsZzJxejByREhBR1FDTW1tdVlMNHE?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3U2VzdkQThhNDVjaWNDcFVVTGxsVkZ6djJnTEJIQ25XakZvMXl0UlFnS3VSb0Zsa1dVSDJ5bG9ScVl5eVFLeE54R3F6OXhqVkh5bmlPUS1HNWpVVEtSREU0MFlNN0FCUmpVVnlPSFNXUThIeXBhMnIxTzRpU0dBRHZDb21NTjJsbEdMdDBnM2h5akVoM1Ew?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE00U0pTT1ZQbXhUaTl0VXRJclpWUU1oNlNvSTJuTDVxQnNjOUFhWUVYOEJBSE02dC1zcXdsR3JyTkRJUF82M1loMFJSVmROeVRxckprWFhUeUZCQVBMNUhSLVVYdTdNcDdVWS1vYWNDMUg?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/bU206dN0ucfOFRK17OXabkdHKFC.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 19"
+ "last_post_hour": "2026-11-24 23"
 }
