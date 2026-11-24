@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794949845.8859582,
-   "title": "Фильм «Нарния: Племянник чародея» Греты Гервиг выйдет в 2027 году",
-   "rubric": "Премьера",
-   "urls": [
-    "https://collider.com/netflix-narnia-the-magicians-nephew-april-2027-release-date/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/ioGlZohe3jmaH2TSmSWJVRjHoMT.jpg",
-    "https://image.tmdb.org/t/p/w1280/kXTZR11xLYaShf3ZMeTmBP9Lsq7.jpg"
-   ]
-  },
-  {
    "ts": 1794953473.4382646,
    "title": "«Одиссея» Кристофера Нолана получит награду в Палм-Спрингс",
    "rubric": "Премии",
@@ -1467,7 +1454,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/bU206dN0ucfOFRK17OXabkdHKFC.jpg"
+  },
+  {
+   "ts": 1795555787.174376,
+   "title": "Кевин Клайн присоединился к Мерил Стрип в сериале Netflix",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://deadline.com/2026/11/the-corrections-netflix-meryl-streep-casts-kevin-kline-1237232653/"
+   ],
+   "image": "article",
+   "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_93e4fb.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 23"
+ "last_post_hour": "2026-11-25 00"
 }
