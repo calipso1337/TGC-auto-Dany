@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794953473.4382646,
-   "title": "«Одиссея» Кристофера Нолана получит награду в Палм-Спрингс",
-   "rubric": "Премии",
-   "urls": [
-    "https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/",
-    "https://www.hollywoodreporter.com/movies/movie-news/odyssey-ensemble-performance-award-palm-springs-festival-1236757227/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/bcVUkIKsnLozS5Yl8DnZ7nac3GM.jpg",
-    "https://image.tmdb.org/t/p/w1280/y2ZTaASXaHwqmq7hKQWyFfsufC5.jpg"
-   ]
-  },
-  {
    "ts": 1794971497.4801424,
    "title": "Дени Вильнёв назвал фильм «Дюна: Часть третья» лучше первых двух",
    "rubric": "Индустрия",
@@ -1464,7 +1450,25 @@
    ],
    "image": "article",
    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_93e4fb.jpg"
+  },
+  {
+   "ts": 1795558612.4775698,
+   "title": "«Властелин колец: Кольца власти» получит четвертый сезон",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2Znc1hvSW9lLUUyQzZNNmRFVjNlVi1UY19xTHF5TzdkMUVrbTQ3cmItZEZpbWxDcDFXRUxkUW9GaEhOUFRHbVo3T3JzeXRYVlozUUlYUzB6dDF3aHNuN3gyemxnazFKRHhrN19NYkpWc0xFSHZJVXRkWWZkQXJZWjJqWi1vUDFwSk9HazVMemJOM0JRWUhPeUNrMWVCT0xRVGxIS0NZRzJDMHpPeVgzczZWSWhuVE8ybm11TVIzOVQwWXliTmFkTl9yOHlzWUVxbGhUQlp3ZFFDdGs?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85QWVkank5ZTUyQ2J3aVZnNXJraVpKbGd3RkxTaVBRSThKRGNrTXoydFp5X2NuUlMwb2RVZ2pkT09Kam82NVZlQVp4eEVfRFl3Z2lXdVN6aw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTmw5dS1qUFhjcmpnVVVQVFFmdS1xaThmVDJCdFBraXFlcFRVRVN3YjF3azFVVWNVQVFybkJrWDRtVGdWeGk1R1pqNkluS1BwMmloUzF2NlFjSDV6a1dMX3NwazV0djJ0Y1ZoOENYR3NqT3FPdXNrWFhZSHp2TUtIWFNRVzRyTEgzcUZvdmhJTUFKc0hEU2xpdHNEVTluVDhGWVZoa3dISU5fU21EQzVMV0d3QXFNR3ItQi1mYUlwZUgtNkEwSWhMTno1QkhXX2txSjd1VnZ3UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0lCUFJvUmFpQWZjNmdoS0l2XzdQd3Y2dV9JMjlwazI5VXlIOWpQdUkxV2wwd3MySWE2TS1nQUZXVUYzMjZrT1hrWXphb1hySkVhQUJlMGhrREtLc2kyVnA1TnpYalFwMzFZb1Q2aE9hLU1oVFE2UkZxdGhsTEUteG9zZ08xaFFZeUNvOU1DdHQzbDNDQllSLXNBbUJNWThwQUtVVUlxUW83LVZTb3FBWHFSY3owYzc5S2FIbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1RkV0tfcm9fd05WbHJPVGxRejNraDJiY0c0blFEaWJST2lyZy1qN2pjUm5mdTZXdHdEYmdpamVyTVBTeHFFeDZHY2NIRFIydVhFWUxROEFlR3M4dFhnR2ZRdjRBRjA1U1BlZk9vQnNBelZsbldNZVNQVHJxYmZacFNEbUVrMU1iNFFfb21Gc051STE0WFl4YkNYeHZGdlN4ZkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWJWRTFvTDFLbm5WR09rXzQ1Y0NXNzBtUUNYOV9WZ1NmeHk0WUpKYmtKMFZZOHBybnp6SUdtVXFyXzJ6a050bm5RbFRMNGt0ZXJ6eWlmdW5fRC1JYkFHTlFadkZqNXRNMnhQeHc5bzUtbjQ2Wjd1dnBRUjNwR0tRUEdmcUFIX055LVdV?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUF1MFhneV90N1NqdVFtZEM0dmNUc1ZNRzg3Yjc5MFozYjJfZVN5aFg5X01tUnhHUzdwQ1FQTW5ZdkRLUUMtTF9NeHcxZUNKSlNORVUtaG81a2c2aUlhRWs5dzJOMnY5cmpQNzdhcjJIeTVaeG9Da1VfVzcwTUkteDR3UzFBY0tQSnpkSkJlTmdBNGsydXZtbTh1R1Q0VE1TY1RrMThTcVZ4N1U?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWRQcER1VzJMVTBDcHpzQlktY2VmMXNtYlJPRUMteWVtYm1QWlNIY1RGMEFNdWJtSTYyemFkNEp6QV9mMkxBdWR5UUJyX1Q3SWFEdjluSTJVWFVWZ2FtQnNiUDBaTHdfX2hqeTN4WVUyMXBvT2d5ekRWWkhyVXlObGV0S21aMkxUc1JadHlFUWtEeDJhTTdLNDE2MUdodDRodzc3TEZGOG1rU3F3Z1E?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcklwMHY4T0dnSlM4Zi01ektqeUhWWDR2SmFTcFZvWkMzbUdPcmhiZ243R0VYRUV5UWhOSG9iXzdTbkQtMVFrdlUwTkpoUlVmdDVsM2FoY3NYeG0xQUR0Ri1XeWpZYkFIRENmdWI0aU9OVTdHdlJLZ3haNFFYN2J1eFd6LUhpWTVZbGZlYnBZaWxWeXdlY1NnRFpuQlU2NkFTMmtCekZIUDlpVkg5d1E?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/xmEEYq9D4Mq1Xh7P4g5lm85Hi24.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 00"
+ "last_post_hour": "2026-11-25 01"
 }
