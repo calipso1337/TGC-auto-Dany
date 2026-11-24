@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794910448.2989314,
-   "title": "Мэттью Лиллард сыграет в новом фильме режиссера «Обсессии»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmlwZmZXc2pQbjJPSFpaN0FJVXdvLW5tZkQxMWZKcEhNLW8zMkYxM1MyX0IteTRjZ1FnQU9vU2RDbTkwTVYxR3N1bVcxV2MyRUlKZXZUUVRnbEhldnVMN2xLdUlVdWZPeVZDcnNEQzNJVV9rQnllMl9EQUFXc2ZYaGhOc0N4WTNIT0lRdXBOTzdocDBvblpKRWJDSDRaeUtMTU440gGoAUFVX3lxTE82TDBlVmFaVnZzNGhFTXhWa05yM1FVdmM5Q25hTXZ3ZnNSVXdRb0JZbWl6S2JQbDhVZl8xRGZxNEthLThUVzBIaHBNRk5tWG1QaHYtdF95M01VUlg5dG1JVGxmSmREcTFlYVJvM3lWNGl5WUJMV2ltdEE5cWRBTnh6WHRhSlE3NF9oTW1yVlRIcEFrdDM5eEZhM2lENl9ZTjY5dmJEUGRCTg?oc=5"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794913840.7803931,
    "title": "Новая экранизация «Поездки в Индию» от BBC и CBC",
    "rubric": "Сериалы",
@@ -1503,7 +1494,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/vezToHmUsQApQKHChwz8E9LBfEA.jpg"
+  },
+  {
+   "ts": 1795515549.035278,
+   "title": "Киллиан Мерфи и Джесси Бакли сыграют в вестерне Стивена Спилберга",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://www.kinonews.ru/news_144291/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 12"
+ "last_post_hour": "2026-11-24 13"
 }
