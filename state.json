@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794913840.7803931,
-   "title": "Новая экранизация «Поездки в Индию» от BBC и CBC",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/passage-to-india-bbc-cast-ali-fazal-fiona-shaw-tom-mison-1237226368/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794917716.173279,
    "title": "Сериал «Медленные лошади» продлили до 10-го сезона",
    "rubric": "Сериалы",
@@ -1504,7 +1495,29 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+  },
+  {
+   "ts": 1795519477.2355602,
+   "title": "В России предложили ввести взнос 5 млн рублей за прокат зарубежного кино",
+   "rubric": "Россия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcDc3VGU2ZU5uLWlNdnA5NFdKOHQtSUJGY1NVTGwwenRRMVRQTWk5V09OSENCT1VqaFo4WTZSdUF3dU1lYTB2QTRuZVR0UzRoWlYxZXhKZ1V3TXljSDl6S3d2Z255NDBEYkxNcUpCOF9vMmt1VF9SZTY4NnBkeFl2bGxqXzNHR0JlYVNOOUFjV2U0aDlPSXhZQmxtd3R2RC1RaU5IVDhiRy1fblM5QUxnSDVSa0lQd3oxbE54ZFpXcHJKTGpZRDNmY0owVXRtNUtUSEFKWVhjRnBBamFaLTR3MmtxYThqZw?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9ReEZnd2pwVWo1LXBrTmhJalZUSThjbXp0c3FuREdGM1A1N2w1SkwzcENLaTVYa0JYdW9rLUxieDVCT254SEktbzJCTHJZWTlEa0VyME01azA4WXZPRG01X0QzRk5rVmlDOGhka3NUWmZGQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mSlc4Tkg0NGZWVXRFdFdLMEFPTHNaZndyZ1dVTVRxbWRGMlY0NEpRenJBR2l0X1lxSjRmMGI2b1Y4SGp3VHZPVjY2UzgwU2s?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTB4aFdOV2h5ZWQxRWdQVlFGVXNQUjMxWGZwdGRhNGZESWJxSGNMLW1XOGRSTHhhZUN5bzh4WVlRaExLNnoxTFluR2IzM3hUMUZrVnRFUC10TjBFbEl2blNRSWFpMUoxUXhRNng0Vllzei15WkdjeXVqbEQ4QWZOUU9seVd1a05oSlRIUGk5eWhob1NOMW5fdjF4RWZCeFE1MzluWjZ4T0g?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeXhSODlNTVpTb0tTTU9tTTZHblBocTlvakN6enUySkN3OUhoVzgxeG5pOUt2NzlVTjlGMml4T3NCcUdtekZJRmQ0ZnIyaTJCamtXenZDT1R6TUlvVi11UXV3TXJERm1qR2M4cGRfbGVIMzF0aURmTnlCdEFNc3AzM2pJb21BRTdXX2FycW5YT2JtTk0?oc=5",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySmh0SU5kS1pHNTZVVkdVRzBuYWpUR2wyLVpLbUdLcElLbUZobjgzb2V1ZnZBbWh0c25HM0xheVZfWmdrZUVjR9IBSEFVX3lxTFAySmh0SU5kS1pHNTZVVkdVRzBuYWpUR2wyLVpLbUdLcElLbUZobjgzb2V1ZnZBbWh0c25HM0xheVZfWmdrZUVjRw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlZRa0R5SEJRaUhCc1lBRml3NklCM29jNlhNWlE5UVlwcFh0a044RVlxaG9KREdoaFhfSkxwVHRDZnBaSGU1NFpJNUQ4aDJtSWt6UnVSaE1sSFhzUWpmT1U5TlJDbU45WEVjOU9UUl9ubHVoZkJoTEpsVUJ4NVVSTFV5QVRnai11VUN6dENJNXZmTGlNZ1Eyc3ZvdzJHMGZWNWxnWnZ4TGxnYW9ZdGpRMUZBVkplWnd4MUk4?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1RjeWNoTG03TnhDcWZvR3Rta3lPbExteFkxYmg5Vkd3SVZYLXFDRVFZaTc1YjBqYWp3YXJTY2dTYjdhcVN4SHJvLTRaVDNLZjdBLWxCZVAxYW93bWNUQjVtT0Q2cTF3YmlDaGdOWGRXZUpGbl9MNmZaMjZrTkRwSVJwTHppYjhm?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWNJYjMtLUFWdExSdUZwVDhkZFNJZWpyQ3FSaS1ZVHRnZVdydlljVS1GMEF2MVlBNndHejVPd0hVM01WY21jc1NRM1lOZEc0UU5VdVZRLTVTRFVYVV9Hc2dfWXQxMEl3YmlHamZRNnRSVWxKckZVeUl4WllaWGVET3owSWJPMEdlV3h6WWUxS3dIeERhbVBoTVU4dzZTa25CQ0p4TzlJbGdEUTAxQ1pzeEdB?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXlhVlQtY3hWV1pVNDJDREgyNkNnNEVsS1EzMTJ1czlKYVNablhoeWxmYy1oSHl4MHllWHpDNUNUclExZjVUTC1GV3UwTDhZbzcxQ3BGWW1TRmdJRE1fVFBES3pyMm40Mnd5d0ptUDlQT2Z1OGVtRXFMYmp3MEVOVmx3N0lRTF9HSHB3aWZpQUxTZmFTdkVoQlFUNlN5b21CRmxLWlltOUxsb2fSAa8BQVVfeXFMTzVDRUNybnctLXpGamxGM05IZWNuaWV2TGdVdVV4UmZKUURpN0RGNkRkODhZcDNEVGFxU05BVEZnM3hjc2V4cHVBc0REZTJIdmZ6SXI3SC1fTmlzZllQaHpxemZGUTBOcTZ1cWVDZmtqd1NQNXhfbWFfX1dFV1Zmc3BCTENLZ2ZicW9iUEdFelN0bVktU0NWajQ4U2VvZ1k4YUNyaHpaaUwzUzFRY0V5QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFF0TzJMWC03eXhlRzNpeXBxXzhHVlJ4cWFJVENmb0N2OGRxRk1FMFJfXzJHQmZGc2NhWU12MDFQWk9zNEc0TDdKZXNqRjA3aVRia2RvM3FWRVp2eEhRREVTSnNIWDVfUTQ1SFg2UUUzclI4bzcyUHNiUFBHTFBvWVZ2ZzVhcVpVYWNCMlpWdExCS2s?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkFvRExzSFg0cUhMZ0xtRjVodHl2Y1h3dTVWZDUxMS16bnRBZ1JYTlkwZnRPS2VUOVpwci1mbS1KTE5KaVJQMURMOEV1Z1ZENmNrZTNqaWg4RXdSUWlEYmtWQVZFX1otajhqdlBiZ0x3cmNhSUVwRWljVm4tYndDbg?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUM4d2E2dU1DUDc4YlRlUzRFU3F3aXpSRUViSGttb1lJX2tEeUtrSmVQN0hZODhxOUNZTVVxdnU2bXBkR3QzWDNxbzVDTEJCbjI3T1B2VUszVm9NMnF2LXdBbWVjSm1YdGZMY1czdXVydWNDS0dsRUlQMm5LWDdTT3pRdy04Um5mWFR3QS1HOW5BcERrcTVEMlBUV2c2dW04VHJhenBUSGdZUnh1R3Z4RlZTd2JGQQ?oc=5"
+   ],
+   "image": "banner",
+   "image_url": null
   }
  ],
- "last_post_hour": "2026-11-24 13"
+ "last_post_hour": "2026-11-24 14"
 }
