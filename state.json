@@ -1,27 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794899342.062236,
-   "title": "Первые отзывы на фильм «Приключения Клиффа Бута»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://www.indiewire.com/news/general-news/the-further-mis-adventures-of-cliff-booth-first-reactions-1235228540/",
-    "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
-    "https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/",
-    "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-explains-leonardo-dicaprio-cameo-cliff-booth-fell-apart-1236756581/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1794902881.3101053,
-   "title": "Роберт Паттинсон может покинуть роль Бэтмена после второго фильма",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.kinonews.ru/news_144181/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794906555.2714083,
    "title": "«Одиссея» Кристофера Нолана вышла в цифре",
    "rubric": "Цифра",
@@ -1514,7 +1493,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg"
+  },
+  {
+   "ts": 1795510468.3789995,
+   "title": "Адам Драйвер сыграет злодея Зловещего в «Людях Икс»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/adam-driver-x-men-mister-sinister-seth-meyers-marvel-1236956786/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/30avL0vOOqlbN5kODDZZHDwbkr8.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 10"
+ "last_post_hour": "2026-11-24 11"
 }
