@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794888553.4045901,
-   "title": "Николас Кейдж и Крис Пайн сыграют в сериале «Американский эпик» от A24",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/nicolas-cage-chris-pine-american-epic-series-bj-novak-a24-1237222431/",
-    "https://www.film.ru/news/keydzh-i-payn-v-amerikanskom-epike"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794892092.3119614,
    "title": "Второй трейлер романтического хоррора «Останься» М. Найта Шьямалана",
    "rubric": "Трейлер",
@@ -1502,7 +1492,20 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/tXNt66khUBZcusc22INKCeGRr4l.jpg"
+  },
+  {
+   "ts": 1795493474.276386,
+   "title": "Сериал «Баба-яга» с Кэрри-Энн Мосс продлили на второй сезон",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://www.film.ru/news/vtoroy-sezon-baby-yagi",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOE5ycFhHNm9BWU4tYUsyM0txcGZoUjFiaHFLeHhiUmxlYzd2WXYyWFp4LXluRXhfbTkwLTZ1SVdvaGk2VWdocU44T3lUc2JzZkVaUFh0RkU3VUVleVhzWGd5ZG5pYWFlMGtUUDRPX2REQTlzXzFjeTBZeTN5Mnl5Ym1kdzVxaUN1bWFOU3hUbTQzYXVtYjd5VFhwMXBiTm9UUUxNbmlZSnh0bVlOamhGSEdn?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYmZ3QWg2bWdIVS1POGhwNmdWRVlXTURXRmdMbE95LUZhMlhXZ3YybDI1U25NakVuRzdISDBCMHBaWGk3ajRNRXdrbExsRmpyR2VMbE5oZzJTc28?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ua0NiaDV6V3dibDZOMVRtNWEwVXFaMTBwc0ZHOVB1UUtmSHpITnBidGtNLXI4TENUV2pHSDRhZW5XQUlyTjlzd0ZLbEJITDRUZjNtSzF3TmJ4N0JMaE0wbHdZNHRSVzQ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 06"
+ "last_post_hour": "2026-11-24 07"
 }
