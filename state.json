@@ -1,23 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794884898.888488,
-   "title": "«Человек-паук: Совершенно новый день» вернётся в прокат 4 декабря",
-   "rubric": "Премьера",
-   "urls": [
-    "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/",
-    "https://collider.com/spider-man-brand-new-day-extended-cut-theatrical-release-date/",
-    "https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/",
-    "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/",
-    "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-rerelease-theaters-rosario-dawson-1236756620/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
-    "https://image.tmdb.org/t/p/w1280/tszlsbfyTOPSZe2z6K4mwHtcnmI.jpg"
-   ]
-  },
-  {
    "ts": 1794888553.4045901,
    "title": "Николас Кейдж и Крис Пайн сыграют в сериале «Американский эпик» от A24",
    "rubric": "Кастинг",
@@ -1508,7 +1491,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/6svxanfwQWPKtWO7kG45whmerKO.jpg"
+  },
+  {
+   "ts": 1795491956.6669698,
+   "title": "«Мстители: Доктор Дум» останутся без наград раннего сезона",
+   "rubric": "Премии",
+   "urls": [
+    "https://www.film.ru/news/doktor-dum-bez-globusa-i-bafta",
+    "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/tXNt66khUBZcusc22INKCeGRr4l.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 01"
+ "last_post_hour": "2026-11-24 06"
 }
