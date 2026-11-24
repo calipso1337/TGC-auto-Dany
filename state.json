@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794895704.683651,
-   "title": "Брэд Питт раскрыл сроки съёмок «Четырнадцати друзей Оушена»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/columns/brad-pitt-oceans-14-shooting-late-2027-1236950020/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794899342.062236,
    "title": "Первые отзывы на фильм «Приключения Клиффа Бута»",
    "rubric": "Премьера",
@@ -1503,7 +1494,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg"
+  },
+  {
+   "ts": 1795503031.3923876,
+   "title": "Аня Тейлор-Джой онемела при виде Иэна Маккеллена",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://variety.com/2026/film/news/anya-taylor-joy-lord-of-the-rings-gollum-ian-mckellen-1236956723/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w780/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg"
   }
  ],
- "last_post_hour": "2026-11-24 08"
+ "last_post_hour": "2026-11-24 09"
 }
