@@ -1,30 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795025393.171853,
-   "title": "Сёстры Вачовски намерены вернуть себе права на франшизу «Матрица»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://collider.com/the-matrix-franchise-reclaim-rights-wachowskis-david-ellison-skydance/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/Ams57f2bNSwWsoQWCfD5u3xQjgS.jpg",
-    "https://image.tmdb.org/t/p/w1280/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
-   ]
-  },
-  {
-   "ts": 1795028972.623283,
-   "title": "Глен Пауэлл в трейлере комедии «Король возвращения»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/the-comeback-king-trailer-glen-powell-judd-apatow-country-1236758552/",
-    "https://www.indiewire.com/news/trailers/the-comeback-king-trailer-glen-powell-judd-apatow-1235229108/",
-    "https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795032655.4012158,
    "title": "Netflix снимет мультсериал «Грендель» по комиксам Мэтта Вагнера",
    "rubric": "Сериалы",
@@ -1489,7 +1465,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/bJROfBstoARn6vOqqPylYLpGYDH.jpg"
+  },
+  {
+   "ts": 1795635235.5902119,
+   "title": "Трейлер фильма «Мстители: Судный день» побил рекорд Disney",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkEyLXphRHQ4OFZnNVRGMFdoc3N3LW9lRnNHYWFZUy0ySFp4TXRWUk9ORWhkSWZ2dG80OEQ2dENaQ1VZMlpkUlUySE9fYUVweFlycGVicUNvT1REM0lURXBfLWU2dGRRUEktU2RWakFoQjQwVWhEdlBsMF9oVzVKNlYxcy1vMXhzZ0ZOUEN2UlZXMFJPR0ctNHNXbmpORk5yaUtBZUhLcmdnbWRST05DemVTOHN6eDV6MVVfdWM0bmYxaFNy?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcElYRDY0bWhOeThQbE5ibG8tWkhsWi14WWItX2pUWl9EQVVwMm5CLXYySjhUc1U4ZGVfWjlQeW5IcHVMVjhEMnVFT0w5UTFhVGozb2c3OWxBTml1SHkzWlV6cmY1dGdHajRBVEYwbjdZVXNvV1BpeDJ6U3FRTUFLbUc1LXFHZUgwUkVyQlpWZWswNlBmUTdNRTFvSFpMOE8ySTd6dlZvb2xwNHNSZFVzX0VocUowSTEzcDBGenlPd3VBQQ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 21"
+ "last_post_hour": "2026-11-25 22"
 }
