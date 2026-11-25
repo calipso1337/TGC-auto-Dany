@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795032655.4012158,
-   "title": "Netflix снимет мультсериал «Грендель» по комиксам Мэтта Вагнера",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/netflix-grendel-animated-series-confirmed/",
-    "https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w780/6bAoqHxWSGNsVDuxdvNrIYWdUaL.jpg"
-   ]
-  },
-  {
    "ts": 1795036079.763035,
    "title": "Новые «Голодные игры» метят на $160 млн на старте",
    "rubric": "Касса",
@@ -1476,7 +1463,20 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg"
+  },
+  {
+   "ts": 1795640147.4776084,
+   "title": "Дата релиза «Плохого лейтенанта: Токио» Такаси Миике",
+   "rubric": "Премьера",
+   "urls": [
+    "https://deadline.com/2026/11/bad-lieutenant-tokyo-release-date-1237233449/",
+    "https://variety.com/2026/film/news/takashi-miike-bad-lieutenant-tokyo-release-date-neon-1236957562/",
+    "https://www.hollywoodreporter.com/movies/movie-news/takashi-miike-bad-lieutenant-tokyo-release-date-1236763105/",
+    "https://www.indiewire.com/news/breaking-news/bad-lieutenant-tokyo-march-2027-release-date-neon-1235231121/"
+   ],
+   "image": "article",
+   "image_url": "https://deadline.com/wp-content/uploads/2026/09/03_BAD-LIEUTENANT-TOKYO_courtesyNEON.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 22"
+ "last_post_hour": "2026-11-25 23"
 }
