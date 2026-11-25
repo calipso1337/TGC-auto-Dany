@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794985680.8705077,
-   "title": "Энн Хэтэуэй стала мамой в третий раз",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.film.ru/news/heteuey-rodila-tretego"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794989318.591925,
    "title": "Джефф Безос лично продвигал Роберта Паттинсона на роль Бонда",
    "rubric": "Кастинг",
@@ -1473,7 +1464,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w780/qzMYKnT4MG1d0gnhwytr4cKhUvS.jpg"
+  },
+  {
+   "ts": 1795592030.2243855,
+   "title": "Первый отрывок из хоррора «Вервульф» Роберта Эггерса",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.film.ru/news/otryvok-vervulfa-roberta-eggersa"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w780/eI1TSAlcAogbBDvryT0dJZtEKnv.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 09"
+ "last_post_hour": "2026-11-25 10"
 }
