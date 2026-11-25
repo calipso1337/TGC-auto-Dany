@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795003842.190402,
-   "title": "Новый хоррор «Вервульф» Роберта Эггерса получил рейтинг R",
-   "rubric": "Премьера",
-   "urls": [
-    "https://collider.com/robert-eggers-werwulf-rated-r/",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wamZFMF9VcDVubmY1YmNkZ2k3N0gtOWROemxkbE81RDUzdFR6OTliaXA1YXRQa2ZsOF9TQ0dTNTVsem5mcWpQa2t0LTRWeGRfX2l3QmEtdTdSTGRzWkNUcy1QYm5UWWFka2Z5cm1uZWtRR2NScHU3Rg?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg"
-   ]
-  },
-  {
    "ts": 1795007327.0423787,
    "title": "Стартовали съемки третьего сезона сериала «Олдскул»",
    "rubric": "Сериалы",
@@ -1469,7 +1456,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/eGX66zonvc4bXg3rM08RUxdYSDx.jpg"
+  },
+  {
+   "ts": 1795610199.282378,
+   "title": "«Приключения Клиффа Бута» вышли в прокат",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://collider.com/the-further-mis-adventures-of-cliff-booth-imax-theaters-netflix-release/",
+    "https://www.slashfilm.com/2327639/brad-pitt-the-further-mis-adventures-of-cliff-booth-credits-scene-explained/",
+    "https://screenrant.com/brad-pitt-further-misadventures-of-cliff-booth-imax-release-netflix-history/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 14"
+ "last_post_hour": "2026-11-25 15"
 }
