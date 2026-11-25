@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795036079.763035,
-   "title": "Новые «Голодные игры» метят на $160 млн на старте",
-   "rubric": "Касса",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTllZeE5qdWxCSHpNc0dkNU9oZkVRcXBkak1BY2ZjMkczdUxmSW5HcGx2NW5GMEhEUTRQR3JSZHNPNndtQThwWFNTYmV0RENQenc1QnYwQ1h2WmdOZWlBSl9jazE3XzA0VDcwNXZqRS13WlZxdEVpRnhHMHhtZXdTRlpFakg0QUljM2tSWlhmaE9rM3dYVFZhZ0czQUxIdHF4SVF4WG1n?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGJXQ2Iwbjhra2xKRW1hWVI1anFVaFhoSklRVElyZ1dBZ3dpbHBYYVVqOTIyeFVOZDQxZUkybnQ5V3ZrZVdXZXlIbllVYjNiQmNNcEFHckpZZnRkVG1vZlhDMWp2RXotSUVCcTFXYXZFS2g0WlZhUG0zakdXbHdHWS1JZThqbjVOZk5fU0xSNTVUZS1ndTVDQVI1ajhtQ2tHT0h5SEpnWS1kOFFKcEdkTzUySkFFakNLdFI1TURB0gHDAUFVX3lxTE02YnFNSnFYWFVkMzlsVVNBTHIzb0RRN2VIZnJjR1YtdVluV2Q2X0NLX05JNlBDSGdQS21EZW5iV0cyMlFXdXJRSUY5RGNfbEF0UXdvNkRGN01RMmg3NklndEpab3BLMjBHeFM4VDdUZWpra0pvbFB2VWYwdmtsdHZMYWMyLUpqckZHOU1xVy16azN3UUpLNF9oWjhycUM4NVZEUkd0UHhjdHE2Rmd3XzVjVVpDR1ZjbldtVUxkeEktWFBpdw?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMURwU3prWllPRnJuMmczQ0FtQ0FCN1VUMlRlTDRlUDhrRzJCNHFVN2FsalhDTFpIOWh3QkxpeVF5UDY0YjFYdTBMa3c2eUphQXhUYUJjTy11Y3E4a1VCcVYxMUd4QkxzckN3TnpJVjM4S3lITUhRbnVRaW1aYWN2cnlTT05KU2dNWjVBMVQ0ejZoM29oTUJYaDJoZ2djcUhqUHY4RkZXaw?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
-   ]
-  },
-  {
    "ts": 1795039840.615035,
    "title": "Пенелопа Крус получит премию в Санта-Барбаре",
    "rubric": "Премии",
@@ -1476,7 +1462,17 @@
    ],
    "image": "article",
    "image_url": "https://deadline.com/wp-content/uploads/2026/09/03_BAD-LIEUTENANT-TOKYO_courtesyNEON.jpg"
+  },
+  {
+   "ts": 1795641918.862506,
+   "title": "Дэвид Финчер планировал фильм во вселенной «Звездных войн»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.slashfilm.com/2328489/david-fincher-rejected-star-wars-movie-pitch-characters/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 23"
+ "last_post_hour": "2026-11-26 00"
 }
