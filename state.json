@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795021852.1635628,
-   "title": "Вышел трейлер драмы «Искусственный» с Эндрю Гарфилдом и Юрой Борисовым",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.indiewire.com/news/trailers/artificial-trailer-luca-guadagnino-sam-altman-1235229086/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/sTKpFaObARrgKXU3099qbBjLLod.jpg",
-    "https://image.tmdb.org/t/p/w1280/xM1K7aVHb2JOBeWCRGp4X0DoAXg.jpg"
-   ]
-  },
-  {
    "ts": 1795025393.171853,
    "title": "Сёстры Вачовски намерены вернуть себе права на франшизу «Матрица»",
    "rubric": "Индустрия",
@@ -1479,7 +1466,20 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg"
+  },
+  {
+   "ts": 1795628885.1086695,
+   "title": "Мстители: Судный день собрали $100 млн до премьеры",
+   "rubric": "Касса",
+   "urls": [
+    "https://deadline.com/2026/11/avengers-doomsday-box-office-presales-1237233410/",
+    "https://screenrant.com/avengers-doomsday-box-office-nrg-opening-weekend-projections-record/",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWkhRN0xLZXVrVk9rWUVzeHlXY0RHUDFvSldqbUx3M0htY0g0bFFuMTlSOE5kUlNfdTBId1R6cEdteEV1MmlsV2Z3WThNMlhOMmlHOEVHQVVwaWdvaUhfTUFIOFNqbkVIS3FBYUUtUjB0cEtiODYxLUI3TTdNa0pOci1DTUVhMGhBZEJyMkUtYjhTc1BFSzV3Q0JVdGEtT1FTcDJHejNPaGNDeGlQa3kyM2JHYmkwV1dWeFZPa29JbU9pbnFtZmxZa255RnlQQm5WNlE4YTlscktCcmY3amhxNVhlaWxzeWlPZDBMQ1pJSi05WXBMOWc?oc=5",
+    "https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/pGbP900NvKzOtLWdyH0sWmLQu1G.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 19"
+ "last_post_hour": "2026-11-25 20"
 }
