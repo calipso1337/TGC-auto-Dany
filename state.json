@@ -1,21 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795007327.0423787,
-   "title": "Стартовали съемки третьего сезона сериала «Олдскул»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://www.film.ru/news/start-semok-oldskula-3",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODBkSG85dFRsQk9UTUJPR3MxZUcwSXFrNEUzWTB6OHpLQzNfWllhZmJXUFQwOXlvcmxnajhsamNQSkY1a1JaMXh5MDBDNHpYbDRMeDZreGVUQmd2aEU3VUMxc0phSnhwTmVHTVdZUUY0ZU5Obld3ZV8tUmFIa3FzbERzaEtDMnVrS0NCVnd6SmZPUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW9PTWtyb21DSEJLcnRRYTB4NmtVRU1DalNyWDVrUlJoSGxrdDl1VHlUQWE5RlJWY2x1QWowcnNPLW9rRzBINC10c3VxR2tuWUJ0WDFLOE9pZmhSOGE5Y1NoZlphNDdlaDdDbnhXWlBDUElwS0lRN1NLdFR2Y3kwRmVwaFo3Zw?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/lYTk0kgtJPvNxIMBChgxYj0qYoR.jpg",
-    "https://image.tmdb.org/t/p/w1280/otkqAKv5Fs4nlFbFw31DqOgZSzO.jpg"
-   ]
-  },
-  {
    "ts": 1795018138.1292107,
    "title": "Раскрыты название и дата выхода новой «Пятницы, 13-е»",
    "rubric": "Кастинг",
@@ -1468,7 +1453,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg"
+  },
+  {
+   "ts": 1795613124.1777384,
+   "title": "Третий сезон сериала «Перси Джексон и олимпийцы» продолжается на Disney+",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/percy-jackson-season-3-episodes-3-4-release-date-disney-plus-november-2026/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 15"
+ "last_post_hour": "2026-11-25 16"
 }
