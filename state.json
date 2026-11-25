@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794992927.007092,
-   "title": "Новый постер фильма «Бумажный тигр» с Адамом Драйвером",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXB4Y0VhVW1KOWZrS21GTl9DdWZSMFpJTzZBZ1Q4dVBuN2FPMmNQLTVkaVZKcUJ4NzVUWTNlWnFuR1k3WkY2blZPYWk2YkU4T1JsaXV0bzhIRlkxWlF4Zk5iNFcwbzhEWWdjWHdBdjZzTHQ3alNTZDJ6OWlEQnRhTW83Ri1sT1lKUlFyQnZPN2NDVXRpemdkWHRQNDZ4NGxSYVV3b2swd1pWV09kVHlmN3ktSkhocExYdU8yTndxMA?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg"
-   ]
-  },
-  {
    "ts": 1794996602.3909206,
    "title": "Братья Дарденн получат премию Европейской киноакадемии за вклад в кино",
    "rubric": "Премии",
@@ -1475,7 +1463,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/rKL1oWbuC1rfMCg6sSsWlqHPPem.jpg"
+  },
+  {
+   "ts": 1795600271.0968194,
+   "title": "Сильвестр Сталлоне хочет привлечь Арнольда Шварценеггера в «Короля Талсы»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://www.kinonews.ru/news_144328/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 11"
+ "last_post_hour": "2026-11-25 12"
 }
