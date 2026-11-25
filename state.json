@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794996602.3909206,
-   "title": "Братья Дарденн получат премию Европейской киноакадемии за вклад в кино",
-   "rubric": "Премии",
-   "urls": [
-    "https://deadline.com/2026/11/jean-pierre-luc-dardenne-european-film-academy-honor-1237227768/",
-    "https://www.hollywoodreporter.com/movies/movie-news/dardenne-brothers-european-film-award-lifetime-achievement-1236757154/"
-   ],
-   "image": "article",
-   "blocked_images": [
-    "https://deadline.com/wp-content/uploads/2026/11/MixCollage-18-Nov-2026-06-29-AM-1013.jpg",
-    "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Dardenne-Brothers_c_Christine-Plenus.jpg"
-   ]
-  },
-  {
    "ts": 1795000145.8404708,
    "title": "Аль Пачино и звезда «Очень странных дел» в трейлере «Билли Найта»",
    "rubric": "Трейлер",
@@ -1473,7 +1459,20 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
+  },
+  {
+   "ts": 1795604356.517992,
+   "title": "Второй трейлер «Волшебника Изумрудного города. Великий и Ужасный»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.mirf.ru/news/evgenii-mironov-v-treilere-novogo-volshebnika-izumrudnogo-goroda",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUZ6Uy1yNXFtSWpkYWxDTEkxbjVhWjVKdVFYX2xXbi1tbmQ1YmdQZy1VR1dhanMwcktmWVFxRnhQa0VHY29CczUzVmMwODcxOU5EbU5ITmpDUm9KVHE5Z3hxR0VudnBqRW9yZXA2QVNlbmtjNm54a1RlekZZT2otejdLcEdZRHpOLUZaN2R5RDNBZ1l6dkY3NHRMeEV2eXdOU2c0N0xKeGpRNmRZT2FZ?oc=5",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcldJTVlPRmd0dGU2dXhUblY3NFVSbVJIMUJGZzNlYUtfSzlqY3d2cGJqaldaMDZGNHpfaG9fSEZPRHlqeXFBNVVZZi05VGljVHZCT2F2M3JTSXFvMGthVC1oYm94b182c0xpOGE4TXllT1l1cDFhMWFObHZWNTlGM253SW5XNWNTaEVrQ2xuU3JKWUQ2MGtCVEc3MGZVQU5GS2NoV3g3aWY2aTBYQnRTZTBzVDg4ZnJlWmNpeHk1enpmZG1mWHl0UUg5U2pQZmVlNE53Qk9aOTNHOFo2SnlUYnNkOTBMV1Uy?oc=5",
+    "https://www.film.ru/news/novyy-treyler-volshebnika-izumrudnogo-goroda-2"
+   ],
+   "image": "banner",
+   "image_url": null
   }
  ],
- "last_post_hour": "2026-11-25 12"
+ "last_post_hour": "2026-11-25 13"
 }
