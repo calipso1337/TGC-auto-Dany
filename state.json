@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795018138.1292107,
-   "title": "Раскрыты название и дата выхода новой «Пятницы, 13-е»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY0tHcWxTSVUycHFPaDdJU1l3WXI0WnEyZU5GbUxFVVNHMzJfZ1JLUmVnMHpMU3ZyRld3UlltQllSMXRVMncxN19XZ2dyRHkxZm5oY0hvRkxvZU4tazZUdVlMWXdmdl93OFdTWi0yNmdEWm12NG1Rcy1tY2huR2g1cmNBWUo5aEpQb2J6QzAzQlg5VU5JZEhBcENZRWdTaWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzRyS2FpTFZEMUo4YmFlSWc4Ty00UDFqX3JaWWNpZVpYYlpaZk9FdFRWcThxdUtVYWtvSnhDR2UwRmp4ek1oNTNPZ1Uwd0FURWluQ0M2YUE0VUZzdGdrcVNmQjhpSXZzWEhqQks2WDVyb3dSS2tSem1tV3QwWnlSZElFSHRMRWJnS0FpTTJySV9tMlV3OFUJV1B6aGROazRqTHdfOGUxbnYtdTZpNlgzSGtOYUVuVFI2UWJ3?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/fFgMO4cd0fGAjJvOIm2AyVJ7Iu8.jpg"
-   ]
-  },
-  {
    "ts": 1795021852.1635628,
    "title": "Вышел трейлер драмы «Искусственный» с Эндрю Гарфилдом и Юрой Борисовым",
    "rubric": "Трейлер",
@@ -1483,7 +1469,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg"
+  },
+  {
+   "ts": 1795624951.0124412,
+   "title": "Кого сыграла Ана де Армас в «Бегущем по лезвию 2099»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://screenrant.com/blade-runner-2099-ana-de-armas-joi-origin-story/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 18"
+ "last_post_hour": "2026-11-25 19"
 }
