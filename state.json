@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795039840.615035,
-   "title": "Пенелопа Крус получит премию в Санта-Барбаре",
-   "rubric": "Премии",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-penelope-cruz-arlington-artist-2027-1236758189/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795057691.1177096,
    "title": "Крис Пратт сыграет главную роль в фантастике «Путешественник»",
    "rubric": "Кастинг",
@@ -1472,7 +1463,23 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg"
+  },
+  {
+   "ts": 1795647226.289713,
+   "title": "Мстители: Судный день против Дюны 3: прогнозы сборов",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUNPTjdzWllITlpyaTlWMU52T0cwbVZ1UnhoMVI2VHJISGtrRzBUdkxBeVRNbkpMX0V2Z0JFMWR4LUhEYW9DZjlyZVZwS2FvTXN1TEwwZ3ROeThFVHJUSFVxc0tsSjRwVVY1U0ZKUkUwVEJTcmxaVS1pLXMtODU3RmQtYXdOUnMtTWI4RHpuenVMVzVLc1ZpNjNmUEZfWThSQzBDbExPeHRqRHBuSUs3S1JLcG91R3hx?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYUlZjT3NSUU41NVo5Mnk2Z2x6UUotaFM3eGlNLVczNkRUREtUa1ZzWmZiUUFHVHYtRms1TkdlbXlRbVpuREpndDlOd05XbEZIR3FQdG9lSmFLUXBMRWV1UXVxV0p4U09ZNWxQR3pVOExNSzlNbUd3?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWNoZkMzUFd0VG5BNmRqYlA0VmJsb3BzaGZzc3M1LWVXVmxCc296SUFodFptNXRzRXY4eDBndXZSbVYyc0diV0MzRjFxNmZsVkhaX2lCbEI2VlJoM2J1MGxONXpBR09CbDBtVkFIU2lXN0Vla295cV9FZ3k5XzN0THNhWWdUQXJ6UVByR2N4dXBoZFd3VU4xdEJ3eVJRNXNQOEJ2UUEwTjh3Y3pzUkNRazRON2MxdUkyMENMWnV4eWRZajRmVmFJZFYwNUFZclBVREE0ZXhKQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUndXTGVRTnJ6Vk0tWDlnLUs2dk9VRHk2ZG9ZSzJWb2dzY2JPdmliSnBzRWNVU0VMVWlSbEJUMEZZMnJNT2d2RndRSTVENGFVQkNKNmFhNnhtMjZzLWJidVJ6bS1yWnRJdWRsXy1TaVZENlZyQ0VHblExcHlqYjgwcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORzlLT3JIN0JEczlNNlZhaTRtZmpTd2FMVWdtOTItNDgxWUVuQjI1RHV0M3ZlMUZKYmN3ampza3ZrcWotbFlCRTA1LUpEdnFWYkw5WDFMQ2JyRVVXM1Vuc2gzZlFqd1ZyVjhpazNnNTBueEg1cllRWjBBWmdGTXAyV21keWpPeUVuanN3THhsWk5hc2NDeTJ4RDRsejJodEw4MlJhTzBBaDFGVjA?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GT3BYXzNZYW82ZUhTdTViLUtKYzNiZzg3VU9OMGExSDdnb2EzYllGV2s5TWNzd0VXR3JkUEdpeDllUlB0RlBlSGtnY3VVaXZPWXNuUFFOZ0JrdU5FWW9lcUNOVzZxUlN4c1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RV2NWMWNEZFdHWXpiRDBJV0pCMU5TVy1yaWxvaC1rVzlXclJVbWtHaXJxTjJCTm54S2djenNpdGtCNHg1eTRpcXFhbUlXSDdLVkY3VmtQOFlmWEs1WjNNcHF4d0xadDA?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 00"
+ "last_post_hour": "2026-11-26 01"
 }
