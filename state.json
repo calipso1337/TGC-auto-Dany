@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794989318.591925,
-   "title": "Джефф Безос лично продвигал Роберта Паттинсона на роль Бонда",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.kinonews.ru/news_144201/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794992927.007092,
    "title": "Новый постер фильма «Бумажный тигр» с Адамом Драйвером",
    "rubric": "Трейлер",
@@ -1474,7 +1465,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w780/eI1TSAlcAogbBDvryT0dJZtEKnv.jpg"
+  },
+  {
+   "ts": 1795596605.573267,
+   "title": "Третий сезон сериала «Макстон-холл» станет финальным",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XSjhuSks1UFcyeWlSeDllOW9PaFU3ZlQtdTlrOHgwbFpqclN5b1hMY3VCRzQ2WjFDa0JZZHg2TkZUem8xeWVDMFJfOE03cWpLZXJJ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/rKL1oWbuC1rfMCg6sSsWlqHPPem.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 10"
+ "last_post_hour": "2026-11-25 11"
 }
