@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794971497.4801424,
-   "title": "Дени Вильнёв назвал фильм «Дюна: Часть третья» лучше первых двух",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-    "https://image.tmdb.org/t/p/w1280/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
-    "https://image.tmdb.org/t/p/w1280/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg"
-   ]
-  },
-  {
    "ts": 1794975032.7785878,
    "title": "Рон Ховард назвал условие для создания «Гринча 2» с Джимом Керри",
    "rubric": "Слухи",
@@ -1468,7 +1454,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/xmEEYq9D4Mq1Xh7P4g5lm85Hi24.jpg"
+  },
+  {
+   "ts": 1795576477.1730607,
+   "title": "Маколей Калкин сыграет в новом фильме студии A24",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.film.ru/news/makoley-kalkin-i-a24"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 01"
+ "last_post_hour": "2026-11-25 06"
 }
