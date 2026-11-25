@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1794975032.7785878,
-   "title": "Рон Ховард назвал условие для создания «Гринча 2» с Джимом Керри",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/",
-    "https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1794978512.3555038,
    "title": "Netflix может вернуться в Канны в 2027 году",
    "rubric": "Фестивали",
@@ -1464,7 +1454,24 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
+  },
+  {
+   "ts": 1795580175.2927637,
+   "title": "Marvel почтит память Патрика Стюарта в «Мстителях»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/marvel-patrick-stewart-tribute-avengers-doomsday-last-day-filming-1237233059/",
+    "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMy05c0llYWVnMnRFa1kzaXVVRkxKWlFnMU1yZ3lxWGl2a3ctU3ZMTGtGX3lYTWV4aEc1ZzBKcUdGbmNydzRfR2s1SDdCXzdtS2gzWEYybmZKLVZnTW9mdXdJTjA1NWtLYWNWTkl4T2dBSDlxbEVoZ2RLZFRvMmZHOWtkS2daNmxCUkY4VkI3QmVHUHozREV3SElvLXBITnFfOEdzNlFadHhrVHE4YnlDUHVlNFpiMWplck54SWRjdkthYU9sdEk5THhWbkdHbnpWeVFGUTdfeFdvNUwyYU9ETFV3UHkxbTZQOHg1SmhNWHdtSTVNQ2J2dGQyRjV2bEVVa3lMRkg2UHp3Q09QVXBqdlgyV1lpN0NCY0FGVDBPcnRkc3laY3dkdjhUXzBlTF9YN1hOR1NFVHdWOU52bmRpWTNB0gHHAkFVX3lxTFBEWXdNOGxpclhmYUFRQnJrWXVXVTl4UE44eFFvYUpaWTRrX3M2ZzlyTzItNFktak9YUHFfWnFKYkhxTlMxSmt4M0NjZE5JZTdZdEttMWR5UTJjeWx3WmFGTnBIU0lab0p6M19oRzVETDlTTEtoQzFxallEWkYybjBzcFhFUEZEMnNKREluQ01nWnJIWmM2bzlQdmNjUnRCYllHeGl0Z0RzdEhxcUx0VWc5R05VbE9aajhHRGR5VFRXY2twd05aSS1KZWxQRkZxMzdEWm14eDhHNWYtcU13QXhxWERSYU1LODlIMjE2Q01zLXo4amNieGYta2x4NjBDZ2hYcFdvOE9JbW1NZzRoaVlMd0hjdVJmcEdZYlJwQ3JBNjhNM3Q3V3hfSmw4dE9lb3NtUEZJNFZTQ2Rfc2RLZGs5Y1FRZTBaVQ?oc=5",
+    "https://www.film.ru/news/rekordnyy-treyler-doktora-duma",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG9OYWxEeGpTd2RWLXJRRTlpRS1uNFZJbGhyVUtfVzQ4MlFGU0Z3Z2RZYU4zZm9EUl90c0QxU1dXeGk0Uy1KUDBPQk9HRlFqNFM0b2I3YndwTE5SYjBzY0VvZk1HS2d6Tm1hM1ZEdlRuQ1lWRmlXSERWRFVFTFRkOEc5X29tUndTQ2Q0azcyb2t2SzFuczloS1ZkQ3JKVWpSYzVTbWFfdlFKZ3NoQjJGVFgtcEpMUQ?oc=5",
+    "https://screenrant.com/avengers-doomsday-final-trailer-supports-young-avengers-secret-wars-theory/",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwS0t0RTA2WFJWdGdVWkQxak1ZTjhNNUhnSzZySHZ5UVlKd0llUjZFNUtaRUJpVUhydlFkN0RwTXZfM0JrTDNjbUdYSFd5NUZxXy1mMUZkSC15NGtkWVE3OU4taXM?oc=5",
+    "https://deadline.com/2026/11/james-marsden-cyclops-x-men-avengers-doomsday-wolverine-1237233013/",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zRmNLZlZmbGdQbUMyR2xsRWdwbWpMdU50enNNcUZHQXl2eWdQaTBidjR1Y0MxSTJnbi1FdExxUWR4WmNxak13MXNKejA0SHVXNHRUaUw2b25wVGo4SjFkLThn?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/4NxnrRmI7goXMsRASwSegf50MC8.jpg"
   }
  ],
- "last_post_hour": "2026-11-25 06"
+ "last_post_hour": "2026-11-25 07"
 }
