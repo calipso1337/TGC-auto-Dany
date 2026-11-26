@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795122511.8755808,
-   "title": "Ночная медсестра возвращается в киновселенную Marvel",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529/",
-    "https://www.slashfilm.com/2322359/spider-man-brand-new-day-daredevil-crossover-claire-temple-photo/",
-    "https://collider.com/spider-man-brand-new-day-extended-cut-rosario-dawson-claire-temple-return/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795126541.2548296,
    "title": "Кристофер Нолан объяснил, почему зрители не увидят вырезанные сцены «Одиссеи»",
    "rubric": "Индустрия",
@@ -1481,7 +1470,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/xhO34UiM3TpkxvxaLzaPeTh3twU.jpg"
+  },
+  {
+   "ts": 1795730563.2134953,
+   "title": "Лука Гуаданьино хочет снять новую историю любви",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/A9n74Q8UvDZJkGo04KCC0oER6Qx.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 23"
+ "last_post_hour": "2026-11-27 01"
 }
