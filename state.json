@@ -1,22 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795057691.1177096,
-   "title": "Крис Пратт сыграет главную роль в фантастике «Путешественник»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/chris-pratt-the-traveler-paramount-pictures-1237228625/",
-    "https://screenrant.com/chris-pratt-the-traveler-movie-cast-paramount-producing-deal/",
-    "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984/",
-    "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w780/2c0UOBpTJX5uynGXUA7xldCgkVV.jpg",
-    "https://image.tmdb.org/t/p/w780/mlgOylIhGyEyLq4GVKm38fejK7I.jpg"
-   ]
-  },
-  {
    "ts": 1795061427.6178179,
    "title": "Тильда Суинтон и Брит Марлинг сыграют в сериале от авторов «ОА»",
    "rubric": "Сериалы",
@@ -1479,7 +1463,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg"
+  },
+  {
+   "ts": 1795663038.9220166,
+   "title": "Завершились съемки «Властелин колец: Охота на Голлума»",
+   "rubric": "Россия",
+   "urls": [
+    "https://www.film.ru/news/zavershilis-semki-ohoty-na-golluma"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w780/dZIj0MxV54VLf39RaD4xjzjjLOY.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 01"
+ "last_post_hour": "2026-11-26 06"
 }
