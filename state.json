@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795082979.7172937,
-   "title": "Вуди Аллен завершил съемки 51-го фильма",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.film.ru/news/vudi-allen-zavershil-semki-novogo-filma"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795090224.2742777,
    "title": "Брэд Питт раскрыл, когда стартуют съёмки «14 друзей Оушена»",
    "rubric": "Кастинг",
@@ -1453,7 +1444,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/tdKdQNYSSvlZuU52CvH3RDjEHFn.jpg"
+  },
+  {
+   "ts": 1795688911.3249795,
+   "title": "Лили Джеймс снимется в триллере «Охотничья вечеринка»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.kinonews.ru/news_144344/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/2w8tMEdCxBXB44X05RQDC2Kvbap.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 12"
+ "last_post_hour": "2026-11-26 13"
 }
