@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795111778.4978497,
-   "title": "Дакота и Эль Фаннинг сыграют сестер в «Соловье»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://variety.com/2026/film/news/the-nightingale-trailer-dakota-elle-fanning-book-1236953111/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/h632/lsCvP342xZsUaX8s5cwzUryWLeQ.jpg",
-    "https://image.tmdb.org/t/p/w1280/8nNFGXzKmJ6tREY9ayjtd5iD5GQ.jpg"
-   ]
-  },
-  {
    "ts": 1795115494.1971526,
    "title": "Сериал «Позолоченный век» продлен на пятый сезон",
    "rubric": "Сериалы",
@@ -1486,7 +1473,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg"
+  },
+  {
+   "ts": 1795718072.754176,
+   "title": "Жерара Депардье обязали предстать перед судом",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.kinonews.ru/news_144351/",
+    "https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/pOpHfkYRhFJiKAiIycdguQPYfem.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 20"
+ "last_post_hour": "2026-11-26 21"
 }
