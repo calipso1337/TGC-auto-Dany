@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795108370.436187,
-   "title": "Раскрыт актерский состав сериала «Жизнь после Арчи»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://deadline.com/2026/11/after-life-with-main-archie-cast-disney-comics-1237228462/",
-    "https://collider.com/afterlife-with-archie-disney-plus-main-cast-riverdale/"
-   ],
-   "image": "article",
-   "blocked_images": [
-    "https://deadline.com/wp-content/uploads/2026/11/Afterlife-with-Archie.jpg",
-    "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/riverdale.jpg"
-   ]
-  },
-  {
    "ts": 1795111778.4978497,
    "title": "Дакота и Эль Фаннинг сыграют сестер в «Соловье»",
    "rubric": "Трейлер",
@@ -1486,7 +1472,21 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg"
+  },
+  {
+   "ts": 1795715881.4764066,
+   "title": "Голодные игры лидируют в прокат США",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2tId3Q2WDZjQ0F1YnBkOGZTYVU4UEhMWS1BTmNvV0JEM3hWSkhZMDlBd0VIb0dhNmhvZUJkeDlRS0xEYUNWbU5oeWNuYXYydE5Uc0lDby1jTE1SX19mejcwcE1mcUlLNUE0UzlRWDJoRngtM1pGcy1sYWRDRWtza3J3QkFkZzdUa3VmeF9lZXhaM0Fzb1RLQi1RQzlidU94YUViQ3U2dXhVZ0FkMWFpanR3TF9vRVhkUERseW1B?oc=5",
+    "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlFQM056RTF2OVY2RkFUU0RYZ2RTYmtyRWE4bi0zS3JjV1JySFFjbEhKb3c5Um9LZWZUNDFhN2NvRXRtQXRoZUFYVC1VUmg5XzhySllaNDRSeE9KYTlac09RWnlGUmZ5cmxrMVdoREpTNUJ1d1Q4c3hkUS1iUTFsUnRab2FqX2lZLVVJMlBLM2doN3E2WFFxdXRqNU1jQQ?oc=5",
+    "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHFKaHRiclVkeC1jampXWHkxdVJxWkotMms2ay1yS3BzS1pRNGxMNUItMWxkdnVWd2NRbG5LTWpldTVyTDB0QTN0Y3ptclRITXVQX3JZek5xeWVraG9zZEt6dmZ5ck1LRkhFU0pGWlFaZk5WM05vb21FT0Z0NmZKeFhxbzNnNFBZbk9yXy01bFE5eFJqVlllZWFNb3h2TDlzSVlDaGNRZTBCMUdNSmktYm5VbHZRNHRFOWVucGZtdDVtRklrU1NPcy1R?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/Ac56cVxw43dUY7rUIjadk0ro0xt.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 19"
+ "last_post_hour": "2026-11-26 20"
 }
