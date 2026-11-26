@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795093835.260836,
-   "title": "Джордан Пил намекает на перезапуск «Кошмара на улице Вязов»?",
-   "rubric": "Слухи",
-   "urls": [
-    "https://www.kinonews.ru/news_144219/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795097581.5230758,
    "title": "Эдди Редмэйн вернется в сериале «День Шакала» весной 2027 года",
    "rubric": "Трейлер",
@@ -1467,7 +1458,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w780/s8tzTPsW0BusS3SCkBmh7yYMy0w.jpg"
+  },
+  {
+   "ts": 1795698699.8365386,
+   "title": "Олег Басилашвили отказался играть Сталина",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNVW1hYkx2YWdoQ2NiUThITEM5cEJTck85Smo2RTBjRXFCdlVBY0I2M3NVTXhYcnA2Um85T3VPclFjNEZxWlItRERMaTVhQmFJQVMwcmhpR1ljWlQ3UlZ1T1ZUNXVDU2dCd3JPUjV1bVVRekNrY1pGUWJodEh3YU5QNXIxM3JuQnRfWDVJUFNoZWUyaTlqWEZ6NkR3NmhYQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ObUxXT3BCWFhpSWF2Zm5iZzljRFVHMlhieEdpVHBiRk56c1hiNkstZnA0MzhMYjFCS05DNEpaTVlFWWZz0gFKQVVfeXFMUDVGZWgwS0NFTExmMWxTRUhMa2djbEQ0aDd1b1pUY3NJTjRYd2NJdUNNeEhMUkpFMV9BQ0J5U1VnSWJ4WkwtRzIweGc?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/y3HwReFEfNKboEgpKYtqBqoxggj.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 15"
+ "last_post_hour": "2026-11-26 16"
 }
