@@ -1,32 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795068581.6870346,
-   "title": "Пирс Броснан поздравил Роберта Паттинсона с ролью Джеймса Бонда",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669/",
-    "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112/"
-   ],
-   "image": "tmdb"
-  },
-  {
-   "ts": 1795072365.5539517,
-   "title": "Джейсон Блум и Джеймс Ван о рекордных сборах хорроров и успехе «Одержимости»",
-   "rubric": "Касса",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVU5SY2ZpenlMOUhmdnFFTUw3SE9UYUpOS0VzbVJFY0RYSXFrWTFfdTFCSVBMdjMtQzN0djdaMDBZVE9nVWNabTRRa2NPbFk0Ulk1MEtpWi0zTTJNSVVnQjJTakxzeFc5dDdrUUczRjMwczRaZlVKV3h5bDl6dnM2SVI1RHdjY2RNSVZNLVltOWtTa2RZOU9zMllWMEUyV1RUTmZBXzd6VERsaW5xdHJCc2c3emw1SkVVcmFoc25JeVNlSl9PczhSdWNuVFFfUDdUSEc1enQ2UzZjd2x0YzA2dU5SWmFLUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xU09PMEtMdlRhZS0yS0lYTUFkQWtabm4zWGRJWnpZeE9vUmJDYjI1THpYd0RFeGNDRGw1Y0t0ZWFSYzVraTYtdWtPdW91WTVHc3VTT2x3VjlHZUF3MWg3WWpFTjREenc?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1JEZXpXaUhEalBzbW1MemNiSnBfck5oeWd1TWhSYS1sU3A2aTkyZjg3Q2ZrOTNKTjZWbktSQ1FqSjZNX2pFUGJ2U0x1eVlJWHFCeTAwUDZLMU1LaW1Cc1hpTEdKNmh6cU9ZQ2hiU2tUX29iN182Z29YX3dkN1BvZkNJV3dwbUJCS0VN?oc=5",
-    "https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/cfoFgrPULUMFAP0XCo6hfjzKZGN.jpg",
-    "https://image.tmdb.org/t/p/w1280/odSvWtn22HynOxFEwJuGlR9uUKj.jpg"
-   ]
-  },
-  {
    "ts": 1795076221.3305004,
    "title": "Мадонна вернется на экран во 2 сезоне «Киностудии»",
    "rubric": "Кастинг",
@@ -1467,7 +1441,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/7yKtaRij2giAj0s09F6gmB8XIje.jpg"
+  },
+  {
+   "ts": 1795679427.3096607,
+   "title": "Мстители: Доктор Дум метит на рекордные сборы в США",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZndxQ3dQM28yLVpnX1pLZVFuZUNqcjZVZ0hRS2dERXhqaUJ2NEFRN24yU202VUluZFJVQ0JxWWNWZk83c3pXc0wzTlJHZnRTUk5pNHdOTTdoc29kcmtWV1lOdXBXODRsajN5NnVDU1pIdzBycE5JQ3ZVamtxeVdrVEl0WkdqUlhGV2xSX19PVFo3UGlTd2c?oc=5",
+    "https://news.google.com/rss/articles/CBMioANBVV95cUxNRmpreFp3ckpfSXNxc2xwOTMwWjBpQmo2QWRNQUVpRC1DUmQzUmVSV2doVXFPcTVEY05ORW1uUXF4bEFSVllrdTM3cmVNUzFwN0FtYzU4ZGtIR3dRNUgwd21KaS11OUJVX0MzNmNlVUx4Wi1OYzBqYm9ZcW5PbVZxYVA5aENUQjZuOWQyTFgtaTFvcFVIV0c3UG1KQ0loMVJ5QU1oS2piZnJZUUdDaVVPdlNhUXNubmNVY3BDbDlrNXJVczlRbXVNTjJqSUd3cjhYODFESl8yaC1BamsxNFJJNmE2cVZROFAyYWlBQlNvdFdLeXpaTy1RMlhOYVRmMFpfeUxISzBEaEN6d3FXQ21OaDU5c0tGd3NXM1J3VG5LaU8xU05sa0VfOXdZVzhDcTBmODYyWmhxR2dYSkxwRVI4NzVSbmg0UUE2dkRKOHk4cTZIWWc3alBCNmttb2l4SGJCVy1DMFhGajB1ZkdRODRGTG9VSXhOcWRHdFFTbFNLQW9jWlFWLXFVX0IxNVF6Wjdqd2prSUVSTmtBRHVDblRTc9IB1gJBVV95cUxPT01nck1lbGpTd25XTUt6NEMzdmhFelFLQnlYRXNiM3pHck03eVY4NnV1S3h4QTNkZFpHMHJBS2dqVFVyVDBEak1zT1RGdFRZbktvR0M1T3lBX2V2MWwwVlg0UGNYa0UyTzdLSGNiV3Y1X19PS1diMkNhQ2dZelk4TUxST1NmUFJMMXNDS1lDcFF1dVhiT0JsbVFIaXBGa3BLbHZVQXktQURKRmNuU1pwSjZPR2l2cGVNVGV2elhVMnhaUlJpVGlvVlVEWGNNVGU3T3ZCdmhwMnVSeUVFRmY0cW5nVWtEdHQ5eUI3QW1ybnp6RXVaRDh0UUcwaVlWSzUzdmdkLXZrcVNvTEMzWF9QT2RaQ1FUX2ZjUzZpZTgySVNKUTFtdFdNbWw2YWR1N0hnQjRoZzY5Uk9HamFpQ1lLQ29VZG1Md0hxRS1qNkd5RlFLaHlqUVE?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRG9STHZWUTZJb0paZW1rOFV5MGViaFp3VXZSOFRXU0V4N1B6S1VUM2djdFZTcTR2R2tFWEpmWHU0ajhpLVJTbTZkQjg5aHE3SHVCVlhyNWdRTVBraE1aNEtDVDBRc1ZyVHFLNkY5aXNpeVBhR0h2dFVnM1liaGpIRDZaR2Z0ZloxNUZic29nUE1zU2xLTVhXSlM5OVUwY2RZeFR1VmNKUFVEZzFDaUQxZmhERFV1eDdBLUVSVG84TVFsa2RMcFJLd3RZSjBHSFVORnhqbw?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 09"
+ "last_post_hour": "2026-11-26 10"
 }
