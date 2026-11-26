@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795076221.3305004,
-   "title": "Мадонна вернется на экран во 2 сезоне «Киностудии»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVZaT2hCel9kX3U5YXRiQ0YwVUZucUdJM080dEpXdVZTTU1leHpycWxZdVUzUHVpellId2pfc0IzZ2ZTVm42akJfZDBPdEUtWlNXM09zU2JkaEZHT0dGUkZjZTdQbExPOXU0b2NnMjZZOGlmek1mZEppQTF1WWVId0ZZTE1mR0lKMm5XUXdxSTVBU2cwX0QwUTM4OGs3ZkxKbmFyZE1HeFlqbDVBRHpIeG1zZzdoa3JXSnlNeg?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/ji58D04dn1faMxjOBiRPsHRmb8Q.jpg"
-   ]
-  },
-  {
    "ts": 1795079441.4706633,
    "title": "Джон Траволта дважды отказался от сценария «Без лица 2»",
    "rubric": "Индустрия",
@@ -1453,7 +1441,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/Ad0C6CKwmp9mNz2iit2r9shuZTN.jpg"
+  },
+  {
+   "ts": 1795682217.109801,
+   "title": "Лорен Эш и Мэй Мартин озвучат мультсериал «Грязь»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://deadline.com/2026/11/lauren-ash-mae-martin-dirts-shozer-comedy-1237232683/"
+   ],
+   "image": "article",
+   "image_url": "https://deadline.com/wp-content/uploads/2026/11/Lauren-Ash-Mae-Martin-Mark-McKinney-and-Mark-Little.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 10"
+ "last_post_hour": "2026-11-26 11"
 }
