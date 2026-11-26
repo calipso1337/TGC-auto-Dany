@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795079441.4706633,
-   "title": "Джон Траволта дважды отказался от сценария «Без лица 2»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.kinonews.ru/news_144217/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795082979.7172937,
    "title": "Вуди Аллен завершил съемки 51-го фильма",
    "rubric": "Индустрия",
@@ -1451,7 +1442,18 @@
    ],
    "image": "article",
    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Lauren-Ash-Mae-Martin-Mark-McKinney-and-Mark-Little.jpg"
+  },
+  {
+   "ts": 1795685448.1504912,
+   "title": "Юлия Хлынина в трейлере «Каменская. Перезагрузка»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://www.film.ru/news/vyshel-treyler-seriala-kamenskaya-perezagruzka",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1obGlNbTZtYWdIQmNVQWN2amtnQ3NTWVhoZFA3bE14M0tSSVFGR0lRdDVxZlRNaGdUVXhLbkhmY2xaRnFRQTBtUkFvcWphTFptVXRKNGp3azQ0QUhjRlZJWmZR?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/tdKdQNYSSvlZuU52CvH3RDjEHFn.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 11"
+ "last_post_hour": "2026-11-26 12"
 }
