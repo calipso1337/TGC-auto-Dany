@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795090224.2742777,
-   "title": "Брэд Питт раскрыл, когда стартуют съёмки «14 друзей Оушена»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://collider.com/brad-pitt-oceans-14-filming-start-2027/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795093835.260836,
    "title": "Джордан Пил намекает на перезапуск «Кошмара на улице Вязов»?",
    "rubric": "Слухи",
@@ -1464,7 +1455,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/rKyrzbJcOQKMU1TqzUvkt7tghcG.jpg"
+  },
+  {
+   "ts": 1795695070.3902879,
+   "title": "Семья Чебурашки в трейлере фильма «Чебурашка 3»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1pxTk82VDJOeDhmZEVpaWJaZUR3WkJ4UGhsMkpjaDVsTmU1MEJkU3VXZ3hoY1dDY3ZxS0VOTEQwZDBvYnJEa2dVNVFfM1FjamQxbFh4MF9iMklGVm5pLU9rNEtsZDh2Y0hUc2pYTlBCOFhRQ1UtUFhGT2FFaWV3RE4tcFRRTnl2d3RpQw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX29tbnY5NlpRREtDZ2Mxc1VPQ2ZzeU5Hak5ZRi1SbC1wbTBVMVJqUUdGZVJ4aEQzVmlLMUNkaHpKbUROTDg0YkZWN2lOdS1EWFhucnlpOUQxWGJma3dZMDZibFgzY1EyNmlzN0NHWENKVHJPeVJMTTFDalROdDNSLVFORmV2aTVUT1FlTTdjSjk0SVUxN05NTnppVQ?oc=5",
+    "https://www.mirf.ru/news/glavnoe-v-jizni-semya-novyi-treiler-cheburashki-3"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w780/s8tzTPsW0BusS3SCkBmh7yYMy0w.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 14"
+ "last_post_hour": "2026-11-26 15"
 }
