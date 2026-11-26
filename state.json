@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795064976.281148,
-   "title": "Мишель Монахэн и Джастин Теру снимутся в хорроре «Ночевка»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/michelle-monaghan-justin-theroux-sleepover-blumhouse-atomic-1236952362/",
-    "https://www.hollywoodreporter.com/movies/movie-news/blumhouse-atomic-sleepover-michelle-monaghan-justin-theroux-1236758889/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg"
-   ]
-  },
-  {
    "ts": 1795068581.6870346,
    "title": "Пирс Броснан поздравил Роберта Паттинсона с ролью Джеймса Бонда",
    "rubric": "Индустрия",
@@ -1470,7 +1457,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+  },
+  {
+   "ts": 1795673289.711293,
+   "title": "«Пространство» вернётся в 2027 году с физическим изданием приквела",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://screenrant.com/expanse-franchise-2027-return-telltale-prequel/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/7yKtaRij2giAj0s09F6gmB8XIje.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 07"
+ "last_post_hour": "2026-11-26 09"
 }
