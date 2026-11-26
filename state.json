@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795061427.6178179,
-   "title": "Тильда Суинтон и Брит Марлинг сыграют в сериале от авторов «ОА»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/clandestine-series-paramount-plus-brit-marling-tilda-swinton-1237227752/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/h632/iiEiwcEaOObQXHoOitU1wstZmMF.jpg",
-    "https://image.tmdb.org/t/p/w1280/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
-    "https://image.tmdb.org/t/p/w1280/mjU3B6IK8oGd19Jed4gzqKp0KCP.jpg"
-   ]
-  },
-  {
    "ts": 1795064976.281148,
    "title": "Мишель Монахэн и Джастин Теру снимутся в хорроре «Ночевка»",
    "rubric": "Кастинг",
@@ -1473,7 +1459,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w780/dZIj0MxV54VLf39RaD4xjzjjLOY.jpg"
+  },
+  {
+   "ts": 1795667704.3024094,
+   "title": "Реакция режиссёра «Сумерек» на выбор Роберта Паттинсона на роль Бонда",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.hollywoodreporter.com/movies/movie-news/twilight-director-robert-pattinson-inspired-james-bond-line-1236763521/",
+    "https://deadline.com/2026/11/twilight-director-reaction-robert-pattinson-james-bond-1237233564/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 06"
+ "last_post_hour": "2026-11-26 07"
 }
