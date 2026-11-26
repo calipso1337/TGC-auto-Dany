@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795119255.2062407,
-   "title": "Джуд Лоу и Эндрю Гарфилд в тизере сериала «Дикие вещи»: дата премьеры",
-   "rubric": "Премьера",
-   "urls": [
-    "https://deadline.com/2026/11/siegfried-roy-wild-things-release-date-apple-tv-1237229337/",
-    "https://screenrant.com/andrew-garfield-wild-things-apple-tv-release-date-first-look/",
-    "https://collider.com/wild-things-jude-law-andrew-garfield-siegfried-roy-first-look-release-date-apple-tv/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795122511.8755808,
    "title": "Ночная медсестра возвращается в киновселенную Marvel",
    "rubric": "Кастинг",
@@ -1481,7 +1470,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg"
+  },
+  {
+   "ts": 1795725095.4317448,
+   "title": "Ушел из жизни художник-постановщик Марк Тилдсли",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068/",
+    "https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/xhO34UiM3TpkxvxaLzaPeTh3twU.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 22"
+ "last_post_hour": "2026-11-26 23"
 }
