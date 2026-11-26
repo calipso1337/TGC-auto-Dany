@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795115494.1971526,
-   "title": "Сериал «Позолоченный век» продлен на пятый сезон",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344/",
-    "https://www.indiewire.com/news/breaking-news/gilded-age-renewed-for-fifth-season-hbo-1235229564/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/afUVsProh46h31w2EvL7qyHXrqj.jpg"
-   ]
-  },
-  {
    "ts": 1795119255.2062407,
    "title": "Джуд Лоу и Эндрю Гарфилд в тизере сериала «Дикие вещи»: дата премьеры",
    "rubric": "Премьера",
@@ -1484,7 +1471,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/pOpHfkYRhFJiKAiIycdguQPYfem.jpg"
+  },
+  {
+   "ts": 1795722640.2452269,
+   "title": "Скотт Каан готов вернуться в «Одиннадцать друзей Оушена 14»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg"
   }
  ],
- "last_post_hour": "2026-11-26 21"
+ "last_post_hour": "2026-11-26 22"
 }
