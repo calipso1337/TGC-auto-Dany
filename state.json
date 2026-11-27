@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795194610.7716343,
-   "title": "Вышел первый трейлер триллера «Убить Кастро» с Аль Пачино",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://deadline.com/2026/11/killing-castro-diego-boneta-trailer-1237230063/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795198222.1892626,
    "title": "Лили Рейнхарт может сыграть в фильме «Полли Покет»",
    "rubric": "Кастинг",
@@ -1431,7 +1422,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/8SyOIiJhIzqX5frbD7m3i5K6a7U.jpg"
+  },
+  {
+   "ts": 1795801035.7463264,
+   "title": "Раскрыт звездный каст игры GTA 6",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://variety.com/2026/gaming/news/gta-6-celebrity-cameos-actors-janelle-james-jeremy-irons-1236958335/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 19"
+ "last_post_hour": "2026-11-27 20"
 }
