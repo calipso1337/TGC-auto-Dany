@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795191234.2303357,
-   "title": "Второй сезон «Презумпции невиновности» выйдет 19 февраля 2027 года",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://deadline.com/2026/11/presumed-innocent-season-2-release-date-photos-teaser-1237229678/",
-    "https://www.kinonews.ru/news_144242/",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkpudm91SXVGeVk4eGl3WFhqTUw4QURqTXVrdlFQaEhuclNEYWlCQmUtX1RPLXh6UlJrTTFzTGJrby1sZU5QNklyRjRjSDhkeFdmZmlkMGJGWjV6X014b1NfX2JoYVJUekFnV2pHTllyQXEtZjY5WUthS3VXeWNBbEdoT2lRSmVIQjllNkFtU3FQbFo0dWdWUmdfZlZjMWUxR0puTExsQ1UyaDE3X0JId1poM29qTkI2MTc0dHlrQ0J4SmpvM1HSAcsBQVVfeXFMTnJPOExsZk05eWlKWXpUcXB5WWRFNEJMZ2YyMzFuS2FOUHlFVk9EZDZWd3ZUck55Q0NHbVpWT3ZBWXlXYk1fY0w5azROVnBjS0dadGxuSWNLR3Z0b3U5azk4YTFkdkVfd2pqaTJNSWYwMW8tRWZZdXZJWUxSekR1eHFCZ3Mzc05qZXdsNGpIVFd6ZWFWem83VWlTQkkxVXJ0NEJrR3BmenB4OWlSQUpVRTdiSW5tVU5iU3k1Y3JHTkQzOXc1TmVWbl9Gb3c?oc=5",
-    "https://www.film.ru/news/tizer-vtoroy-prezumpcii-nevinovnosti",
-    "https://collider.com/presumed-innocent-season-2-release-date-teaser/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795194610.7716343,
    "title": "Вышел первый трейлер триллера «Убить Кастро» с Аль Пачино",
    "rubric": "Трейлер",
@@ -1433,7 +1420,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg"
+  },
+  {
+   "ts": 1795797708.9763262,
+   "title": "Дени Вильнёв — о столкновении «Дюны 3» и «Мстителей»",
+   "rubric": "Касса",
+   "urls": [
+    "https://variety.com/2026/film/global/denis-villeneuve-disappointed-dune-3-avengers-doomsday-release-same-day-1236959503/",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakpCSzVjSWFleF9NdlNEbzBmOWtUYm1jbUZRaERjeVpLcVpGaGJfYUs1WTNEUWVsSEVKLVlHX2RZbmQ3VjRsM2M4TVZ2ZlN5Tm10b3Z2ME5EZlg5b0ZDZ1hyTTgyc1ZCV09rejVLMDVQQzktTGdnMGMwMk9paDFHOERvcFI0ZXo1dlNuT2lFaUFTcFdtSzVnYnNkc1BWYTVqLWc?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/8SyOIiJhIzqX5frbD7m3i5K6a7U.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 18"
+ "last_post_hour": "2026-11-27 19"
 }
