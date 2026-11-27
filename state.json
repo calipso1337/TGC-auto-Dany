@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795151338.5382423,
-   "title": "Лоуренс, Хатчерсон и Харрельсон появились в «Рассвете на жатве»",
-   "rubric": "Премьера",
-   "urls": [
-    "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/",
-    "https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907/",
-    "https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-ending-explained/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795154927.5116215,
    "title": "«Мстители: Судный день»: предпродажи билетов приближаются к ₹50 крор",
    "rubric": "Касса",
@@ -1463,7 +1452,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg"
+  },
+  {
+   "ts": 1795758523.130393,
+   "title": "Николь Кидман и Сандра Буллок представили «Практическую магию 2»",
+   "rubric": "Премьера",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWxjenNCeFdEQ25IdWpBM2xNd2ZvdktCS1U4UlZ2clZZbU5qdjNHOGxUNG9DczlsSkVweFNObkhDX2toRUszZmVYTkJ3d0F6U2V1dlNJTVJoM1ZmVnBNbTZjS1RjdTJ1NEhhaFMyMHV0SWwzX3VtWERPWWRXZnZwVmoybkJZUHYyNnMwSFZRZFZjTjBfMTJsbXo4am15RXZpdEdIUFNqOUFFeGdSZFNkMUkyclRrR09VTnJj?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 07"
+ "last_post_hour": "2026-11-27 08"
 }
