@@ -1,21 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795201721.091194,
-   "title": "Маколей Калкин вернётся к роли Кевина в продолжении «Один дома»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://variety.com/2026/film/news/home-alone-reboot-disney-macaulay-culkin-seth-rogen-1236954344/",
-    "https://collider.com/home-alone-reboot-macaulay-culkin-returning/",
-    "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/",
-    "https://screenrant.com/home-alone-reboot-macaulay-culkin-development-report/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/a8tH0jl37366bLVyPB08dncgqqd.jpg"
-   ]
-  },
-  {
    "ts": 1795209083.0596497,
    "title": "Стерлинг К. Браун сыграет с Николасом Кейджем в новом «Собирателе душ»",
    "rubric": "Кастинг",
@@ -1427,7 +1412,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/te4VJNMipsFQofCkiytuyswGDlV.jpg"
+  },
+  {
+   "ts": 1795806554.032224,
+   "title": "Киллиан Мерфи тайно сыграл Доктора Дума? Новая фанатская теория Marvel",
+   "rubric": "Слухи",
+   "urls": [
+    "https://www.kinonews.ru/news_144357/",
+    "https://screenrant.com/avengers-doomsday-cillian-murphy-doctor-doom-theory/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 21"
+ "last_post_hour": "2026-11-27 22"
 }
