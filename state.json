@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795183967.717022,
-   "title": "Киран Калкин воссоединится с создателем «Наследников»",
-   "rubric": "Кино",
-   "urls": [
-    "https://deadline.com/2026/11/kieran-culkin-reunite-succession-jesse-armstrong-movie-1237230018/",
-    "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/va91QsVNhinjAhMps6KLbEknajG.jpg"
-   ]
-  },
-  {
    "ts": 1795187420.845165,
    "title": "Сериал «Мобленд» с Томом Харди официально продлили на 3 сезон",
    "rubric": "Сериалы",
@@ -1438,7 +1425,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/4737GKC5SaD0L7hbjxBG1DF7c4R.jpg"
+  },
+  {
+   "ts": 1795789802.7416387,
+   "title": "Себастиан Стэн назвал «Громовержцев» успехом вопреки сборам",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxQc2Y4UXlWTURtOWgtYTkwWGpaUEljM3d3TFd0Q09wLTl5ZDVnbElIMlRHNDBoV2VIeG5NNXktN2RRWFJoTURJMWJUVERrY2pBekEtZ3RpUnJNYW1GaFF0R2dBcVZsal85WU9qcUVsMVNQMG9EZUlWZTRsc1RRejJxWXQ2dElUYUo0YlNkQWw2WVR5cVlOODdIbVYxdlNOUExiN2t4V21Lcng0U1Q2OHlRV0lxWk44RHZKVGZ1aVBNVm5ZZy1VMnZxa2dNSGdiOFpKeVhYM1ZpU0gyOGVOSFplMjR3MTluMlJ1WnBvYWlCendwN3phUWRKclRNdmdvTHY1U2w5X01uMEVHYWt3aWhpdFNwRy1Ea2x6U3dJOG5udzRFcVk?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWJBbmo5WWFJVEN3NTc4aXZ2VlpvQkNzRUtMQ2tYR0NvWGRnazNQeGNRd2NiaHRJMnlhcGtBQk8zS0k0MGgxNTE5Y21ReEJObUZJN2ozakFReHdUcG5QNUFoODhJWlhsVnlnYy1teUNJNWQtWWFQcmNlMWdFN0hMNXM4S3MzUTlPNkN2cW5hdjItdw?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 16"
+ "last_post_hour": "2026-11-27 17"
 }
