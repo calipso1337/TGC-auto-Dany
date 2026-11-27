@@ -1,21 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795212523.068865,
-   "title": "«Голодные игры: Рассвет жатвы» идет на $120 млн на старте в США",
-   "rubric": "Касса",
-   "urls": [
-    "https://www.kinonews.ru/news_144247/",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUGdmS01vdGRRelk5b1BOa19IcVk0TXFIcFRqVDAwOVc5QUJtaHppZ1h5dFh4N1JWRWJDemtxc2VHRnFzQ1ROUE9LWkpCaVZEUWdrb3k0MS1GVVNHc1BXaENrOGpmNUtpbG55RG12UW9Qd2hJcUY4Y1RGX1VsUTNIZW5SdXhGNWduT1FrN3MzTHczWDg?oc=5",
-    "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUh2LUFzdWdLems1QU1Qb0pzRm9udUtrLVcxcDBpdXU2U3J5TzVxWlJhRFRfNWhjTDJVaVhwMndXY0Z2TjBvOWtnSlNYaTVzQ3JOTWhMN0NRbGh3ODBFbjc5VGZ5X0JpeHFjLVc0dkVLd0ZpTnd0WFlXVnM3VUN0V1BfbWY5NHFMSzhhMU5qbUNKVHZsUjJGb00zeUNrbnRtUVdGZUtWWjNxVC1JTVdBODVmTzNsSFhPWXc?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
-   ]
-  },
-  {
    "ts": 1795230677.2031038,
    "title": "Байопик «Майкл» про Майкла Джексона не будет бороться за BAFTA 2027 года",
    "rubric": "Премии",
@@ -1432,7 +1417,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg"
+  },
+  {
+   "ts": 1795818675.1731267,
+   "title": "Бен Стиллер оценил игру Арианы Гранде в фильме «Знакомство с Фocker-in-Law»",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 00"
+ "last_post_hour": "2026-11-28 01"
 }
