@@ -1,17 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795209083.0596497,
-   "title": "Стерлинг К. Браун сыграет с Николасом Кейджем в новом «Собирателе душ»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/sterling-k-brown-new-longlegs-movie-nicolas-cage-1236954539/",
-    "https://collider.com/nicolas-cage-longlegs-spin-off-cast-sterling-k-brown/",
-    "https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795212523.068865,
    "title": "«Голодные игры: Рассвет жатвы» идет на $120 млн на старте в США",
    "rubric": "Касса",
@@ -1433,7 +1422,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg"
+  },
+  {
+   "ts": 1795815345.5678244,
+   "title": "«Мэр Кингстауна» завершится на пятом сезоне",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbl9NZE1ja01TQ29ZV0NvdFBVYS1SWVp1Q3ZTOHpEN1hiazFqbE9VSnpSa3FLUEZNZk1FQzRaV3RfUGlVSHlmVFlhU2pGejFoazJhUnlWY0NOQm9CWEpaYmoyT3E2Wm9KbkhUWncwYS1FMHZBU1hxdmVRLWR3ZmJ5NmY1LXhBTnJSQ2t6R0hR?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 23"
+ "last_post_hour": "2026-11-28 00"
 }
