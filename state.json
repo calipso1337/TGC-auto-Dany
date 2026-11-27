@@ -1,21 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795198222.1892626,
-   "title": "Лили Рейнхарт может сыграть в фильме «Полли Покет»",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282/",
-    "https://collider.com/polly-pocket-movie-cast-lili-reinhart-talks/",
-    "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/mF21J5mBfGdVFDHLWCX8VeSSz1N.jpg",
-    "https://image.tmdb.org/t/p/w780/krP3tWoW2hFbGboVd8lzPItivRf.jpg"
-   ]
-  },
-  {
    "ts": 1795201721.091194,
    "title": "Маколей Калкин вернётся к роли Кевина в продолжении «Один дома»",
    "rubric": "Индустрия",
@@ -1432,7 +1417,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg"
+  },
+  {
+   "ts": 1795803453.1048524,
+   "title": "Нэтан Филлион поделился новостями о перезапуске «Светлячка»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://collider.com/nathan-fillion-firefly-reboot-revival-progress-update/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/te4VJNMipsFQofCkiytuyswGDlV.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 20"
+ "last_post_hour": "2026-11-27 21"
 }
