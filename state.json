@@ -1,31 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795126541.2548296,
-   "title": "Кристофер Нолан объяснил, почему зрители не увидят вырезанные сцены «Одиссеи»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/",
-    "https://www.kinonews.ru/news_144233/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/iEAukcYiyuByB23aitdcbRqrEqO.jpg"
-   ]
-  },
-  {
-   "ts": 1795144214.3057444,
-   "title": "Вышел основной трейлер мультфильма «Ледниковый период 6»",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/osnovnoy-treyler-lednikovogo-perioda-6"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/pJfMliqzzVzTU634zpYDMfYNX6c.jpg"
-   ]
-  },
-  {
    "ts": 1795147744.428861,
    "title": "Билл Хейдер снимет хоррор «Они знают» (They Know)",
    "rubric": "Кастинг",
@@ -1480,7 +1455,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/A9n74Q8UvDZJkGo04KCC0oER6Qx.jpg"
+  },
+  {
+   "ts": 1795749313.0854843,
+   "title": "Ушел из жизни продюсер «Список Шиндлера» Джеральд Р. Молен",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/",
+    "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
+    "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 01"
+ "last_post_hour": "2026-11-27 06"
 }
