@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795176644.7983875,
-   "title": "Фильм «Новые похождения Клиффа Бута» получил 84% на Rotten Tomatoes",
-   "rubric": "Премьера",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNnFtN3V3cHFjMEhuQktEMWprY2s2R1RBeWxKc0Z6eG9OLUdlQVF4TWs4U0hXczdwRTlHRmppV29memRqa1FoWVVMWHAtNnBDdlE?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW13YmlsZ09VeWJsdWwyX3g4eDhKM2hGSHR6ZTdUbDBhLWVGUHliYTB5UzBmTmlPamdNUXBtRW1iWjNxVlVCZEFCUnFnMmVuSWxRR1pGbmNXaERQazgxNEQyblc2bTczaWprMUVRZlJSaEdMZFhvRkp1SUNxM244OUt4Y2lmei02dnRVSTFfN3lQYWpqdkRSUGdoMFQxY0N3T2tVVVRIMDFlQ2JSM2RxeWh30gG3AUFVX3lxTE5qeFREX1Z6dkNOcTNYLVJYbzFRVlo4SWNhSHJrd0E4aWdVTzY4eHVvSk5GQk00WFNrNjZ2T0dUNWhZdTE3dDljeUx1OHJnX2ZmakJVOE0xQThiTmFoMUpKQkNYOUZ2elRTZTU0S2J5N3NFQjc4MXQ5RjkxNzhKaHdsU3hxNWVwMTBQOG03QTRhNG9Ba0c5WjkwMWxNZlppbUliaDF3Q2JNV285WThMOEh0dnN3blpTQQ?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg"
-   ]
-  },
-  {
    "ts": 1795180155.82129,
    "title": "Дени Вильнев снимет фильм «Ядерная война»",
    "rubric": "Индустрия",
@@ -1441,7 +1428,19 @@
    ],
    "image": "banner",
    "image_url": null
+  },
+  {
+   "ts": 1795781568.5630434,
+   "title": "Третий сезон сериала «Золотое дно» выйдет в январе",
+   "rubric": "Россия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdU1iWWhZb1QtODBDVC1hZzRPVFBIcDVlMUpOTW56b0V2SVg4eHdxT3VvSWRvWjBUZnBJeEZLWUw0WmpYbFM3NXpsQ0l0N2lRblQycnlRN3pUSnF2b0g1U3dXLXVxaVJpZFk0Y21JUzNzaEt2QlByamQzUHVFQ3BfUVUtTDctb2FOc19aSjdpckJDZw?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTl5QV9wMWJjU1k5a2tRRW1vcm5GVENrdEo3bjBnZkdKNW1sdlQ0T2hPVzZnN1hxS0FYcUtzeEozQlk0aVVZVHZYOGwtcERWZERvMWt4UG1qcVpnMVFWSGRkZDZhM1drV004QjNzWlZQcHJFTWVFVWRXVi1ISDd4ZFZ1NTFYN1NLdFJNZzJ1T20ySGNTSFFtdmV3?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2w1TGZfczZKNE13TXJWdG1qaDFiV0hQVnp1UWM0TWFJQ2ExdHZwQk5GSkdEMGhKWDdNaWdqZTg3TTVzYjQtRktaRzlROGxET2pwSlZsVGxSOVlYaXF4RS1fSGhoYWdwdl9ueVcxc0pYR29LNl9LaDFfRXluSGphSW41MjFNZm5LSTVsQlhDOEpJamV1Sy1GMzF6Q1Vzdw?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/h6dQb9NoR8PkfEGqnwZqu9dllzB.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 14"
+ "last_post_hour": "2026-11-27 15"
 }
