@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795154927.5116215,
-   "title": "«Мстители: Судный день»: предпродажи билетов приближаются к ₹50 крор",
-   "rubric": "Касса",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQU1h2MEQ0ZUpDUzdES3JXN3d5YzRLV0VqRkhGQ2hhczBKNDVob0VNQnU3MFJwZE1WLTA4dWNhcHc0al9kaklZLXA5QTZzb3lXZVhGdTV2dWU4OTUzcnBHZFkxNGY2c2N4SGIwNU1KTzZlV1dPZVZHVnd1cERnX01hU1lUdXBfU1BZcUU5WExuV1hidDF2eWtIbVlMb2FVVTRza1otWk5jV19kWU9JQ2JvQzFPemMxVEtWOGl5WWthUG1oYVcxQ3E0TTdUVDFJWS16ck9FX3ltSjBGVG5ORVczRDY3U2lQTEV6eTFTRjA3ZTQ4RExSWERRUklpU3o2LTFfVW5sZ3NBanZ1UFAtdXlydjZNelRfRjY5Q3ZoSEFNaTFUZjFyQ0E4cEpvakdVMUtnN2tUcHNYeFBBaTQ0NTdXdjZVZWNvekpWNDZ3ME1MRWdiUG4?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/4ZfiaVkh7dhpHJsPGnhTCviDjFC.jpg",
-    "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "https://image.tmdb.org/t/p/w1280/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg"
-   ]
-  },
-  {
    "ts": 1795158706.1135716,
    "title": "«Клара и Солнце» с Дженной Ортегой выйдет в цифре 8 декабря",
    "rubric": "Индустрия",
@@ -1462,7 +1448,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
+  },
+  {
+   "ts": 1795759730.9693532,
+   "title": "«Человек-паук: Новый день» вернётся в прокат с футажем «Мстителей 5»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1JRU3RVVGZ1RkFSYTNLSE9SbXIxZzByZHhGTHRHd1ZSMTVaQVM1UlJsLS1uVFBreDMwZ1VpQ1JCU3pXbzdjby1TekJPUW1KNFM5eWhDWGt3LWFSejdYWFcyZGlaQnc0cnltVE5IbVEydDJvakp6VlNxTHExdVBldkpkTmpXTmJLVUZlTVJnX05reXhFSHF2NU9RdF9GVVphMVBv?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE8xMU8wbi1sMVBTellJRS1EaUhMbmtuZ2FPWmFlUUNhS2hDRHY2V0ROMEY5eVlIRURPQ0VN?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 08"
+ "last_post_hour": "2026-11-27 09"
 }
