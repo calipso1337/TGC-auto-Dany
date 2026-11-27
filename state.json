@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795180155.82129,
-   "title": "Дени Вильнев снимет фильм «Ядерная война»",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.kinonews.ru/news_144236/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/l6pOvhDhN5C8Zh9p5rkRCDQlEkE.jpg"
-   ]
-  },
-  {
    "ts": 1795183967.717022,
    "title": "Киран Калкин воссоединится с создателем «Наследников»",
    "rubric": "Кино",
@@ -1440,7 +1428,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/h6dQb9NoR8PkfEGqnwZqu9dllzB.jpg"
+  },
+  {
+   "ts": 1795785012.5939753,
+   "title": "Джоан Роулинг поделилась мнением о сериале «Гарри Поттер»",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://screenrant.com/hbo-harry-potter-season-1-jk-rowling-verdict/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/4737GKC5SaD0L7hbjxBG1DF7c4R.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 15"
+ "last_post_hour": "2026-11-27 16"
 }
