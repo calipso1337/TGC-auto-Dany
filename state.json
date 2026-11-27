@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795187420.845165,
-   "title": "Сериал «Мобленд» с Томом Харди официально продлили на 3 сезон",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://screenrant.com/mobland-season-3-filming-tom-hardy-return/",
-    "https://collider.com/mobland-season-3-filming-begins/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
-   ]
-  },
-  {
    "ts": 1795191234.2303357,
    "title": "Второй сезон «Презумпции невиновности» выйдет 19 февраля 2027 года",
    "rubric": "Сериалы",
@@ -1436,7 +1423,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg"
+  },
+  {
+   "ts": 1795793183.2689466,
+   "title": "Фильм о Трауне подведёт итоги «Мандоверса»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkE5bFoyb2ktOExuazZ0NG1YZ0xmcEdNZkdNWmt4d05YWXFJcG9PX3pENTNESEd0TGQyMXUwQTZMa294VjlOZ1pUTDZ2eVk3cUs1Y1BLMk9GSUFwdk1fMldrcEFWaXF2TExWeVNqVDVtXzN0Y0thb0o4MjNoSXVLVWw1UVpnT0M4aUNHb3NpTU16c1V2?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 17"
+ "last_post_hour": "2026-11-27 18"
 }
