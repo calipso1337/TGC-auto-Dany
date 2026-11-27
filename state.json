@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795165826.3541567,
-   "title": "Джек Куэйд вернется в пятом сезоне сериала «Неуязвимый»",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTI2aGxpUjEtMmtRWWVFRVlfbm4ycjhJWnlaN2JGLWtzZjRoYjJNSEk1M0tBNEp1aEpsX25QaGFBdGF1ZmhoUnI3dU5ueFdRSmUwSmczaWpzVjg4NG5qUkZHMk9Zd0hOSnBlUzBhV3c0TzVubUR5NWhkOE5MVms4Z3FfdF9tck1pbEF6MFlENHhxb0c1OHozbkNFU1kzM1I0Tkp2clJDSG93NkQxVFdNWUpRZUdmQkpBWk9icVVtY1lpWTFvcl8tN3dhTkJxTkx5M0tsX2llcDhpd1ZKU1RaM0YwVU55dmFuWEd1TDBCdUU?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
-    "https://image.tmdb.org/t/p/w1280/9qrroces8C6R9aKr08hACNPVXdZ.jpg"
-   ]
-  },
-  {
    "ts": 1795169578.860853,
    "title": "Джон Карпентер напишет музыку для ремейка «Побега из Нью-Йорка»",
    "rubric": "Индустрия",
@@ -1456,7 +1443,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+  },
+  {
+   "ts": 1795773530.7199855,
+   "title": "«Кольца власти» официально продлили на четвёртый сезон",
+   "rubric": "Сериалы",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEJhZlMxS2c0U1JSNlpKUEZucGUzREd3aEt0UUR4X0I5M3NpbHVscHJJRkdPNTdpVk82MHhCNzdRWUxNUzdJcDZqaUFtcGltcEJER1FyLUVMQWtLY2xEcl9BSXg5c2V2U3JzSUE5dmdfd0JvWnBpYnZlaVFYVXQyRk9kTmxJVDloSGtNcV9ycUt5N2UyWjl5aFZzNE9FR1lCU3ViS182SHV3VDV1STZhaWYyWHVIM2dPN3A4cA?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 11"
+ "last_post_hour": "2026-11-27 12"
 }
