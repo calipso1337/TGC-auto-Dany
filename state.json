@@ -1,20 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795147744.428861,
-   "title": "Билл Хейдер снимет хоррор «Они знают» (They Know)",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/",
-    "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/",
-    "https://deadline.com/2026/11/bill-hader-linda-cardellini-they-know-1237229655/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w780/cOn1jOuamkfIFNNWVVtMBCaD7H1.jpg"
-   ]
-  },
-  {
    "ts": 1795151338.5382423,
    "title": "Лоуренс, Хатчерсон и Харрельсон появились в «Рассвете на жатве»",
    "rubric": "Премьера",
@@ -1467,7 +1453,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
+  },
+  {
+   "ts": 1795755080.8843982,
+   "title": "Вышел тизер триллера «Солнечная долина» от создателей «Тьмы»",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://www.film.ru/news/tizer-solnechnoy-doliny-ot-sozdateley-tmy"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg"
   }
  ],
- "last_post_hour": "2026-11-27 06"
+ "last_post_hour": "2026-11-27 07"
 }
