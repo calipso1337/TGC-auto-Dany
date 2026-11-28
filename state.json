@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795244850.4970791,
-   "title": "Вселенная «Джона Уика» получит масштабную видеоигру",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://screenrant.com/john-wick-untitled-game-prequel-setting-confirmed/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
-    "https://image.tmdb.org/t/p/w1280/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg"
-   ]
-  },
-  {
    "ts": 1795248657.5506487,
    "title": "Принц Гарри оценил кастинг Роберта Паттинсона в бондиану",
    "rubric": "Кастинг",
@@ -1422,7 +1409,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
+  },
+  {
+   "ts": 1795852782.9037585,
+   "title": "Трейлер комедии «Лунная походка» представил дебют А.Р. Рахмана",
+   "rubric": "Трейлер",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUkhJU2JFMUJKb2RYeTFBcVJveEw2Y1VNVVBuUHdoTHZTQUJXUmR3dUVYR1puUXh6bHJBZVRGTnVSN2NQbHR5WkpKVGc3Q3JQaTZSdE5IYWM4dWstMV81Y1YwbFNmUzlpbTJGYWluZWhfS2VGN2xCUnRaVEhEZVRCbVEzYUVSY0Y2eW1RQlIxZGwydldDR1RrQkp3Y2V5cGtTSERzRGMtbHNZMkVQREYwUC04Sjdrc1NTRW9Ga19wdEVBRUlyNHh2V2xFdFZrU29faGlMTWNFNzhMYTl1b0I3dzhka2FZRmpqZ213UC1kWEJBSXJ4cmMtRVR3TTF4R2gtSm55dEJsLVM4YmpPUVhoRFlZbEJhNWxFWnpnVFFFX2tUbVNaN25nUVl0UmI5bzdkX0duaHI3OE9WMldYbEpFS9IBxgJBVV95cUxOeFJRSXpKbFI4dlRseEM2N0ZJcS1KNk1qaEhsandicXl6WHpud1JqRDh3S1VOTzQ5RmdONVNGYmQ2Y0lLeXZXQml0N3AyZnNRbnlseVMzb3lmRTBQY3JYN1lLREJVSjRRZUUtVU0za29KR3d0Zm9NdG81NkRqV0RrSDI1MzlSMl9NQmtOa3BmNDA2SXJwek1GcUQzMEFwRnZfbWU1azkxZk9jWHNYcEJnbTRPaTNXN0VRZGJBTENtdHBGb1d4ZzJFRTM0c3oxYXhaZUxKT2ZMSHVWenE4UnpyR2JjTjdFOUg4REJXOENlWEhhWUsxcndIX3c4alFQUHgxM1E5N3QtRnBXbm55WTVKM2xqRHloY2hGY2s5eHBZdFlBNV9CcWc4X0RUeXZBd2MtMndESWRaRkZvZzN6N0Y4SUVBQ1ZZUQ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w780/aFo96ioew4UcxCgSSb8ARctchZT.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 09"
+ "last_post_hour": "2026-11-28 10"
 }
