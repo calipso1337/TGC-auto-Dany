@@ -1,19 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795259492.0342612,
-   "title": "Стив Карелл и каст «Офиса» воссоединятся в спецвыпуске NBC",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/the-office-cast-reunion-nbc-100th-anniversary-steve-carell/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/rwfbbTIZakqQxtEGTQdmDNXuPxj.jpg",
-    "https://image.tmdb.org/t/p/w1280/tESyWvpMZczQCYL6dWuKoqdGrpi.jpg"
-   ]
-  },
-  {
    "ts": 1795263103.0273852,
    "title": "Джеки Чан возвращается в «Час пик 4»",
    "rubric": "Индустрия",
@@ -1419,7 +1406,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/h632/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+  },
+  {
+   "ts": 1795867054.9973793,
+   "title": "Флоренс Пью хочет сыграть злодейку в новом «Джеймсе Бонде»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://collider.com/florence-pugh-james-bond-female-villain-pitch/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/qqDsryavx9rwSMhDAxW6OC7oNQg.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 13"
+ "last_post_hour": "2026-11-28 14"
 }
