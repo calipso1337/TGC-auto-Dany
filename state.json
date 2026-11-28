@@ -1,15 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795255734.1675959,
-   "title": "Трейлер мелодрамы Времена любви",
-   "rubric": "Трейлер",
-   "urls": [
-    "https://www.film.ru/news/treyler-melodramy-vremena-lyubvi"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795259492.0342612,
    "title": "Стив Карелл и каст «Офиса» воссоединятся в спецвыпуске NBC",
    "rubric": "Сериалы",
@@ -1418,7 +1409,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg"
+  },
+  {
+   "ts": 1795860659.2836077,
+   "title": "«Девятую планету» с Юрой Борисовым посмотрели более миллиона зрителей",
+   "rubric": "Россия",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaVVLMUR1V1BlcXR5RVRWR0R5RnVlQU15SE9pLVNyemFsQWQyWFJJdDQtN00zdXRFc2xXeXJiZDNKVmUzcG9kczdqRmdKYWRDZFpYZXFzVGlleU44dlZzTjdNNjYxc0xiZVFjVTJaMFUwQTBJQ0JPUmJuaTgwbHdUd3lkSmJPVE02eUlMY1ZoYmNFTW9EaXc1dEltVDNfSGx0eThuc0FBNmhZOThLaU5TaF9CYVgtMDd6QWxjdGFYMS1kOEpldjZsUWVPcWNraTljSFh4UG9KWQ?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 12"
+ "last_post_hour": "2026-11-28 13"
 }
