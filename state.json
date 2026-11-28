@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795234240.3444993,
-   "title": "Бассам Тарик рассказал о причинах ухода из «Блейда» Marvel",
-   "rubric": "Индустрия",
-   "urls": [
-    "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/",
-    "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795237692.1239839,
    "title": "Сэмюэл Л. Джексон в трейлере спин-оффа «Короля Талсы»",
    "rubric": "Трейлер",
@@ -1423,7 +1413,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg"
+  },
+  {
+   "ts": 1795839546.4794543,
+   "title": "Дэнни Бойл хочет видеть Джека О’Коннелла злодеем в «Бондиане»",
+   "rubric": "Кастинг",
+   "urls": [
+    "https://collider.com/james-bond-villain-jack-oconnell-endorsement-danny-boyle/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/h632/nctU4J8TwlX6vrPuxnL8epmDjWW.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 06"
+ "last_post_hour": "2026-11-28 07"
 }
