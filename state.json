@@ -1,18 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795241285.4905288,
-   "title": "Сериал «Медленные лошади» продлили сразу до 10-го сезона",
-   "rubric": "Сериалы",
-   "urls": [
-    "https://collider.com/slow-horses-apple-tv-renewed-season-9-10/"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
-   ]
-  },
-  {
    "ts": 1795244850.4970791,
    "title": "Вселенная «Джона Уика» получит масштабную видеоигру",
    "rubric": "Индустрия",
@@ -1424,7 +1412,17 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/gQvnOr5S9isMrrV97RtxXZlresC.jpg"
+  },
+  {
+   "ts": 1795846658.8590188,
+   "title": "Дэвид Финчер намекнул на возможное завершение карьеры",
+   "rubric": "Индустрия",
+   "urls": [
+    "https://www.film.ru/news/fincher-o-zavershenii-karery"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 08"
+ "last_post_hour": "2026-11-28 09"
 }
