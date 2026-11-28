@@ -1,21 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795230677.2031038,
-   "title": "Байопик «Майкл» про Майкла Джексона не будет бороться за BAFTA 2027 года",
-   "rubric": "Премии",
-   "urls": [
-    "https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVV6Rnp0emIxRmJ4Yk5Fc1FjRHp1NDlWMXl2bW9MWkFvVmVZNUs4UVRvNFk2ZFpMMUE2eVlOYms4cmhtUkl6VVZGWGswSnJJaHNTeTdYcjJpaFhFV2h5T2tmZm5oNnNlejFDU1o3Vkk3d2tQOUZxblNGdVdENmw5U1hPMU9rRWpDN2J6WHNwMFJaREJSS1ZrcXRyVlBpOGE2RXFrUWhR?oc=5"
-   ],
-   "image": "tmdb",
-   "blocked_images": [
-    "https://image.tmdb.org/t/p/h632/A8pgt5mUtzN3gUnYxBkNgMhNLfr.jpg",
-    "https://image.tmdb.org/t/p/w1280/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-    "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
-   ]
-  },
-  {
    "ts": 1795234240.3444993,
    "title": "Бассам Тарик рассказал о причинах ухода из «Блейда» Marvel",
    "rubric": "Индустрия",
@@ -1427,7 +1412,18 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg"
+  },
+  {
+   "ts": 1795835613.256198,
+   "title": "Питер Берг получил от Уилла Смита сценарий «Хэнкока 2»",
+   "rubric": "Слухи",
+   "urls": [
+    "https://www.film.ru/news/potencialnyy-sikvel-henkoka",
+    "https://www.kinonews.ru/news_144368/"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 01"
+ "last_post_hour": "2026-11-28 06"
 }
