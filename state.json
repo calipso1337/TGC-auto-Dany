@@ -1,16 +1,6 @@
 {
  "posts": [
   {
-   "ts": 1795248657.5506487,
-   "title": "Принц Гарри оценил кастинг Роберта Паттинсона в бондиану",
-   "rubric": "Кастинг",
-   "urls": [
-    "https://www.film.ru/news/princ-garri-o-novom-bonde",
-    "https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/"
-   ],
-   "image": "tmdb"
-  },
-  {
    "ts": 1795252376.4818985,
    "title": "Луи Гаррель сыграет в фильме «Летчик» Бена Стиллера",
    "rubric": "Кастинг",
@@ -1419,7 +1409,19 @@
    ],
    "image": "tmdb",
    "image_url": "https://image.tmdb.org/t/p/w780/aFo96ioew4UcxCgSSb8ARctchZT.jpg"
+  },
+  {
+   "ts": 1795854845.4064074,
+   "title": "«Мстители: Судный день» могут собрать $1 млрд на старте",
+   "rubric": "Касса",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1JIakR4M2JFaGNjamFNSThrOTNsVnNqVG1nZjJMdXJLZk93aUxBa2ZGQVFsR09uMG9yMmxIenBqNXpBZG1rX2NRQkp6UnZDdmR0VE1TcE1vcFZPN3psRFlTeEcwMHIyVlJZVXUwQkhHaVFkd3hwOTlmV0J5ZVgzdy1sVl9zemhIMU1jblhYUUhlWlBrT1N4RFZ5Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMisANBVV95cUxQdVBqN1o1UnRTajdZeUsxcnBuaTZCeVRBQ2dIM3BjYzdURG55aTd4UUNDNy1jOGlIY241cDR3dkdLQjBlNUFuTEFpZWEwZHJUNm5hUjh2eDdsRU02bVl6V0ZpdDNWZmVONkZncHJlX3FaTXZRSVdkZThhOWppLVZaRGsxZHpSakJnVlRwSkxxNmUzVC1fWU5XN05FSEZZZGJaNDVua2w3ZVBVQ2QzUmtIeFp4V1A2ZXlpZV91TkdiMmhyaVpsYVE3N0o0OVZQampDUWNoVl96YUV6d2pjR2dkRGNCVTllOHo0dVJNRXJPRjAtVkFnT3RKNHRYMUN1dDktMmFlYnRwcEZsYWhJV24xNU5sOWJTdFc1eWQ4eG15VTFwcE5sUGlEUjVKVHczcDhOUjJuemZWUzJsOVNEaFlET1BMdi1INms2VVdIZmRWOWV6R0xtUWVwM3QxRUtwSmdLcUtEQWF4Rm8yUllEX0lMYk1pdGg3MHVNRlRxTmV1dHRNbU5CRFU2aTlKNUlfMzhxYXBfbmNaaEN1NFdydzZPN3phSm00b0w5VFJqU3YyUjfSAbYDQVVfeXFMUGxzX09OZ1dxNHdmUFBlZzFaNDViVlZLMFc2QmpMa1FmNkRmcTRyVEplbWpyUDJvdlpROHdQNHBwcWZDWFJrLTgyTVkzY0xDQ3daVWZJSjBqVGZOSDczZW1OeE5iNGFNOWdWNmlJNG4td0RhRmVJelhXRHhXVU5lWWlrZlNkdUhJcExnM3RfcUxfbi1Wa1JySHlsOVFqQWhsU05EeGk4cFVFamZSd1dEanllVnNfN0lON2p6UHd0WHZJQUNzTmVMaVFDVC12a2xiS2hVRWpDNW5PWmlqU0tRdHRHcDU1SmhfZ0FValVld1lCeWEyZDcxS1U2WHpfUGRlbmhDNlNTTWNWWTRpUXlLWVBOM0xka0RQZWxtUW5fZVlMYk1mYWRVdnMycnBGXzJLMGhDeFV6b0J0bUNnYVJjelJhR3ptbWRQd2JtcXFGRDJoMm5XSzJ1bHJwX3QtdUhtVF9XWXZuNlN0Vl9pZnZCTGJwSFNDV21iRU54Z1RYRnFOY2RKYjB5cVBYZVZ2aEJEWDVSbG9CUEVwWnhYMHNndTBzTXpxT2YxZ1E3TG9OQzM0eGFKSmV3?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEstakZiSHRqQU5YSnIxaGJvNG5Gck5OcWtCanBlWjNyR25rZWFsSzdaVy0wZ0ZnNExrWXVJN25wZ2JueFhLUzVoVmpERm1sWW10dnVHaTdyMHRfZDd4ZjhodTNfZ1haUmY1em9zeEtieWZocGlvRGRLMS1sdGE5Wk5GSmV1ZFl2d1ZBUDNfM1hOOW5rMHRFY255QTk0QXdJQmo2Nk5lanV2UmdDalN2cTln0gG3AUFVX3lxTFBtYUFxWEY5dDg3RWtQR1JKZFNzUGlqNE0yVU03eDNIUnVxenBybnBHcG1rT1RNRGhpcnZicHF0QTk0Rm4tYm1KWmx4ZkZOZmdqcTBORTM3aUYxM01UdlctSkZVZlRUUVZTU3pKSmZSRkVGVTNOaDM0Q29WNFhkdGF4ZVhXcTZuUF9JLXdfYU13Y0ppODF4SWZQR2p4cG5UandsdVNyd0FDcVItaUJMMzNkVm1Oa1M3bw?oc=5"
+   ],
+   "image": "tmdb",
+   "image_url": "https://image.tmdb.org/t/p/w1280/6TgmIXoVGEDyp0MSoVytIeyfhDR.jpg"
   }
  ],
- "last_post_hour": "2026-11-28 10"
+ "last_post_hour": "2026-11-28 11"
 }
